@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "base_url": "https://luuspoo-create.github.io/pausenbrot-material",
+  "pages": [
+    {
+      "keyword": "FEHLERMUSTER",
+      "title": "Von Fehlermustern zur nächsten Lektion",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/fehlermuster/",
+      "sha256": "96dd5bc5ce4b523b303ff1e3558699085a1bcf4ffbda9a9ce4e1f36c6f11ff7d"
+    },
+    {
+      "keyword": "DUELL",
+      "title": "Das Fermi-Duell",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/duell/",
+      "sha256": "93f6f12e6cf33c3d81fea1fbc29fcb76ccbad2c64a0c6ddc3609335191ba5545"
+    },
+    {
+      "keyword": "FLOP",
+      "title": "Drei Voraussetzungen für KI-Methoden",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/flop/",
+      "sha256": "f6cdefc114459fd4a154a4b4a15a9f6c0b9a53a41e6e75447b60b291a4e4b452"
+    },
+    {
+      "keyword": "JAGD",
+      "title": "Hallucination Hunt",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/jagd/",
+      "sha256": "3c9b456ba262bf4bf0c23885cc82a09ca9db601d4e3842792cd738d31f16010d"
+    },
+    {
+      "keyword": "UMBAU",
+      "title": "Hausaufgaben neu denken",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/umbau/",
+      "sha256": "089a2dc035a7d2a479690577e7e160a1247e23ec478d05e853da4061cd71d4f2"
+    },
+    {
+      "keyword": "KORREKTUR",
+      "title": "KI-Korrektur: Fragen für die Fachschaft",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/korrektur/",
+      "sha256": "640d97dc4a4d50f4399c7218a5e6d59e4f988b8ffc6464c43163d91b5ad38dba"
+    },
+    {
+      "keyword": "LEISTUNG",
+      "title": "KI als Tutor: Was die Studie zeigt",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/leistung/",
+      "sha256": "56f690ac4b6583f2607b23c5b48a861d7bbdc68fc243284e3061b45f1ee0c735"
+    },
+    {
+      "keyword": "SATZ",
+      "title": "Erst nachfragen, dann loslegen",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/satz/",
+      "sha256": "e2323e57df047ce040a9d1e4886bc1ca208ab01de09f84506cabcd1cd0187114"
+    },
+    {
+      "keyword": "QUELLEN",
+      "title": "Source Forensics",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/quellen/",
+      "sha256": "40e07073d6f91b333ea42661a8cbe462c248f95be10b90d22b2a6dab3d1fca9f"
+    },
+    {
+      "keyword": "WIDERSPRUCH",
+      "title": "Wenn die KI dir immer recht gibt",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/widerspruch/",
+      "sha256": "02378a3673fe16510c59839b021ac3775352eb2ecbbe1b7987e76ac11a3d91aa"
+    },
+    {
+      "keyword": "TAFELBILD",
+      "title": "Vom Tafelbild zur nächsten Übung",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/tafelbild/",
+      "sha256": "b899aabec83775b758ccee2b709dc97096b50b12d665597e343708be065c2741"
+    },
+    {
+      "keyword": "UMFRAGE",
+      "title": "KI in deiner Klasse: Acht Fragen",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/umfrage/",
+      "sha256": "26c9b6ac58a82d0eae0165b1804f83f2136eba772b49fa60427997d16adbd75f"
+    }
+  ]
+}
