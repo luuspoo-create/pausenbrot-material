@@ -51,18 +51,6 @@
       "sha256": "089a2dc035a7d2a479690577e7e160a1247e23ec478d05e853da4061cd71d4f2"
     },
     {
-      "keyword": "DUELL",
-      "title": "Das Fermi-Duell",
-      "url": "https://luuspoo-create.github.io/pausenbrot-material/duell/",
-      "sha256": "93f6f12e6cf33c3d81fea1fbc29fcb76ccbad2c64a0c6ddc3609335191ba5545"
-    },
-    {
-      "keyword": "SATZ",
-      "title": "Erst nachfragen, dann loslegen",
-      "url": "https://luuspoo-create.github.io/pausenbrot-material/satz/",
-      "sha256": "e2323e57df047ce040a9d1e4886bc1ca208ab01de09f84506cabcd1cd0187114"
-    },
-    {
       "keyword": "FEHLERMUSTER",
       "title": "Von Fehlermustern zur nächsten Lektion",
       "url": "https://luuspoo-create.github.io/pausenbrot-material/fehlermuster/",
@@ -79,6 +67,72 @@
       "title": "Vom Sachtext zum Lernvideo",
       "url": "https://luuspoo-create.github.io/pausenbrot-material/lernvideo/",
       "sha256": "96febd4831255db3b827582f8b3f1787c86b91154445c6a9135a7ff001dd061d"
+    },
+    {
+      "keyword": "LERNBEGLEITUNG",
+      "title": "Gemeinsame KI-Lernbegleitung statt zehn Einzellösungen",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/lernbegleitung/",
+      "sha256": "a284cebe718a35d13c83e72fd417a20a9d311d0296f6d896220cf143b3f45595"
+    },
+    {
+      "keyword": "PRÜFUNG",
+      "title": "KI als Prüfungskandidat",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/pr%C3%BCfung/",
+      "sha256": "536487c27de32b44b5d22ce7299b675100329f36d5dd17f788476b5dc9cee7e5"
+    },
+    {
+      "keyword": "TRANSFORMATOR",
+      "title": "KI-Aufgaben-Transformator",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/transformator/",
+      "sha256": "fdb68fb4f776b03e09ec0f9da7ba19bb3b4fa2714200c36b798f4e0b2e5e4397"
+    },
+    {
+      "keyword": "ANLEITUNG",
+      "title": "KI-Nutzung Schweiz: Die Anleitung fehlt",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/anleitung/",
+      "sha256": "88b042859887bde3b8e40ecb63aac08f0f105202f7452c4497a6e84da94cb437"
+    },
+    {
+      "keyword": "PROZESS",
+      "title": "KI-Detektoren taugen nichts: Prozess statt Produkt",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/prozess/",
+      "sha256": "f89321b790943b20a43ce20cae1ddfc2ee5864e213536d4e225137e4c519d8a2"
+    },
+    {
+      "keyword": "VORLAGE",
+      "title": "Dein bester Prompt verdient eine Abkürzung",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/vorlage/",
+      "sha256": "bb756ada86e8f3057514649da3538585da81c93fc93a1817803e0bd18584a5d0"
+    },
+    {
+      "keyword": "DEKO",
+      "title": "Lernmaterial: weniger Deko, mehr Inhalt",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/deko/",
+      "sha256": "6a464c90381274142ff86b875b3d2e761ad3df230627580259aa2e7b0c534481"
+    },
+    {
+      "keyword": "LERNSPIEL",
+      "title": "Lernspiele mit KI: Wo steckt die Lernaufgabe?",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/lernspiel/",
+      "sha256": "41f43119475010e8ae5a22959c983dd495c86e0bccdeb1988cac640dbb4683e2"
+    },
+    {
+      "keyword": "PLANUNG",
+      "title": "Unterricht planen: Was ein KI-Plan übersieht",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/planung/",
+      "sha256": "e4a0e54b93b43eb1deef259996d8d6fd6b25c8d142d4f3e2ad263ba99efdb6c1"
+    },
+    {
+      "keyword": "DUELL",
+      "title": "Das Fermi-Duell",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/duell/",
+      "sha256": "93f6f12e6cf33c3d81fea1fbc29fcb76ccbad2c64a0c6ddc3609335191ba5545"
+    },
+    {
+      "keyword": "SATZ",
+      "title": "Erst nachfragen, dann loslegen",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/satz/",
+      "sha256": "e2323e57df047ce040a9d1e4886bc1ca208ab01de09f84506cabcd1cd0187114"
     }
   ]
 }
