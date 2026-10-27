@@ -123,6 +123,36 @@
       "sha256": "e4a0e54b93b43eb1deef259996d8d6fd6b25c8d142d4f3e2ad263ba99efdb6c1"
     },
     {
+      "keyword": "HILFE",
+      "title": "KI bei Hausaufgaben: unterstützen, ohne vorzusagen",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/hilfe/",
+      "sha256": "bbe4c420c728d92b300468d7948e27cfa4b0eb99810abc87ef8efecfee4b3b93"
+    },
+    {
+      "keyword": "NOTEN",
+      "title": "Österreich will Noten wegen KI neu denken",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/noten/",
+      "sha256": "013463795b21a49da1bba74599f8beebf497e232aeeb77a0f87b1366c83b3022"
+    },
+    {
+      "keyword": "ZUHÖREN",
+      "title": "Leise Ausgrenzung erkennen",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/zuh%C3%B6ren/",
+      "sha256": "8ad6b7ad0f35c86dd2ba02ede8cf4f6473d0ecbfd5dc761dc5bdfe339b8aff2b"
+    },
+    {
+      "keyword": "BASIS",
+      "title": "Das KI-Basis-Setup für Lehrpersonen: 5 Bausteine",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/basis/",
+      "sha256": "accc735fdc9d7ee9262f9f9fe45d7e3635f915ca5ea232d20ac17a9fba0c3633"
+    },
+    {
+      "keyword": "ANWEISUNG",
+      "title": "Die eine Anweisung, die jede Lehrperson speichern sollte",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/anweisung/",
+      "sha256": "2ed8d09178c21e8e44259f329894829251f34038120409aff3ed7d8605c2fdee"
+    },
+    {
       "keyword": "DUELL",
       "title": "Das Fermi-Duell",
       "url": "https://luuspoo-create.github.io/pausenbrot-material/duell/",
