@@ -27,12 +27,6 @@
       "sha256": "3c9b456ba262bf4bf0c23885cc82a09ca9db601d4e3842792cd738d31f16010d"
     },
     {
-      "keyword": "QUELLEN",
-      "title": "Source Forensics",
-      "url": "https://luuspoo-create.github.io/pausenbrot-material/quellen/",
-      "sha256": "40e07073d6f91b333ea42661a8cbe462c248f95be10b90d22b2a6dab3d1fca9f"
-    },
-    {
       "keyword": "LEISTUNG",
       "title": "KI als Tutor: Was die Studie zeigt",
       "url": "https://luuspoo-create.github.io/pausenbrot-material/leistung/",
@@ -163,6 +157,12 @@
       "title": "Erst nachfragen, dann loslegen",
       "url": "https://luuspoo-create.github.io/pausenbrot-material/satz/",
       "sha256": "e2323e57df047ce040a9d1e4886bc1ca208ab01de09f84506cabcd1cd0187114"
+    },
+    {
+      "keyword": "QUELLEN",
+      "title": "Source Forensics",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/quellen/",
+      "sha256": "74c7f1f1e93d5c298948c5de2a5ddb67d5bfb9ed85457c8a233b11f9ea74dd53"
     }
   ]
 }
