@@ -1,0 +1,30 @@
+Erst richtig lesen. Dann weiterarbeiten.
+
+### Vorher
+Fotografiere nur die Tafel: keine Gesichter, keine Namen von Lernenden im Bild. Nutze ein KI-Tool, das deine Schule freigegeben hat.
+
+### Der Prompt (Foto anhängen)
+«Auf dem Foto siehst du ein Tafelbild aus meinem Unterricht, [Fach], [Klasse/Stufe], Thema: [Thema].
+1. Schreib zuerst ab, was du auf dem Foto lesen kannst: alle Beschriftungen und wohin jeder Pfeil zeigt. Markiere mit [?], was du nicht sicher lesen kannst.
+2. Erstelle danach eine kurze Wiederholungsaufgabe für den Einstieg in die nächste Lektion (höchstens fünf Minuten), mit Lösung.
+3. Verwende nur, was auf dem Tafelbild steht. Ergänze keine neuen Inhalte.»
+
+### Prüffragen (Foto und Entwurf nebeneinander)
+☐ Stimmen die Beschriftungen? Wort für Wort mit der Tafel vergleichen.
+☐ Zeigen die Pfeile in die richtige Richtung? Jeden Pfeil einzeln prüfen.
+☐ Sind die Zusammenhänge korrekt, so wie wir sie im Unterricht erarbeitet haben?
+☐ Hat die KI etwas dazuerfunden, das nicht an der Tafel stand?
+☐ Ist die Lösung richtig und in fünf Minuten machbar?
+Alles, was mit [?] markiert ist, korrigierst du selbst.
+
+### Warum Schritt 1 wichtig ist
+Handschrift, Pfeile und Skizzen sind für die KI schwer zu lesen. Wenn sie zuerst abschreiben muss, siehst du sofort, wo sie sich verlesen hat.
+
+### Das Tafelbild bleibt. Nur der Schwamm hat Pause. 🧽
+
+Auf der Tafel führt ein Pfeil von Verdunstung zu Wasserdampf. Liest die KI ihn in umgekehrter Richtung, kann die anschliessende Aufgabe einen falschen Zusammenhang übernehmen. Du korrigierst zuerst die Abschrift und lässt erst danach eine Übung entwerfen.
+
+Vor dem Einsatz
+Sind alle Beschriftungen richtig gelesen?
+Stimmen Richtung und Bedeutung der Pfeile?
+Bleibt die Übung beim tatsächlich erarbeiteten Inhalt?

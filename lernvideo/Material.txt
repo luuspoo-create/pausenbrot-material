@@ -1,0 +1,29 @@
+Ein Video ist der Anfang. Verstehen folgt danach.
+
+### Anleitung (Gemini Notebook)
+1. Neues Notebook anlegen und deinen eigenen, kurzen Sachtext als Quelle hochladen. Nur Material verwenden, das du nutzen darfst, und keine Daten von Lernenden.
+2. Im Studio «Video-Übersicht» wählen, Format «Explainer».
+3. Einen Stil wählen, zum Beispiel Retro Print. Es gibt auch Whiteboard, Aquarell, Papier-Bastelei und weitere. Die Stilauswahl gibt es laut Google nur für Nutzerinnen und Nutzer ab 18 und nicht für die Formate «Cinematic» und «Short».
+4. Geduld: Die Erstellung kann über 30 Minuten dauern. Du kannst in der Zeit weiterarbeiten.
+5. Mit einem Schul-Konto (Workspace for Education) ist das Teilen per öffentlichem Link deaktiviert. Zeig das Video darum direkt im Unterricht.
+
+### Vor dem Einsatz: selbst ansehen
+Stimme und Bilder sind KI-generiert und können Fehler enthalten. Prüfe:
+☐ Stimmen die Fachbegriffe und werden sie richtig ausgesprochen?
+☐ Passen die Bilder zum Inhalt, oder zeigen sie etwas Falsches?
+☐ Ist die Erklärung korrekt und vollständig, gemessen an deinem Text?
+Wenn etwas nicht stimmt: Text anpassen und neu erstellen, oder die Stelle im Unterricht bewusst korrigieren lassen.
+
+### Drei Verständnisfragen als Vorlage
+1. Erkläre in eigenen Worten: Warum [zentraler Vorgang aus dem Video]?
+2. Was würde passieren, wenn [ein Schritt oder Faktor] wegfällt? Begründe.
+3. Finde eine Stelle im Video, die du anders erklären würdest, und sag, warum.
+
+Ein schönes Video heisst noch nicht, dass etwas hängen bleibt. Der Einstieg wird neu, das Prüfen bleibt bei dir. 📺
+
+Nach einer Erklärung des Wasserkreislaufs lautet die Frage: «Was würde sich verändern, wenn deutlich weniger Wasser verdunstet?» Die Klasse begründet mit einem Zusammenhang aus dem geprüften Ausgangstext. Ein schönes Bild allein zählt nicht als Erklärung.
+
+Vor dem Einsatz
+Stimmen Bild, Sprache und Fachinhalt überein?
+Verlangt die Frage eine Erklärung oder Übertragung?
+Können Lernende mit dem Ausgangstext nachprüfen?

@@ -1,0 +1,31 @@
+Die Überarbeitung zeigt den Denkweg.
+
+### Die drei Nachfragen (2 bis 3 Minuten pro Person, bei allen, als Routine)
+1. Warum hast du diesen Einstieg gewählt?
+2. Was hast du gestrichen oder geändert, und warum?
+3. Erkläre diesen Satz (Lehrperson zeigt auf eine Stelle) in eigenen Worten.
+Wichtig: Das Gespräch ist kein Verhör und kein Beweis. Es zeigt, wie gut jemand den eigenen Text versteht, und ist für alle gleich.
+
+### Vorlage Prozess-Portfolio (pro Schreibauftrag)
+1. Ideen und Notizen: Stichworte, Mindmap, Quellen (Datum)
+2. Erster Entwurf (Datum)
+3. Feedback: von wem? (Mitschüler:in, Lehrperson, KI-Tool, falls erlaubt)
+4. Überarbeitung: Was habe ich geändert, und warum? (2 bis 3 Sätze)
+5. KI-Deklaration: Habe ich KI genutzt? Wofür genau? Was habe ich übernommen, was verworfen?
+6. Endfassung
+7. Reflexion: Was war schwierig? Was kann ich jetzt besser?
+
+Bewerte nicht nur die Endfassung, sondern auch Schritt 4, 5 und 7.
+
+### Die Quellen zu den Detektoren
+- Weber-Wulff et al. (2023): Testing of detection tools for AI-generated text. International Journal for Educational Integrity. 14 Tools getestet, Fazit: weder genau noch zuverlässig.
+- Liang et al. (2023): GPT detectors are biased against non-native English writers. Patterns. Aufsätze von Nicht-Muttersprachlern wurden besonders oft fälschlich als KI markiert.
+
+### Nicht detektieren. Nachfragen. 🔍
+
+Eine Schülerin ersetzt «Alle Jugendlichen nutzen KI» durch eine engere Aussage, die ihre Quelle tatsächlich stützt. Im Portfolio hält sie den ursprünglichen Satz, die Änderung und die Begründung fest. Die Nachfrage bezieht sich auf diese Entscheidung, nicht auf einen Verdacht.
+
+Vor dem Einsatz
+Zeigt der Beleg eine konkrete Entscheidung?
+Kann die Person die Änderung erklären?
+Behandle ich das Gespräch als Lernnachweis und nicht als KI-Detektor?

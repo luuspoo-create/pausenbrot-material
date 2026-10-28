@@ -1,0 +1,27 @@
+Ein Plan wird erst durch deine Klasse konkret.
+
+1. Passt das Lernziel zu dem, was die Klasse schon kann?
+☐ Welche Voraussetzungen braucht das Lernziel?
+☐ Haben alle diese Voraussetzungen? Wenn nicht: kurzer Einstieg zum Auffrischen einplanen.
+
+2. Wo steigen die Lernenden aus, die noch Mühe haben?
+☐ An welcher Stelle im Plan wird es für sie zu schnell oder zu abstrakt?
+☐ Welche Hilfe gibt es dort (Beispiel, Hilfekarte, Partnerarbeit, Zwischenschritt)?
+☐ Was machen die Schnellen in dieser Zeit?
+
+3. Woran erkenne ich am Ende, ob das Ziel erreicht ist?
+☐ Gibt es eine Überprüfung, die genau zum Lernziel passt (z. B. Exit-Ticket mit 2 bis 3 Fragen)?
+☐ Was mache ich in der nächsten Lektion mit dem Ergebnis?
+
+### Prompt zum Nachschärfen
+«Hier ist dein Lektionsplan. Meine Klasse: [Stufe, Vorwissen, was noch nicht sitzt, ohne Namen]. Prüfe den Plan mit diesen drei Fragen: (1) Passt das Lernziel zum Vorwissen? (2) Wo könnten Lernende mit Mühe aussteigen, und welche Hilfe schlägst du dort vor? (3) Woran erkenne ich am Ende, ob das Ziel erreicht ist? Schlag konkrete Änderungen vor.»
+Die Entscheidung, was du übernimmst, bleibt bei dir. Keine Daten von Lernenden eingeben.
+
+Die KI kennt typische Pläne. Deine Klasse kennst nur du. 📋
+
+Ein KI-Plan führt direkt zur Addition ungleichnamiger Brüche. Deine Diagnose zeigt, dass das Erweitern noch unsicher ist. Du ergänzt eine kurze Arbeit mit Bruchstreifen und prüfst am Ende mit einer neuen Aufgabe, ob gleich grosse Teile hergestellt werden können.
+
+Vor dem Einsatz
+Sind die nötigen Voraussetzungen tatsächlich vorhanden?
+Ist die Hilfe an der schwierigen Stelle verfügbar?
+Verändert das Ergebnis des Exit-Tickets die nächste Lektion?

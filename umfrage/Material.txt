@@ -1,0 +1,29 @@
+Fragen stellen, ohne Vertrauen zu verlieren.
+
+1. Hast du ChatGPT, Claude, Gemini oder eine andere KI schon genutzt?
+2. Wie oft pro Woche?
+3. Wofür nutzt du KI? (Mehrfachauswahl: Hausaufgaben · Recherchieren für Vorträge · Vokabeln und Sprachen · Bewerbungsbriefe formulieren · mit Freunden chatten · Bilder generieren)
+4. Hast du je etwas abgeschrieben und als deine Arbeit abgegeben?
+5. Würdest du es einer Lehrperson sagen, wenn du KI nutzt?
+6. Was machst du mit KI, das deine Eltern nicht wissen? (Freitext)
+7. Wann fühlst du dich KI-müde? (Freitext)
+8. Was sollten Lehrpersonen über deine KI-Nutzung wissen? (Freitext)
+
+So hat es bei mir funktioniert:
+- Für die ursprüngliche Umfrage wurde LimeSurvey genutzt. Anonymität hängt bei jedem Werkzeug von Einstellungen, Protokollierung, Zugriffsrechten und den Fragen ab. Prüfe die konkrete schulisch freigegebene Konfiguration; der Produktname allein garantiert nichts.
+- Vorher im Klassenrat besprochen und gemeinsam beschlossen.
+- Die Eltern vorab informiert.
+- Rechne mit persönlichen Antworten. KI ist keine Vertrauensperson und keine Schulsozialarbeit. Überleg dir vorher, wie du mit einer heiklen Antwort umgehst.
+
+Danach würde ich eine Klassenstunde «KI und ich» machen: keine Bewertung, keine Predigt, einfach reden.
+
+Den ganzen Beitrag mit allen Ergebnissen findest du auf digitalespausenbrot.ch
+
+### Viel Mut beim Fragen! 🙌
+
+Nach einer Umfrage interessiert euch, wann KI beim Lernen unterstützt und wann sie zum blossen Übernehmen verleitet. Ihr besprecht zusammengefasste Muster. Seltene Freitextdetails werden nicht vorgelesen, wenn dadurch einzelne Personen erkennbar werden könnten.
+
+Vor dem Einsatz
+Sind einzelne Fragen freiwillig überspringbar?
+Sind technische Einstellungen und Auswertung auf Anonymität geprüft?
+Gibt es einen separaten, persönlichen Weg für Unterstützungsbedarf?

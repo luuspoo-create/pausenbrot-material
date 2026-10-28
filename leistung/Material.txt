@@ -1,0 +1,22 @@
+Beim Üben geholfen. Auch etwas gelernt?
+
+Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kabakcı und Rei Mariman: «Generative AI without guardrails can harm learning: Evidence from high school mathematics», PNAS, 2025.
+Kurz erklärt (Wharton): https://knowledge.wharton.upenn.edu/article/without-guardrails-generative-ai-can-harm-education
+
+Das Wichtigste:
+- Fast 1’000 Mathe-Lernende in der Türkei, drei Gruppen: ohne KI, normales ChatGPT, KI-Tutor mit Hinweisen statt Lösungen.
+- Beim Üben: ChatGPT +48 %, Tutor +127 % (gegenüber der Gruppe ohne KI).
+- Prüfung ohne KI: ChatGPT-Gruppe 17 % schlechter, Tutor-Gruppe etwa gleich wie ohne KI.
+- Grenzen: eine Schule, ein Fach, kurze Dauer.
+
+Drei Regeln für KI als Tutor (meine Ableitung aus dem Tutor-Design der Studie und meinem Unterricht):
+1. Hinweise statt Lösungen. Gib der KI die klare Anweisung, keine fertigen Antworten zu liefern, sondern Schritt für Schritt nachzufragen.
+2. Die Lehrperson gibt den Rahmen vor. Im Tutor der Studie steckten Lehrpersonen-Inputs wie Lösungswege und typische Fehler. Gib der KI deine Musterlösung mit, damit sie gezielt helfen kann.
+3. Das Können ohne KI prüfen. Plane immer einen kurzen Transfer ohne KI ein, zum Beispiel eine ähnliche Aufgabe in der nächsten Lektion. Erst dort zeigt sich, ob gelernt wurde.
+
+Nach einer Aufgabe mit Hilfestellungen folgt eine ähnlich aufgebaute Aufgabe mit anderen Zahlen, ohne Chatbot. Verglichen werden Denkweg und Begründung. Eine richtige Antwort während der KI-Nutzung wird damit nicht automatisch als selbstständiges Können gewertet.
+
+Vor dem Einsatz
+Gibt die Hilfe Denkanstösse statt vollständiger Lösungen?
+Prüft der Transfer dieselbe Kompetenz?
+Trenne ich unterstützte Leistung und selbstständiges Können?

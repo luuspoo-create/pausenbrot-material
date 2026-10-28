@@ -1,0 +1,31 @@
+Ein Muster ist zuerst eine Vermutung.
+
+### Vorher: Datenschutz
+Zum Ausprobieren erfundene Lösungen verwenden. Echte Arbeiten nur anonymisiert (keine Namen, keine Klasse, keine Unterschrift) und nur mit einem Tool, das deine Schule freigegeben hat.
+
+### Der Prompt (Aufgabe und Fotos/Scans dazugeben)
+«Du unterstützt mich bei der Unterrichtsplanung. Hier sind drei fehlerhafte Lösungen zur folgenden Aufgabe: [Aufgabe einfügen]. Welche gemeinsamen Fehlermuster siehst du? Nenne zu jedem Muster:
+1. eine kurze Bezeichnung,
+2. die genaue Stelle in jeder Lösung, an der es vorkommt (Lösung und Zeile),
+3. den vermuteten Denkfehler dahinter, in einem Satz.
+Wenn du eine Stelle nicht sicher lesen kannst, schreib das dazu, statt zu raten. Bewerte und benote nichts.»
+
+### Prüf-Checkliste (jede Zuordnung am Original)
+☐ Steht an der genannten Stelle wirklich das, was die KI zitiert? (Handschrift wird oft verlesen.)
+☐ Ist es ein Denkfehler oder nur ein Abschreib- oder Flüchtigkeitsfehler?
+☐ Kommt das Muster in mindestens zwei Lösungen vor, oder hat die KI es aus einem Einzelfall gemacht?
+☐ Passt der vermutete Denkfehler zu dem, was wir im Unterricht behandelt haben?
+☐ Fehlt ein Muster, das ich selbst sehe?
+Streiche alles, was den Test nicht besteht.
+
+### Danach: Anschlussaufgabe
+Wähle ein Muster, das übrig bleibt, und bitte die KI um eine kurze Aufgabe genau für diesen Denkfehler, mit Lösung. Prüfe sie selbst und setze sie in der nächsten Lektion als Einstieg ein.
+
+Es geht nicht ums Benoten, sondern ums Planen. Die KI sortiert, du entscheidest.
+
+In zwei erfundenen Lösungen steht 1/2 + 1/3 = 2/5. Das legt nahe, dass Zähler und Nenner getrennt addiert wurden. Sicher ist zunächst nur die sichtbare Rechnung. Eine Nachfrage mit einer Bruchskizze hilft zu klären, wie der Fehler entstanden ist.
+
+Vor dem Einsatz
+Ist die zitierte Stelle richtig gelesen?
+Unterscheide ich Beobachtung und vermuteten Denkweg?
+Prüft die Anschlussaufgabe genau diese Vermutung?

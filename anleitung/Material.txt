@@ -1,0 +1,22 @@
+KI-Nutzung braucht Begleitung.
+
+### Die Studie
+SKBF Staff Paper 28: Monitoring der Digitalisierung aus Sicht der Schülerinnen und Schüler, 5. Erhebung (Frühling 2026). National repräsentativ, rund 5500 Befragte zwischen 8 und 18 Jahren.
+https://www.skbf-csre.ch/fileadmin/files/pdf/staffpaper/Staffpaper_28_d.pdf
+Die wichtigsten Zahlen:
+- Generative KI im Unterricht oder zuhause für die Schule: rund 85 % auf der Sek I, über 90 % in Gymnasium/FMS und Berufsbildung, rund 30 % auf der Primarstufe.
+- Häufige Nutzung im Unterricht: 45 % aus eigener Initiative, 22 % auf Aufforderung der Lehrperson, 18 % unter Anleitung der Lehrperson.
+
+### Drei Ideen für den Einstieg
+1. Die Wochenaufgabe (10 Minuten): Einmal pro Woche eine KI-Antwort zum aktuellen Thema projizieren. Die Klasse markiert, was stimmt, was fehlt und was sie mit dem Lehrmittel belegen kann.
+2. Laut denken: Du zeigst selbst, wie du eine KI fragst, nachhakst und eine Aussage überprüfst. Die Lernenden schreiben mit, welche Prüfschritte du machst.
+3. Die Spielregel klären: Gemeinsam festhalten, wofür KI in deinem Fach erlaubt ist (z. B. Ideen sammeln, Feedback holen) und wofür nicht. Nutze dafür nur Tools, die deine Schule freigegeben hat.
+
+Die KI ist schon im Klassenzimmer. Die Frage ist, wer sie anleitet. 📊
+
+Du zeigst zwei Sätze einer KI-Erklärung. Bei einem findest du im Lehrmittel einen Beleg, beim anderen nicht. Du sprichst aus, wie du suchst, und lässt den zweiten Satz ausdrücklich offen. Danach prüft die Klasse eine weitere Aussage auf demselben Weg.
+
+Vor dem Einsatz
+Habe ich meine Prüfschritte erklärt?
+Gibt es eine zugängliche Grundlage zum Abgleichen?
+Können Lernende den Schritt anschliessend selbst ausführen?

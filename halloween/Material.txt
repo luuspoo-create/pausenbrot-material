@@ -1,0 +1,31 @@
+Die Geschichte trägt. Die Aufgabe zählt.
+
+### 🕯️ STORY (2–3 Sätze, lässt du von der KI schreiben)
+Im Schulhaus spukt es. Die Tür zum Ausgang hat ein Zahlenschloss mit drei Ziffern. Nur wer alle Rätsel löst, kommt raus.
+
+### 🔐 AUFBAU
+- 3 Rätsel = 3 Ziffern (Code z. B. 3 – _ – _)
+- Jede Ziffer steckt in einer Fachaufgabe. Raten bringt nichts.
+- Dauer: rund 20 Minuten, in Gruppen zu 3–4
+
+### 🧩 RÄTSELKARTE (pro Rätsel ausfüllen)
+- Fach und Lernziel:
+- Aufgabe:
+- Lösung = Ziffer:
+- Hinweis, falls eine Gruppe feststeckt:
+
+Beispiel Mathe: In einer Kiste liegen 24 Kürbisse. Ein Achtel davon ist faul. Wie viele sind faul? → 3
+
+### 🤖 PROMPT FÜR DIE STORY
+«Schreibe eine kurze, gruselige, aber kindgerechte Einstiegsgeschichte für einen Escape-Room in der [Klasse]. Ort: unser Schulhaus. Ziel: ein Zahlenschloss mit drei Ziffern öffnen. Höchstens 80 Wörter.»
+
+✅ Die Fachaufgaben und Lösungen prüfst du selbst. Die KI liefert die Stimmung, nicht die Mathematik.
+
+### Gruseln und verstehen. 👻
+
+Die Aufgabe «Ein Achtel von 24 Kürbissen ist verdorben» liefert die Ziffer 3. Bevor die Gruppe den Code eingibt, erklärt sie, warum sie durch acht teilt. Wer nur eine Ziffer geraten hat, hat damit den fachlichen Schritt noch nicht gezeigt.
+
+Vor dem Einsatz
+Ist die Lösung eindeutig und selbst geprüft?
+Muss die Gruppe ihren Denkweg sichtbar machen?
+Gibt es einen Hinweis, der unterstützt, ohne den Code zu verraten?

@@ -1,0 +1,32 @@
+Erst prüfen. Dann hochladen.
+
+### 🟢 GRÜN: darf rein
+- eigene Arbeitsblätter, Präsentationen, Unterrichtsplanung (ohne Namen)
+- öffentliche Texte, Lehrplan, frei lizenziertes Material
+- allgemeine Fragen zu Didaktik und Fachinhalten
+
+### 🟡 GELB: nur anonymisiert und nur im freigegebenen Tool
+- erfundene oder anonymisierte Schülerlösungen
+- Texte, aus denen Namen, Klasse und andere Hinweise entfernt sind
+- Vorsicht: Auch Handschrift, seltene Details oder Fotos können eine Person erkennbar machen.
+
+### 🔴 ROT: bleibt draussen
+- Namen, Noten, Zeugnisse, Berichte
+- Fotos, Videos, Tonaufnahmen von Lernenden
+- Gesundheits-, Familien- oder Förderinformationen
+
+Im Zweifel: anonymisieren oder weglassen.
+
+### Was die Kantone sagen (Beispiele)
+- Thurgau (Faktenblatt für Lehrpersonen): nur öffentliche und allgemeine Informationen eingeben, personenbezogene Daten vermeiden.
+- Schwyz (Merkblatt): keine persönlichen Daten oder sensiblen Informationen in KI-Anwendungen eingeben.
+Die Regeln deines Kantons und deiner Schule gehen vor. Schau nach, welche Tools bei dir freigegeben sind.
+
+### Erst die Ampel, dann der Prompt. 🚦
+
+Ein Arbeitsblatt enthält keine Namen, aber im Rand steht eine handschriftliche Rückmeldung zu einem einzelnen Kind. Für den KI-Test verwendest du stattdessen eine selbst geschriebene, fiktive Antwort. Namen entfernen allein genügt nicht als Prüfung.
+
+Vor dem Einsatz
+Sind Personen auch indirekt erkennbar?
+Ist genau diese Nutzung schulisch freigegeben?
+Kann ich die Aufgabe mit erfundenen Daten lösen?

@@ -1,0 +1,36 @@
+Ein übersichtliches KI-Setup.
+
+1. Persönliche Anweisung (gilt für alle Chats)
+☐ Stufe, Fächer, Schulart
+☐ Sprache: Schweizer Rechtschreibung (ss statt ss)
+☐ Antwortstil: kurz, mit Beispiel, klare Struktur
+☐ Feste Regeln: keine Quellen erfinden, Unsicherheit nennen, keine Daten von Lernenden verarbeiten
+Wo? Claude: Profil-Einstellungen · ChatGPT: Personalisierung · Codex: globale AGENTS.md
+
+2. Ein Projekt pro Klasse oder Fach
+☐ Projekt-Anweisung: Stufe, Semesterziele, Niveau-Hinweise ohne Namen
+☐ Dateien: eigener Jahresplan, eigene Arbeitsblätter, frei lizenziertes Material
+Projekte gibt es in Claude und ChatGPT (je nach Abo).
+
+3. Skills für wiederkehrende Abläufe
+☐ Der dritte gleiche Prompt wird zum Skill (z. B. Exit-Ticket, Elternbrief, Differenzierung)
+☐ Ein Skill beschreibt das Wie: Aufbau, Sprache, Format, Beispiel
+Skills sind Ordner mit einer SKILL.md-Datei, z. B. in Claude und Codex.
+
+4. Verbindungen (Connectors)
+☐ Nur verbinden, was deine Schule freigegeben hat (z. B. Schul-Drive)
+☐ Im Zweifel Dateien gezielt hochladen statt alles zu verbinden
+
+5. Prüfroutine (jedes Mal)
+☐ Stimmt es fachlich?
+☐ Passt es zu meiner Klasse?
+☐ Sind keine Daten von Lernenden drin?
+
+Die Namen sind je nach Tool verschieden. Das Prinzip bleibt gleich. 🧱
+
+Du erstellst regelmässig Exit-Tickets. Zuerst hältst du Aufbau und Sprache in einer Vorlage fest. Erst wenn mehrere Themen gut funktionieren, ergänzt du ein Projekt mit eigenen Beispielen. Eine Verbindung zu weiteren Dateien ist dafür nicht automatisch nötig.
+
+Vor dem Einsatz
+Ist jede Datei für den Auftrag nötig?
+Kann ich erkennen, welche Vorgaben gerade gelten?
+Ist das Ergebnis auch ohne das Setup fachlich überprüfbar?

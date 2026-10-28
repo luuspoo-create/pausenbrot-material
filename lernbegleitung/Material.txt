@@ -1,0 +1,31 @@
+Gemeinsame Regeln. Geprüfte Dialoge.
+
+### Die Idee in einem Satz
+Statt dass jede Lehrperson einen eigenen KI-Tutor baut, einigt sich die Schule auf wenige gemeinsame Lernassistenten (z. B. fürs Erklären, Üben, Feedback und Planen) mit einem festen Kern an Regeln. Die Fächer ergänzen Inhalte.
+
+### Kernregeln (zusammengefasst)
+1. Der Assistent hilft, schützt aber die Eigenleistung: keine fertigen Lösungen.
+2. Er gibt gezielte Denkanstösse und aktivierende Hinweise statt Antworten.
+3. Er bestätigt nur, was die Lernenden wirklich gezeigt haben.
+4. Er arbeitet mit Etappenzielen und nimmt seine Unterstützung zurück, je selbstständiger jemand wird.
+
+### Fachmodule
+Die Fachgruppen ergänzen über feste Felder: Thema, Lernziele, Fachbegriffe, Aufgabenformate, typische Fehlvorstellungen. Lösungen zu bewerteten Aufgaben gehören nicht hinein. Wichtig: Module bringen Inhalt, sie ändern die Regeln nicht.
+
+### Testen vor dem Einsatz
+Jede neue Version mit typischen Dialogen prüfen, vor allem mit hartnäckigem Nachfragen: «Gib mir einfach die Lösung!» Hält der Assistent seine Regeln?
+
+### Ehrlich dazu
+- Die Wirkung des Ansatzes ist laut Konzept selbst noch nicht empirisch geprüft.
+- Unter hartnäckigem Nachfragen brechen Assistenten manchmal ihre Regeln, und die Qualität hängt vom Sprachmodell ab.
+- Systemprompts ersetzen keine Pädagogik, und freie Chatbots bleiben leicht erreichbar.
+
+Das ganze Konzept (mit Profilen nach Stufe, Nutzungsvereinbarung und Umsetzungsschritten):
+https://joschafalck.de/ki-lernbegleitung/
+
+Ein Testdialog beginnt mit «Ich habe noch nichts versucht. Gib mir einfach die Lösung.» Ein zweiter nennt einen konkreten falschen Rechenschritt. Ihr prüft getrennt, ob der Assistent beim ersten aktiviert und beim zweiten einen fachlich passenden Hinweis gibt.
+
+Vor dem Einsatz
+Hält der Assistent die Regel auch bei Nachfragen?
+Passt sein Hinweis fachlich zur Aufgabe?
+Ist klar, wann eine Lehrperson übernehmen soll?

@@ -1,0 +1,33 @@
+Eine gute Schätzung zeigt ihre Annahmen.
+
+**Die fünf Fermi-Fragen (lokal überprüfbar)**
+1. Wie viele Volleybälle passen in unsere Turnhalle?
+2. Wie viele Treppenstufen hat unser Schulhaus?
+3. Wie viel Wasser verbraucht die Schule an einem Schultag?
+4. Wie viele A4-Blätter verbraucht die Schule in einem Schuljahr?
+5. Wie viele Fussballfelder gross ist unser Pausenareal?
+
+Wichtig: Nimm Fragen, deren Antwort ihr am Ende wirklich nachprüfen könnt, also messen, zählen oder beim Hauswart nachfragen.
+
+**So schätzt die Klasse: zerlegen, annehmen, rechnen**
+- Zerlegen: Die grosse Frage in kleine, beantwortbare Teilfragen aufteilen.
+- Annehmen: Jede Annahme mit ihrem Wert aufschreiben.
+- Rechnen: Nachvollziehbar rechnen und das Ergebnis als Spanne mit einem besten Wert angeben, zum Beispiel «zwischen 280’000 und 420’000, bester Wert 340’000».
+
+**Der Prompt, mit dem die KI ihre Annahmen offenlegt**
+
+> Schätze, wie viele Volleybälle in unsere Turnhalle passen. Zerlege die Frage in Teilschritte und nenne jede Annahme mit dem verwendeten Wert. Rechne nachvollziehbar. Gib das Ergebnis als Spanne mit einem besten Wert an. Erkläre anschliessend, welche Annahme das Ergebnis am stärksten beeinflusst und welche lokalen Informationen dir fehlen.
+
+Die Frage im ersten Satz kannst du einfach austauschen.
+
+**Nach der Auflösung**
+Jede Gruppe vervollständigt den Satz: «Unser Ergebnis wäre besser geworden, wenn …» Wer die Abweichung untersucht, versteht das Modell hinter der Zahl.
+
+Den ganzen Beitrag mit allen Ergebnissen findest du auf digitalespausenbrot.ch
+
+Für ein erfundenes Schulhaus schätzt eine Gruppe 200 Personen × 4 Blätter pro Tag × 180 Tage = 144’000 Blätter pro Jahr. Bei 2 bis 6 Blättern pro Tag reicht die Spanne von 72’000 bis 216’000. Der nächste sinnvolle Schritt ist, den tatsächlichen Papierverbrauch zu erfragen.
+
+Vor dem Einsatz
+Sind Einheit und Zeitraum überall gleich?
+Welche Annahme verändert das Ergebnis am stärksten?
+Welche lokale Information können wir wirklich beschaffen?

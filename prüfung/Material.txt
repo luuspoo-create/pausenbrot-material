@@ -1,0 +1,33 @@
+Ein Raster muss auch für andere verständlich sein.
+
+### Der Ablauf
+1. Aufgabentypen klären: Multiple Choice, Lückentext, offene Frage, Zuordnung, Zeichnung beschriften. Was testet welche Aufgabe?
+2. Prüfung erstellen: Teams schreiben 5 bis 7 Aufgaben zu einem abgeschlossenen Thema. Mindestens drei Aufgabentypen, mindestens eine Aufgabe auf der Stufe «Anwenden» oder höher, und zu jeder Aufgabe ein Raster mit Punkten und Kriterien.
+3. KI antworten lassen: Die Prüfung geht an ein freigegebenes KI-Tool, mit der Anweisung, wie eine durchschnittliche Schülerin oder ein durchschnittlicher Schüler der Stufe zu antworten und realistische Fehler zu machen. Ohne diese Anweisung sind die Antworten oft zu perfekt.
+4. Tauschen und korrigieren: Jedes Team bewertet die KI-Antworten auf die Prüfung eines anderen Teams. Punkte vergeben, Kommentare schreiben, jeden Abzug begründen.
+5. Reflexion: Wo war das Raster unklar? Was würdet ihr an euren Aufgaben ändern?
+
+### Vorlage Bewertungsraster (pro Aufgabe)
+Aufgabe: …
+Erwartete Antwort (Stichworte): …
+Kriterium 1: Fachbegriff korrekt verwendet · __ P.
+Kriterium 2: Erklärung vollständig und richtig · __ P.
+Kriterium 3: Beispiel oder Begründung genannt · __ P.
+Teilpunkte gibt es, wenn: …
+Kein Punkt, wenn: …
+Total: __ P.
+
+### Leitfragen beim Korrigieren
+☐ Ist die Antwort inhaltlich richtig, auch wenn der Fachbegriff fehlt?
+☐ Was genau fehlt für die volle Punktzahl?
+☐ Würden zwei Teams für dieselbe Antwort gleich viele Punkte geben?
+
+Den ganzen Beitrag mit meinem Standard-Prompt und den Lerneffekten, die ich beobachte, findest du hier:
+https://luccaspohn.substack.com/p/ki-als-prufungskandidat
+
+Zwei Teams beurteilen dieselbe erfundene Erklärung. Team A vergibt einen Punkt für den richtigen Begriff, Team B verlangt zusätzlich den Zusammenhang. Beide präzisieren das Kriterium: «Begriff genannt» und «Zusammenhang erklärt» werden getrennt beschrieben.
+
+Vor dem Einsatz
+Ist für jeden Punkt sichtbar, wofür er vergeben wird?
+Sind Teilpunkte nachvollziehbar geregelt?
+Beurteilen zwei Teams dieselbe Antwort vergleichbar?

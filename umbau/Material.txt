@@ -1,0 +1,42 @@
+Das Denken bleibt die Aufgabe.
+
+### Der Umbau (Timer stellen)
+Minute 0–3: Das Produkt streichen. Satz ergänzen: «Nach der Aufgabe sollen die Lernenden zeigen können, dass sie …» Ein Verb des Denkens einsetzen: prüfen, vergleichen, ordnen, erklären, gewichten, entscheiden, übertragen, verteidigen. Höchstens zwei.
+Minute 3–6: Die Aufgabe wortwörtlich ins KI-Werkzeug eingeben. Was liefert es leicht, was muss geprüft werden, was fehlt ihm (Unterrichtsmaterial, lokale Daten, begründete Entscheidungen)? Keine Namen oder Schülerarbeiten hochladen.
+Minute 6–10: Arbeit tauschen, nicht stapeln. Für jeden neuen Schritt fällt ein alter weg. Rolle der KI klären und eine kurze Rückfrage oder einen Transfer ohne KI einplanen.
+
+### Beispiel 1 · Mathematik
+Vorher: «Ein Velohelm kostet 160 Franken und wird um 25 Prozent reduziert. Berechne den neuen Preis und erkläre deinen Lösungsweg.»
+Nachher: Drei Personen haben die Aufgabe gelöst, eine korrekt, zwei mit typischem Denkfehler.
+- Schätze ohne Taschenrechner: Liegt der neue Preis über, unter oder genau bei 120 Franken? Begründe.
+- Markiere bei jeder falschen Lösung die erste Zeile, an der der Gedanke kippt.
+- Erkläre den Fehler, ohne nur die richtige Rechnung hinzuschreiben.
+- Wähle den verständlichsten korrekten Lösungsweg und begründe deine Wahl.
+- Zu Beginn der nächsten Lektion ohne KI: Ein Rucksack kostet 180 Franken und wird um 15 Prozent reduziert.
+
+### Beispiel 2 · Geschichte
+Vorher: «Erkläre auf einer Seite, weshalb die Industrialisierung zuerst in Grossbritannien begann.»
+Nachher: Du erhältst eine KI-Erklärung dazu.
+- Markiere zwei Aussagen, die durch unsere Quellen A und B gut gestützt werden, und notiere den Beleg.
+- Markiere eine zu pauschale Aussage und formuliere sie so um, dass sie durch das Material gedeckt ist.
+- Lege vier Ursachen als Wirkungskette («führt zu», «ermöglicht», «verstärkt»).
+- Entscheide, welche Ursache am wichtigsten ist: zwei Belege, ein Einwand.
+- Im Unterricht: «Was würde sich an deinem Urteil ändern, wenn diese Ursache wegfiele?»
+
+### Beispiel 3 · Biologie
+Vorher: Merkblatt zu Bewegung, Atmung und Puls.
+Nachher: KI-Erklärung plus die Messkurve aus unserem Versuch.
+- Unterstreiche zwei Sätze, die den Anstieg der Kurve erklären.
+- Markiere den fehlenden Zwischenschritt zwischen Muskelarbeit und höherem Puls und ergänze ihn mit unserem Schema zur Zellatmung.
+- Sage voraus, wie sich die Kurve drei Minuten nach der Belastung verändert, und vergleiche mit dem nächsten Messpunkt.
+
+Vor dem Austeilen: Entfällt für jeden neuen Schritt ein alter Arbeitsteil? Funktioniert die Aufgabe auch mit einem bereitgestellten Text, ohne privates KI-Konto?
+
+### Den ganzen Beitrag findest du auf digitalespausenbrot.ch
+
+Aus «Schreibe eine Erklärung» wird «Vergleiche zwei Erklärungen anhand unserer Quelle. Wähle die genauere und belege deine Entscheidung an zwei Stellen.» Dafür entfällt der lange eigene Zusammenfassungstext. Eine kurze Nachfrage ohne KI prüft anschliessend das Verständnis.
+
+Vor dem Einsatz
+Ist die Denkhandlung klar benannt?
+Fällt für den neuen Schritt ein bisheriger weg?
+Ist der Lernnachweis ohne private KI-Zugänge möglich?

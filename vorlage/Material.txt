@@ -1,0 +1,26 @@
+Eine Vorlage, die auch beim zweiten Thema trägt.
+
+### Exit-Ticket-Anleitung
+«Du erstellst Exit-Tickets für meinen Unterricht. Ich nenne dir jeweils nur das Thema der heutigen Lektion. Halte dich immer an diese Vorgaben:
+1. Lernziel: Formuliere zuerst in einem Satz die Kernfrage der Lektion. Alle Fragen beziehen sich darauf.
+2. Aufbau: Genau drei Fragen, von leicht zu schwer: (1) Wissen abrufen, (2) erklären mit eigenen Worten, (3) anwenden auf ein neues Beispiel.
+3. Sprache: Kurze Sätze, keine Fremdwörter ohne Erklärung, passend für [Stufe/Klasse]. Bearbeitungszeit höchstens 5 Minuten.
+4. Lösung: Separat unter dem Ticket, mit Erwartungshorizont: Was muss eine vollständige Antwort enthalten?
+5. Format: Erst das Ticket zum Ausdrucken, dann die Lösung. Keine Einleitung, keine Erklärungen dazu.
+Wenn dir für ein Thema Informationen fehlen, frag nach, statt etwas zu erfinden.»
+
+### So testest du die Vorlage
+- An zwei unterschiedlichen Themen ausprobieren (z. B. Photosynthese und Brüche).
+- Was nicht passt, in der Anleitung präzisieren, nicht jedes Mal im Chat.
+- Jedes Ergebnis fachlich prüfen, bevor es in die Klasse geht.
+
+Wo speichern? Zum Beispiel als Projekt in ChatGPT, als Gem in Gemini oder als Projekt in Claude. Was verfügbar ist, hängt von Tool und Abo ab. Nutze für die Schule ein freigegebenes Tool und keine Daten von Lernenden.
+
+Eine wiederverwendbare Vorlage entlastet nur, wenn die Ergebnisse weiterhin passen. ⏱️
+
+Ein Exit-Ticket zu Brüchen fragt nach einem Begriff, einer Erklärung und einer Anwendung. Beim zweiten Test zum Wasserkreislauf bleibt die Struktur erhalten, die Fragen ändern sich. Ergibt sich nur eine Liste von Wissensfragen, wird die Anleitung präzisiert.
+
+Vor dem Einsatz
+Decken die Fragen das tatsächliche Lernziel ab?
+Ist die Musterlösung fachlich geprüft?
+Kann ich aus den Antworten eine Anschlussentscheidung ableiten?

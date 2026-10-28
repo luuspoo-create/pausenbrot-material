@@ -1,0 +1,23 @@
+Ein Einstieg, der Denken sichtbar macht.
+
+1. Vorhersage: «Was passiert, wenn …?» Erst tippen und begründen, dann zeigen. (z. B. Papierkugel und Radiergummi fallen lassen)
+2. Widerspruch: Zwei Aussagen, die sich zu widersprechen scheinen. «Beide stimmen. Wie geht das?»
+3. Fehler finden: Eine Lösung mit einem typischen Denkfehler. «Wo kippt der Gedanke?»
+4. Schätzen: «Wie viele …? Wie lange …?» Mit Spanne und Begründung, Auflösung später.
+5. Rangliste: Vier Begriffe oder Bilder ordnen und die Reihenfolge verteidigen.
+
+### Die Prüffrage für jede Idee (auch für KI-Vorschläge)
+«Muss hier jemand denken, oder nur suchen, ausmalen, abschreiben?»
+
+### Prompt für die KI
+«Gib mir fünf Unterrichtseinstiege zum Lernziel [Lernziel] für [Stufe]. Jeder Einstieg soll entweder Vorwissen sichtbar machen oder eine Überraschung bzw. einen Widerspruch erzeugen. Keine reinen Beschäftigungsaufgaben. Höchstens fünf Minuten.»
+Dann wählst du aus und prüfst.
+
+### Beschäftigt ist nicht dasselbe wie nachdenklich. 💡
+
+Zum Thema Prozentrechnung zeigst du zwei Aussagen: «20 Prozent Rabatt und danach 20 Prozent Aufschlag heben sich auf.» und «Der Endpreis ist tiefer.» Alle wählen zuerst eine Aussage und begründen. Erst danach werden Zahlen eingesetzt.
+
+Vor dem Einsatz
+Müssen Lernende etwas begründen?
+Ist die fachliche Auflösung vorbereitet?
+Kann ich unterschiedliche Denkwege aufgreifen?

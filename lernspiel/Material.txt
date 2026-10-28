@@ -1,0 +1,25 @@
+Spielen ist der Rahmen. Verstehen der Schlüssel.
+
+### Die Prüffrage (für jedes Rätsel)
+«Was müssen die Lernenden verstehen, um weiterzukommen?»
+Wenn die Antwort «nichts, man kann es ausprobieren oder raten» lautet, ist es ein Rätsel, aber keine Lernaufgabe.
+
+### Vorlage: Rätsel mit Lernaufgabe
+1. Lernziel: Was sollen sie danach können? (z. B. «Ich kann die Dichte eines Körpers berechnen.»)
+2. Fachaufgabe: Eine Aufgabe, deren Ergebnis den Code liefert. (z. B. Würfel: 54 g, 20 cm³ → 2,7 g/cm³ → erste Ziffer 2)
+3. Falle: Welcher typische Denkfehler führt zu einer falschen Ziffer? (z. B. Volumen : Masse = 0,37 → Ziffer 0)
+4. Rückmeldung: Was passiert bei der falschen Ziffer? (z. B. Hinweiskarte: «Prüfe, was im Zähler steht.»)
+5. Kein Ausprobieren: Genug Stellen oder ein Versuchslimit, damit Raten nicht zum Ziel führt.
+
+### Prompt für die Story (die Lernaufgaben machst du)
+«Schreibe eine kurze Escape-Room-Story für eine [Stufe] zum Thema [Thema] mit vier Stationen. Lass an jeder Station Platz für eine Fachaufgabe, deren Ergebnis eine Ziffer des Codes liefert. Erfinde keine Fachaufgaben, ich setze sie selbst ein.»
+Prüfe danach jede Station mit der Prüffrage.
+
+### Spielen ist der Rahmen. Verstehen ist der Schlüssel. 🔐
+
+Die Masse eines Körpers beträgt 54 g, sein Volumen 20 cm³. Die Dichte ist 2,7 g/cm³. Soll die erste Ziffer 2 sein, muss die Regel «ganze Zahl vor dem Komma» ausdrücklich feststehen. Eine Ziffer ohne erklärten Rechenweg zeigt noch nicht, ob die Gruppe die Dichte verstanden hat.
+
+Vor dem Einsatz
+Ist die Fachaufgabe samt Lösung geprüft?
+Ist die Umwandlung der Lösung in eine Ziffer eindeutig?
+Macht die Gruppe den Denkweg sichtbar?

@@ -1,0 +1,30 @@
+Gefunden heisst noch nicht belegt.
+
+1. Vorbereitung
+Lass eine KI einen kurzen Sachtext zu deinem Unterrichtsthema schreiben, mit sechs bis acht Quellenangaben (manchmal muss man gezielt nach falschen Quellen fragen). Prüfe die Quellen vorab selbst. Sag der Klasse, dass der Text ungeprüfte oder falsche Quellenangaben enthalten kann; lass die Lernenden ihre eigenen Belege erarbeiten. Lest den Text zuerst gemeinsam, ohne zu bewerten: Die Klasse soll spüren, wie glaubwürdig er wirkt.
+
+2. Die Jagd (Dreiergruppen)
+Jede Quelle wird systematisch geprüft:
+- Gibt es die Autorin oder den Autor?
+- Existiert der Titel?
+- Findet man die Quelle in einer verlässlichen Datenbank, Bibliothek oder Suchmaschine?
+- Stützt die Quelle wirklich die Aussage im KI-Text, oder sieht sie nur so aus?
+
+Jede Quelle bekommt einen Status: bestätigt · fragwürdig · erfunden.
+«Fragwürdig» ist wichtig: Nicht jede Quelle ist einfach wahr oder falsch.
+
+3. Auflösung
+Ergebnisse zusammentragen. Fast immer gibt es Streitfälle, und genau dort entsteht das Lernen: Es reicht nicht, einen Treffer zu finden. Man muss prüfen, ob der Treffer wirklich zur Behauptung passt.
+
+Am gefährlichsten ist die echte Quelle, die falsch wiedergegeben wird. Sie gibt der falschen Aussage eine scheinbare Legitimation.
+
+Das komplette Unterrichtspaket mit Generier-Prompt, Prüf-Protokoll als A4-Blatt, Bewertungsraster, Differenzierung auf drei Niveaus und Exit-Ticket gibt es für Paid-Abonnent:innen im Beitrag «Wie meine Klasse elf KI-Quellen entlarvte» auf luccaspohn.substack.com
+
+### Mehr auf digitalespausenbrot.ch
+
+Ein KI-Text nennt einen echten Artikel. Beim Lesen zeigt sich: Der Artikel behandelt ein anderes Alter oder einen anderen Kontext. Die Quelle existiert, stützt die konkrete Behauptung aber nicht ausreichend. «Gefunden» ist deshalb noch kein bestätigter Beleg.
+
+Vor dem Einsatz
+Existiert die angegebene Quelle wirklich?
+Steht die behauptete Aussage tatsächlich darin?
+Passen Kontext und untersuchte Gruppe zur Schlussfolgerung?
