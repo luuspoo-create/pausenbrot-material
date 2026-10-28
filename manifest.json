@@ -3,6 +3,36 @@
   "base_url": "https://luuspoo-create.github.io/pausenbrot-material",
   "pages": [
     {
+      "keyword": "AMPEL",
+      "title": "Die Datenschutz-Ampel für dein KI-Setup",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/ampel/",
+      "sha256": "13a96dfd2ccc3b6cc9859a67dcc21aaf6ed9ec238058c67f52584c9078b58ec8"
+    },
+    {
+      "keyword": "EINSTIEG",
+      "title": "Ein Unterrichtseinstieg, der Denken auslöst",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/einstieg/",
+      "sha256": "c2010aecf45bf388e79c83eb7a0aaf8d8324f08cf63ab8630ad0f481383ccd45"
+    },
+    {
+      "keyword": "HALLOWEEN",
+      "title": "Halloween-Mini-Escape-Room mit Lernaufgabe",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/halloween/",
+      "sha256": "73d2e6641b09b198882fb6a51e8f6b369c13f500d3dc18037075ffb7d2fc5c7c"
+    },
+    {
+      "keyword": "ANKOMMEN",
+      "title": "Ankommensritual: die ersten zwei Minuten",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/ankommen/",
+      "sha256": "04728cb58b3a4d9b761c0f04467f1c1cbf4fdeb5a3ec2659a813a2a0adf9fc68"
+    },
+    {
+      "keyword": "GRENZEN",
+      "title": "Engagement braucht Grenzen",
+      "url": "https://luuspoo-create.github.io/pausenbrot-material/grenzen/",
+      "sha256": "5fb6963593c6046677e79780e453fa293a64de261fb9006ce36b970014738d31"
+    },
+    {
       "keyword": "FLOP",
       "title": "Drei Voraussetzungen für KI-Methoden",
       "url": "https://luuspoo-create.github.io/pausenbrot-material/flop/",
