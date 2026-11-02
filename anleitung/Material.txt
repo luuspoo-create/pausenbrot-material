@@ -20,3 +20,52 @@ Vor dem Einsatz
 Habe ich meine Prüfschritte erklärt?
 Gibt es eine zugängliche Grundlage zum Abgleichen?
 Können Lernende den Schritt anschliessend selbst ausführen?
+
+## Der entscheidende Gedanke
+
+KI-Nutzung und kompetente KI-Nutzung sind unterschiedliche Dinge. Eine angeleitete Sequenz sollte deshalb einen konkreten Prüfschritt sichtbar machen. Wer sieht, wie eine Lehrperson Unsicherheit erkennt und nachprüft, bekommt eine Handlung statt nur eine Regel gezeigt.
+
+## So gehst du vor
+
+1. Wähle eine kurze KI-Ausgabe zu bereits behandeltem Stoff. Prüfe sie selbst und bereite eine verlässliche Vergleichsgrundlage vor.
+
+2. Denke einen Prüfschritt laut vor: Welche Aussage fällt auf, welche Quelle passt und was bleibt offen? Zeige auch einen begründeten Verzicht auf eine Antwort.
+
+3. Lass die Klasse denselben Schritt an einer zweiten Aussage durchführen. Vergleicht die Belege und formuliert eine einfache gemeinsame Routine.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Eine KI erklärt, ein höherer Preis nach Rabatt und Aufschlag sei «offensichtlich unmöglich». Die Klasse soll nicht nur über den Ton abstimmen.
+
+**Darauf kommt es an:** Die Aussage muss an einer konkreten Rechnung geprüft werden. Selbstbewusste Sprache ist weder ein Beleg noch ein Fehlernachweis.
+
+**Eine begründete Lösung:** Die Lehrperson wählt einen Startwert und rechnet beide Änderungen nachvollziehbar nach. Danach benennt die Klasse die Bezugsgrössen und formuliert, unter welchen Bedingungen ihr Urteil gilt.
+
+## Deine Vorlage
+
+```text
+Aussage der KI: […]
+Mein erster Zweifel: […]
+Passende Prüfgrundlage: […]
+Nachvollziehbarer Prüfschritt: […]
+Urteil: bestätigt / korrigiert / offen
+Die gemeinsame Routine lautet: […]
+```
+
+## Wenn es hakt
+
+- Vorführen ohne Denkweg: Zeige nicht nur das richtige Ergebnis, sondern auch die Auswahl des Belegs und die Entscheidung bei Unsicherheit.
+
+- Nutzungszahlen als Kompetenznachweis: Häufige Nutzung sagt noch nicht, wie kritisch jemand prüft oder wie viel gelernt wird.
+
+## Übertragen und weiterdenken
+
+Wiederhole denselben Prüfschritt später in einem anderen Fachkontext. Die Methode soll an der Aussage hängen, nicht an einer bestimmten App.
+
+**Woran du die Qualität erkennst:** Lernende können eine konkrete Aussage mit einer passenden Grundlage prüfen und begründen, warum dieser Beleg relevant ist.
+
+## Einordnung und Quellen
+
+Das SKBF-Monitoring beschreibt berichtete Nutzung und Erfahrungen. Nutzungsanteile sind keine Messung von Lerngewinn oder Prüfkompetenz. [SKBF Staff Paper 28: Erhebungen 2020–2026](https://www.skbf-csre.ch/fileadmin/files/pdf/staffpaper/Staffpaper_28_d.pdf). Die angeleitete Prüfroutine ist eine eigene praktische Ausarbeitung.

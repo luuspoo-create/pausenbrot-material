@@ -20,3 +20,52 @@ Vor dem Einsatz
 Gibt die Hilfe Denkanstösse statt vollständiger Lösungen?
 Prüft der Transfer dieselbe Kompetenz?
 Trenne ich unterstützte Leistung und selbstständiges Können?
+
+## Der entscheidende Gedanke
+
+Beim Üben mit KI müssen zwei Leistungen auseinandergehalten werden: Was gelingt mit Unterstützung, und was bleibt ohne sie verfügbar? Eine Tutor-Routine sollte beide sichtbar machen. Ein korrektes Produkt ist dafür nur der Anfang.
+
+## So gehst du vor
+
+1. Wähle einen bekannten Aufgabentyp und notiere, welche Denkschritte selbst ausgeführt werden sollen. Bereite passende Hinweise und eine geprüfte Lösung vor.
+
+2. Lass zuerst einen eigenen Versuch zeigen. Hilfe setzt genau an der erkennbaren Hürde an, statt den ganzen Lösungsweg auszugeben.
+
+3. Plane später eine ähnliche Aufgabe ohne KI. Vergleiche die Erklärung des Wegs und entscheide daraus, welche Unterstützung noch gebraucht wird.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Ein Tutor hilft bei 72 : 4 mit der Zerlegung 40 + 32. Die Person kann danach 18 nennen, weiss aber nicht, warum beide Teile durch 4 geteilt werden.
+
+**Darauf kommt es an:** Die Antwort wurde erreicht, die zugrunde liegende Verteilung ist noch nicht erklärt. Eine weitere richtige Zahl würde das Verständnisproblem nicht klären.
+
+**Eine begründete Lösung:** Die Person verteilt zunächst 40 und 32 Plättchen auf je vier Gruppen und verbindet beide Teilmengen pro Gruppe. Anschliessend erklärt sie eine neue Zerlegung mit anderen Zahlen.
+
+## Deine Vorlage
+
+```text
+Eigener Versuch: […]
+Hilfe an dieser Stelle: […]
+Mein nächster eigener Schritt: […]
+Warum funktioniert er? […]
+Ähnliche Aufgabe ohne KI: […]
+Was gelingt schon, was noch nicht? […]
+```
+
+## Wenn es hakt
+
+- Prompt mit Schutzsystem verwechseln: Eine Anweisung «Keine Lösung» ist keine verlässliche technische Schranke. Halte eine geprüfte Hilfe ohne Chat bereit.
+
+- Unterstützte Leistung als Lernzuwachs: Vergleiche nicht nur das fertige Übungsprodukt. Prüfe später auch das eigene Erklären oder Anwenden.
+
+## Übertragen und weiterdenken
+
+Lass den gleichen Kern in einem anderen Kontext bearbeiten. Halte zusätzliche sprachliche oder fachliche Anforderungen klein, damit der Vergleich interpretierbar bleibt.
+
+**Woran du die Qualität erkennst:** Die lernende Person kann einen entscheidenden Schritt ohne eingeblendete KI-Antwort begründen. Die Routine ist eine praktische Ableitung, keine Wiederholung eines Forschungsversuchs.
+
+## Einordnung und Quellen
+
+Bastani und Kolleg:innen unterscheiden unterstütztes Üben und anschliessende Prüfungsleistung ohne KI. Ihr Tutor enthielt gezielte Vorgaben und Lehrpersonen-Inputs; ein frei formulierter Prompt ist nicht gleichwertig mit diesem Studiendesign. [Originalpublikation, PNAS 2025](https://doi.org/10.1073/pnas.2422633122). Die Routine hier ist eine didaktische Ableitung.

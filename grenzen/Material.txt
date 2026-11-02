@@ -27,3 +27,48 @@ Vor dem Einsatz
 Entspricht die Formulierung den schulischen Absprachen?
 Ist der dringende Kontakt wirklich zuständig?
 Kann ich die angekündigte Reaktionszeit zuverlässig einhalten?
+
+## Der entscheidende Gedanke
+
+Eine Erreichbarkeitsregel hilft nur, wenn sie verständlich, realistisch und schulisch abgestimmt ist. Sie soll Orientierung geben, nicht Distanz demonstrieren. Wichtig sind normale Antwortzeiten, ein tatsächlich besetzter Dringlichkeitsweg und Rückhalt im Team.
+
+## So gehst du vor
+
+1. Prüfe die bestehenden schulischen Vereinbarungen. Formuliere dann, wann Nachrichten gelesen werden und wann mit einer Antwort gerechnet werden kann.
+
+2. Kläre den vorgesehenen Weg für dringende Anliegen. Nenne nur Kontakte und Zeiten, die tatsächlich gelten und von den Zuständigen getragen werden.
+
+3. Teste die Formulierung an zwei Situationen: eine normale Frage am Abend und ein Anliegen, das nicht bis zur üblichen Antwort warten kann.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Ein Elternbrief verspricht Antworten «werktags zwischen 7 und 17 Uhr». Eltern verstehen das als jederzeitige unmittelbare Erreichbarkeit in diesem Zeitraum.
+
+**Darauf kommt es an:** Lesezeiten und Antwortfrist wurden vermischt. Eine klare Regel muss nicht ständige Präsenz versprechen, sondern einen verlässlichen Erwartungsrahmen.
+
+**Eine begründete Lösung:** Präzisierung: «Ich bearbeite Nachrichten an Arbeitstagen und antworte in der Regel innerhalb von [abgestimmter Frist]. Für dringende Anliegen gilt der schulisch vereinbarte Weg über [Kontakt].»
+
+## Deine Vorlage
+
+```text
+Gültige Schulregel: […]
+Wann ich Nachrichten bearbeite: […]
+Realistische Antwortfrist: […]
+Abgestimmter Dringlichkeitsweg: […]
+Rückhalt / zuständige Ansprechperson: […]
+Termin zur Überprüfung: […]
+```
+
+## Wenn es hakt
+
+- Ausnahme wird neue Norm: Wenn du gelegentlich abends antwortest, erkläre bei Bedarf, dass daraus keine neue Antwortzeit entsteht.
+
+- Grenze ohne Zuständigkeit: Ein nicht erreichbarer Notfallkontakt schafft falsche Sicherheit. Kläre den Weg, bevor er im Brief steht.
+
+## Übertragen und weiterdenken
+
+Besprecht im Team eine wiederkehrende Zusatzaufgabe: Was wird übernommen, was dafür abgegeben und wer bestätigt die neue Verteilung?
+
+**Woran du die Qualität erkennst:** Die Regel ist für Eltern verständlich, im Alltag einhaltbar und mit der Schule abgestimmt. Sie ersetzt keine arbeitsrechtliche Vereinbarung.

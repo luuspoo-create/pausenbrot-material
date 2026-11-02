@@ -24,3 +24,47 @@ Vor dem Einsatz
 Gilt diese Regel wirklich für die meisten Chats?
 Widerspricht sie einer anderen Vorgabe?
 Habe ich sie mit zwei verschiedenen Aufträgen getestet?
+
+## Der entscheidende Gedanke
+
+Eine persönliche Anweisung sollte wenige stabile Entscheidungen abnehmen. Sie ist kein Lebenslauf und kein vollständiger Unterrichtsplan. Je klarer globale Regeln von konkreten Aufträgen getrennt sind, desto leichter lassen sich Fehler gezielt korrigieren.
+
+## So gehst du vor
+
+1. Sammle wiederkehrende Korrekturen aus deinen letzten Aufgaben. Wähle nur solche, die tatsächlich für verschiedene Themen gelten.
+
+2. Formuliere jede Vorgabe beobachtbar. «Gut und professionell» ist unklar; «nenne bei Unsicherheit die fehlende Grundlage» lässt sich prüfen.
+
+3. Teste einen normalen und einen widersprüchlichen Auftrag. Wenn die aktuelle Bitte etwas anderes verlangt, muss klar sein, welche Vorgabe nur ein Standard ist.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Die Anweisung lautet «immer kurz». Für ein Dossier werden ausführliche Beispiele gebraucht, doch die Antwort bleibt oberflächlich.
+
+**Darauf kommt es an:** Eine Stilpräferenz wurde als starre Grenze formuliert. Sinnvoller ist eine Standardlänge, die ein konkreter Auftrag bewusst überschreiben kann.
+
+**Eine begründete Lösung:** Präzisierung: «Antworte standardmässig knapp. Wenn ich eine Vertiefung verlange, erläutere die entscheidenden Schritte mit Beispielen.» So bleibt der Standard nützlich, ohne die Aufgabe zu blockieren.
+
+## Deine Vorlage
+
+```text
+Standard für Sprache: […]
+Standard für Umfang: […]
+Umgang mit fehlenden Angaben: […]
+Was nur im Einzelauftrag festgelegt wird: […]
+Testfall, bei dem der Standard nicht passt: […]
+```
+
+## Wenn es hakt
+
+- Zu viele Regeln: Entferne doppelte und widersprüchliche Vorgaben. Eine kürzere klare Anweisung ist leichter zu prüfen.
+
+- Datenschutz nur hineinschreiben: Eine Textregel ersetzt keine Freigabe oder sichere Konfiguration. Entscheidend ist auch, welche Daten du tatsächlich eingibst.
+
+## Übertragen und weiterdenken
+
+Ändere nach einem Test nur die Vorgabe, die den Fehler erklärt. So siehst du, ob die Präzisierung hilft oder neue Probleme erzeugt.
+
+**Woran du die Qualität erkennst:** Du kannst an zwei verschiedenen Aufgaben erkennen, welche Vorgaben berücksichtigt wurden und wo ein Einzelauftrag bewusst Vorrang hatte.

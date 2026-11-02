@@ -22,3 +22,47 @@ Vor dem Einsatz
 Passt die Hilfe zum bisherigen Lösungsweg?
 Verrät sie schon das Ergebnis?
 Kann das Kind den nächsten Schritt selbst erklären?
+
+## Der entscheidende Gedanke
+
+Hausaufgabenhilfe soll eine konkrete Hürde verkleinern. Dafür muss zuerst klar sein, ob eine Erklärung, ein Hinweis oder eine Rückmeldung gebraucht wird. Eine vollständige Lösung kann kurzfristig entlasten, zeigt aber nicht, was das Kind verstanden hat.
+
+## So gehst du vor
+
+1. Bitte das Kind, seinen bisherigen Versuch zu zeigen. Wenn noch nichts steht, lasse es erklären, was die Aufgabe verlangt und welcher Begriff unklar ist.
+
+2. Wähle eine kleine Hilfe und prüfe sie selbst. Bei einer Beispielrechnung sollen die Zahlen anders sein, damit die eigentliche Aufgabe offen bleibt.
+
+3. Lass das Kind danach weiterarbeiten und den Schritt erklären. Wenn die Schwierigkeit bleibt, notiert ihr die konkrete Frage für die Lehrperson.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Das Kind soll 3/4 von 20 bestimmen, weiss aber nicht, was der Nenner bedeutet. Eine KI-Lösung mit 20 × 0,75 hilft am Begriff vorbei.
+
+**Darauf kommt es an:** Zuerst muss verständlich werden, dass das Ganze in vier gleiche Teile geteilt wird. Eine neue Rechenabkürzung löst diese Verständnisfrage nicht.
+
+**Eine begründete Lösung:** Mit zwölf Plättchen werden vier gleiche Gruppen gelegt; drei davon enthalten neun Plättchen. Anschliessend versucht das Kind die eigentliche Aufgabe selbst: drei von vier gleich grossen Teilen von 20 ergeben 15.
+
+## Deine Vorlage
+
+```text
+Die Aufgabe verlangt: […]
+Das Kind kann bereits: […]
+Unklar ist: […]
+Erkläre nur diesen Begriff an einem anderen Beispiel. Keine Lösung der Zielaufgabe.
+Danach erklärt das Kind selbst […]
+```
+
+## Wenn es hakt
+
+- Erwachsene übernehmen: Stelle die Hilfe bereit, aber lasse den nächsten Schritt beim Kind. Eine schöne Lösung ist nicht das einzige Ziel.
+
+- Unsicherheit mit weiteren Chats füllen: Wenn verschiedene Antworten verwirren, stoppt und haltet die Frage für den Unterricht fest.
+
+## Übertragen und weiterdenken
+
+Beim nächsten ähnlichen Auftrag zuerst fragen, welche Hilfe damals nützlich war. So wird aus fremder Hilfe eine eigene Lernstrategie.
+
+**Woran du die Qualität erkennst:** Das Kind kann die Hilfe in eigenen Worten wiedergeben und einen passenden Schritt selbst versuchen, auch wenn noch nicht alles gelingt.

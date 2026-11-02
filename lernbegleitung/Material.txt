@@ -29,3 +29,53 @@ Vor dem Einsatz
 Hält der Assistent die Regel auch bei Nachfragen?
 Passt sein Hinweis fachlich zur Aufgabe?
 Ist klar, wann eine Lehrperson übernehmen soll?
+
+## Der entscheidende Gedanke
+
+Gemeinsame Lernassistenten brauchen gemeinsame Zuständigkeiten. Ein guter Systemprompt allein schafft weder Verlässlichkeit noch ein Schulkonzept. Entscheidend ist, wer fachliche Module prüft, Fehler bearbeitet und neue Versionen vor dem Einsatz testet.
+
+## So gehst du vor
+
+1. Beginnt mit einem klar begrenzten Anwendungsfall. Legt fest, welche Eigenleistung geschützt werden soll und welche Aufgaben ausdrücklich ausgeschlossen sind.
+
+2. Trennt gemeinsame Regeln von Fachinhalten. Eine neue Fachdatei darf nicht unbemerkt die Hilfegrenzen verändern oder Lösungen zu bewerteten Aufgaben offenlegen.
+
+3. Testet dieselben Dialoge nach jeder relevanten Änderung. Haltet fest, welche Fehler zum Pausieren führen und wer die erneute Freigabe verantwortet.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Ein Fachmodul enthält eine Musterlösung für eine Übung. Nach einem Update gibt der Assistent sie schon auf die erste Bitte vollständig aus.
+
+**Darauf kommt es an:** Der Inhalt ist fachlich korrekt, der vereinbarte Ablauf aber gebrochen. Inhaltliche und didaktische Prüfung müssen deshalb getrennt erfolgen.
+
+**Eine begründete Lösung:** Das Team pausiert diesen Einsatz, stellt geprüfte Hilfekarten bereit und testet eine überarbeitete Version erneut mit derselben Bitte sowie einem normalen Lernversuch.
+
+## Deine Vorlage
+
+```text
+Anwendungsfall: […]
+Eigenleistung: […]
+Gemeinsame Hilfegrenze: […]
+Fachlich geprüfte Grundlage: […]
+Testdialog: […]
+Beobachteter Regelbruch: […]
+Zuständigkeit und Ersatz während einer Pause: […]
+```
+
+## Wenn es hakt
+
+- Viele Assistenten gleichzeitig: Beginnt mit einem überschaubaren Fall. Sonst verteilt sich die Prüfverantwortung, bevor ein verlässlicher Ablauf besteht.
+
+- Einmal getestet, immer gut: Modell- und Inhaltsänderungen können Verhalten verändern. Wiederholt die bekannten Grenzfälle vor dem erneuten Einsatz.
+
+## Übertragen und weiterdenken
+
+Vergleicht die Hilfe mit einer vorbereiteten analogen Variante. Welche Unterstützung braucht wirklich einen Dialog, welche ist als Karte klarer und kontrollierbarer?
+
+**Woran du die Qualität erkennst:** Das Team kann für einen konkreten Fehler sagen, wer reagiert, was pausiert wird und anhand welcher Tests der Einsatz wieder verantwortet wird.
+
+## Einordnung und Quellen
+
+Die Grundidee und Kernregeln stammen aus Joscha Falcks Konzept. Der Autor benennt selbst offene Wirkungsfragen und Grenzen von Systemprompts. Die Test- und Zuständigkeitskarte hier ist eine ergänzende Ausarbeitung. [KI-Lernbegleitung als Schulentwicklungsaufgabe](https://joschafalck.de/ki-lernbegleitung/).

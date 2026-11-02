@@ -29,3 +29,48 @@ Vor dem Einsatz
 Ist die zitierte Stelle richtig gelesen?
 Unterscheide ich Beobachtung und vermuteten Denkweg?
 Prüft die Anschlussaufgabe genau diese Vermutung?
+
+## Der entscheidende Gedanke
+
+Eine falsche Antwort verrät nicht eindeutig, wie sie entstanden ist. Ein Muster ist zunächst eine Hypothese. Gute Diagnose verbindet sichtbare Fehlerstellen mit einer kurzen Rückfrage, die zwischen möglichen Ursachen unterscheidet.
+
+## So gehst du vor
+
+1. Arbeite zunächst mit erfundenen Lösungen. Trenne bei jeder Zeile: Was steht tatsächlich da, und welche Erklärung vermutest du dafür?
+
+2. Suche gemeinsame Strukturen, nicht nur gleiche falsche Zahlen. Halte Gegenbeispiele fest, die nicht in die vermutete Kategorie passen.
+
+3. Entwirf eine kurze Folgeaufgabe, die deine Hypothese prüfen kann. Erst ihre Bearbeitung entscheidet, ob ein erneuter Erklärschritt nötig ist.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Zwei erfundene Lösungen rechnen 1/2 + 1/3 = 2/5. Eine dritte Lösung schreibt 1/2 + 1/3 = 5/6, aber vertauscht beim Abschreiben eine Zahl.
+
+**Darauf kommt es an:** Die ersten beiden zeigen das gleiche Rechenmuster. Bei der dritten wäre die Zuordnung «Zähler und Nenner addiert» unbegründet. Gleiche Themen bedeuten nicht gleiche Denkfehler.
+
+**Eine begründete Lösung:** Folgefrage: «Kann die Summe von 1/2 und einer positiven Zahl kleiner als 1/2 sein?» Danach hilft eine Darstellung mit Sechsteln, den gemeinsamen Nenner fachlich zu begründen.
+
+## Deine Vorlage
+
+```text
+Sichtbare Stelle: […]
+Vermutetes Muster: […]
+Andere mögliche Erklärung: […]
+Gegenbeispiel: […]
+Rückfrage zur Unterscheidung: […]
+Passende Anschlussaufgabe und geprüfte Lösung: […]
+```
+
+## Wenn es hakt
+
+- Handschrift falsch gelesen: Kläre zuerst die Abschrift. Auf einer falschen Transkription lässt sich keine sinnvolle Diagnose aufbauen.
+
+- Kategorie wird Personenetikett: Beschreibe die beobachtete Lösung, nicht das Kind. Der nächste Versuch kann ein anderes Bild zeigen.
+
+## Übertragen und weiterdenken
+
+Prüfe nach der Förderung eine leicht veränderte Aufgabe. Entscheidend ist, ob der zuvor vermutete Fehler erneut auftritt und erklärt werden kann.
+
+**Woran du die Qualität erkennst:** Jede Zuordnung hat einen sichtbaren Beleg, eine alternative Erklärung und eine Frage, mit der sich die Vermutung überprüfen lässt.

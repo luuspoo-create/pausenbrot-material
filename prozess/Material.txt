@@ -29,3 +29,53 @@ Vor dem Einsatz
 Zeigt der Beleg eine konkrete Entscheidung?
 Kann die Person die Änderung erklären?
 Behandle ich das Gespräch als Lernnachweis und nicht als KI-Detektor?
+
+## Der entscheidende Gedanke
+
+Ein Prozess-Portfolio zeigt Entscheidungen zwischen Entwurf und Endfassung. Es ist kein lückenloses Überwachungsprotokoll und kein automatischer Nachweis der Urheberschaft. Wähle wenige aussagekräftige Stellen, an denen sich Verstehen und Überarbeiten erklären lassen.
+
+## So gehst du vor
+
+1. Kündige vor dem Auftrag an, welche Prozessspuren erwartet werden. Halte Umfang und Kriterien für alle verständlich und erreichbar.
+
+2. Lass eine relevante Änderung mit Ausgangsstelle, Rückmeldung und eigener Begründung dokumentieren. Nicht jeder Tastendruck muss archiviert werden.
+
+3. Nutze kurze Nachfragen zum Textverständnis nach denselben transparenten Regeln. Berücksichtige vereinbarte Unterstützung und Ausdrucksmöglichkeiten.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Eine Endfassung ist deutlich flüssiger als der erste Entwurf. Die Person zeigt eine Stelle, an der sie ein pauschales Urteil durch einen Materialbeleg ersetzt hat.
+
+**Darauf kommt es an:** Der Stilunterschied allein beweist keine unerlaubte Nutzung. Die konkrete Änderung erlaubt dagegen ein Gespräch über Begründung, Quelle und eigenes Verständnis.
+
+**Eine begründete Lösung:** Die Nachfrage lautet: «Warum passt dieser Beleg zu deiner Aussage?» Die Antwort wird am fachlichen Kriterium betrachtet; Unsicherheit im Gespräch ist nicht automatisch ein Täuschungsbeweis.
+
+## Deine Vorlage
+
+```text
+Ausgangsstelle: […]
+Rückmeldung von: […]
+Meine Entscheidung: […]
+Überarbeitete Stelle: […]
+Fachlicher Grund: […]
+Verwendete Hilfe und deren Rolle: […]
+Das kann ich dazu selbst erklären: […]
+```
+
+## Wenn es hakt
+
+- Portfolio als Beweisapparat: Es zeigt Ausschnitte des Lernwegs. Nutze es nicht als vermeintlich sichere technische Urheberprüfung.
+
+- Mündlichkeit als versteckte Zusatzhürde: Kläre Anforderungen und vereinbarte Nachteilsausgleiche vorher; wähle passende Ausdrucksformen.
+
+## Übertragen und weiterdenken
+
+Lass bei einem neuen Text dieselbe Art Überarbeitung selbstständig finden. So wird aus Dokumentation eine nutzbare Schreibstrategie.
+
+**Woran du die Qualität erkennst:** Die Person kann eine konkrete Änderung mit einem Kriterium und einer passenden Grundlage begründen.
+
+## Einordnung und Quellen
+
+Weber-Wulff et al. untersuchten Grenzen von KI-Textdetektoren. Liang et al. untersuchten unter anderem Fehlzuordnungen bei englischen Texten von Nicht-Muttersprachler:innen. Das begründet Vorsicht, nicht einen universellen Prozentwert für jeden heutigen Detektor. [Weber-Wulff et al. (2023)](https://link.springer.com/article/10.1007/s40979-023-00146-z) · [Liang et al. (2023)](https://arxiv.org/abs/2304.02819). Ein Prozessgespräch ist ebenfalls kein sicherer Urheberschaftsbeweis.

@@ -21,3 +21,48 @@ Vor dem Einsatz
 Müssen Lernende etwas begründen?
 Ist die fachliche Auflösung vorbereitet?
 Kann ich unterschiedliche Denkwege aufgreifen?
+
+## Der entscheidende Gedanke
+
+Ein starker Einstieg macht einen fachlichen Gedanken sichtbar, den die Lektion weiterbearbeitet. Überraschung kann helfen, ist aber nicht das Ziel. Die Frage nach dem «Warum» braucht eine überprüfbare Grundlage und darf nicht bei einer Pointe enden.
+
+## So gehst du vor
+
+1. Wähle eine typische Vorstellung zum Lernziel. Formuliere eine Vorhersage, einen Vergleich oder einen strittigen Lösungsweg, der diese Vorstellung sichtbar macht.
+
+2. Lass vor der Auflösung begründen. Sammle wenige unterschiedliche Gedanken, ohne vorschnell richtig und falsch zu markieren.
+
+3. Löse mit einem nachvollziehbaren Beleg auf. Verbinde die Beobachtung ausdrücklich mit dem Begriff oder Verfahren, das danach geübt wird.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Zwei Rechtecke haben den gleichen Umfang, aber unterschiedliche Seitenlängen. Die Frage lautet: «Müssen ihre Flächen gleich gross sein?»
+
+**Darauf kommt es an:** Eine Vermutung allein zeigt wenig. Konkrete Gegenbeispiele machen den Unterschied zwischen Umfang und Fläche prüfbar.
+
+**Eine begründete Lösung:** Rechtecke 1 × 5 und 2 × 4 haben beide Umfang 12, aber Flächen 5 und 8. Die Auflösung führt zur Frage, warum dieselbe Randlänge verschiedene Flächen einschliessen kann.
+
+## Deine Vorlage
+
+```text
+Lernziel: […]
+Sichtbar zu machende Vorstellung: […]
+Einstiegsfrage: […]
+Begründung vor der Auflösung: […]
+Geprüfter Beleg: […]
+Verbindung zur folgenden Aufgabe: […]
+```
+
+## Wenn es hakt
+
+- Spektakel ohne Anschluss: Wenn die Auflösung nicht zum Lernziel führt, ändere den Einstieg oder kürze ihn.
+
+- Nur schnelle Antworten hören: Gib erst Denkzeit und lasse eine Notiz oder Skizze entstehen. So werden mehr als die ersten Wortmeldungen sichtbar.
+
+## Übertragen und weiterdenken
+
+Lass später ein eigenes Beispiel zum gleichen Widerspruch erfinden und prüfen. Damit wird die überraschende Beobachtung zu einem übertragbaren Gedanken.
+
+**Woran du die Qualität erkennst:** Die Lernenden können nach der Auflösung erklären, welche erste Vermutung sich geändert hat und wodurch.

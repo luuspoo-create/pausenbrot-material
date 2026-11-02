@@ -21,3 +21,48 @@ Vor dem Einsatz
 Ist die Frage ohne zusätzliche Erklärung verständlich?
 Passt sie zum Ziel der Lektion?
 Was ändere ich aufgrund der Antworten?
+
+## Der entscheidende Gedanke
+
+Eine Startfrage soll den fachlichen Einstieg erleichtern und dir eine kleine, brauchbare Information geben. Sie braucht keine spektakuläre Überraschung. Wichtig ist, dass sie ohne lange Erklärung zugänglich ist und in die folgende Lektion führt.
+
+## So gehst du vor
+
+1. Wähle eine Voraussetzung für das heutige Ziel. Stelle dazu eine kurze Aufgabe, bei der unterschiedliche Denkwege sichtbar werden können.
+
+2. Plane eine niedrige Einstiegshürde: markieren, skizzieren oder einen Satz ergänzen. Zusätzliche Erklärungen bleiben freiwillige Vertiefung.
+
+3. Nutze die Antworten direkt. Greife einen verbreiteten Denkweg auf und zeige, wie er zum Thema der Lektion führt.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Vor einer Lektion zu Brüchen steht an der Tafel: «Was ist grösser: 1/3 oder 1/4? Zeichne oder begründe.»
+
+**Darauf kommt es an:** Die Aufgabe macht die Bedeutung gleich grosser Ganzer und der Teilung sichtbar. Die Zahl im Nenner allein kann zu einer falschen Entscheidung führen.
+
+**Eine begründete Lösung:** Eine Skizze mit gleich grossen Ganzen zeigt: Ein Drittel ist grösser als ein Viertel. Verschieden grosse gezeichnete Ganze werden zum Anlass, die Vergleichsbedingung zu klären.
+
+## Deine Vorlage
+
+```text
+Heutiges Ziel: […]
+Dafür nötiges Vorwissen: […]
+Kurze Startfrage: […]
+Mögliche Antwortformen: […]
+Typischer Denkweg: […]
+So greife ich die Antworten auf: […]
+```
+
+## Wenn es hakt
+
+- Jeden Tag ein neues Format: Eine bekannte Routine entlastet die Organisation. Variiere den fachlichen Inhalt, nicht zwingend die ganze Arbeitsweise.
+
+- Persönliches öffentlich abfragen: Emotionale Rückmeldungen brauchen Freiwilligkeit und einen passenden vertraulichen Rahmen, keine sichtbare Klassenrangliste.
+
+## Übertragen und weiterdenken
+
+Lass am Ende der Lektion dieselbe Frage nochmals mit einer präziseren Begründung beantworten. Der Unterschied zeigt eine mögliche Entwicklung im Denken.
+
+**Woran du die Qualität erkennst:** Die Startfrage ist eigenständig zugänglich und ihre Antworten beeinflussen den Unterrichtseinstieg konkret.

@@ -25,3 +25,49 @@ Vor dem Einsatz
 Sind die nötigen Voraussetzungen tatsächlich vorhanden?
 Ist die Hilfe an der schwierigen Stelle verfügbar?
 Verändert das Ergebnis des Exit-Tickets die nächste Lektion?
+
+## Der entscheidende Gedanke
+
+Ein brauchbarer Lektionsplan verbindet Lernvoraussetzungen, Aufgaben und eine anschliessende Entscheidung. Eine lückenlose Zeittabelle kann diese Passung verdecken. Plane zuerst den fachlichen Kern und danach die Abfolge.
+
+## So gehst du vor
+
+1. Bestimme, was die Klasse bereits können muss. Lege einen kurzen Einstieg fest, der genau diese Voraussetzung sichtbar macht.
+
+2. Suche die schwierigste Stelle im Lernweg. Bereite eine Hilfe und eine sinnvolle Weiterarbeit für bereits sichere Lernende vor.
+
+3. Formuliere vorab den Abschlussnachweis. Entscheide, was bei sicherem Verständnis und was bei einer verbreiteten Lücke als Nächstes passiert.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Der Plan führt direkt zu Prozentänderungen, obwohl der Unterschied zwischen Anteil und Grundwert noch unsicher ist.
+
+**Darauf kommt es an:** Eine zusätzliche Erklärung am Ende kommt zu spät, wenn die Klasse bereits mehrere Aufgaben mit einer falschen Bezugsgrösse bearbeitet hat.
+
+**Eine begründete Lösung:** Der Einstieg lässt den Grundwert in zwei Situationen markieren. Bei Unsicherheit folgt ein gemeinsames Beispiel; bei sicherer Zuordnung beginnt die Anwendung. Der Plan enthält damit eine begründete Verzweigung.
+
+## Deine Vorlage
+
+```text
+Ziel: […]
+Notwendiges Vorwissen: […]
+Einstieg zum Prüfen: […]
+Kritische Stelle: […]
+Hilfe dort: […]
+Abschlussnachweis: […]
+Nächster Schritt bei Verständnis / bei Lücke: […]
+```
+
+## Wenn es hakt
+
+- Minutenplan wirkt verbindlich: Zeitangaben sind Planungsannahmen. Reagiere auf den sichtbaren Lernstand, statt einen Ablauf nur pünktlich abzuhaken.
+
+- Viele Methoden ohne Verbindung: Prüfe bei jedem Wechsel, welche fachliche Funktion er erfüllt. Abwechslung allein ist kein Lernnachweis.
+
+## Übertragen und weiterdenken
+
+Nimm nach der Lektion nur eine Abweichung genauer unter die Lupe. Passe die Stelle an, an der Vorwissen oder Hilfe falsch eingeschätzt wurde.
+
+**Woran du die Qualität erkennst:** Jede Phase hat eine erkennbare Funktion, und der Abschluss entscheidet nachvollziehbar über die Weiterarbeit.

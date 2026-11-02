@@ -27,3 +27,53 @@ Vor dem Einsatz
 Stimmen Bild, Sprache und Fachinhalt überein?
 Verlangt die Frage eine Erklärung oder Übertragung?
 Können Lernende mit dem Ausgangstext nachprüfen?
+
+## Der entscheidende Gedanke
+
+Die Qualität eines Lernvideos liegt in der Passung zwischen Erklärung, Bild und Lernziel. Ein falscher Pfeil oder eine ausgelassene Bedingung kann trotz guter Stimme unbemerkt bleiben. Prüfe deshalb nicht nur den Text, sondern die tatsächlich gerenderte Darstellung.
+
+## So gehst du vor
+
+1. Markiere im Ausgangstext die drei unverzichtbaren Beziehungen. Formuliere vor der Erstellung passende Verständnisfragen und eine eigene Musterantwort.
+
+2. Sieh das vollständige Video an. Halte Zeitmarke, gesprochene Aussage und Bildinhalt nebeneinander fest, besonders bei Diagrammen und Abläufen.
+
+3. Entscheide pro Problem: korrigieren, neu erstellen oder eine Passage weglassen. Eine unklare Stelle soll nicht stillschweigend als Lernmaterial weiterlaufen.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Im Text fliesst Wasser in einem Modell von A nach B. Die gesprochene Erklärung stimmt, aber ein animierter Pfeil zeigt von B nach A.
+
+**Darauf kommt es an:** Zwei Darstellungen widersprechen sich. Wer das Video nur anhört, bemerkt den Fehler nicht; wer auf das Bild schaut, kann die falsche Richtung übernehmen.
+
+**Eine begründete Lösung:** Die Passage wird vor dem Einsatz korrigiert oder durch eine geprüfte Skizze ersetzt. Die Anschlussfrage lautet: «Welche Richtung passt zum beschriebenen Vorgang, und woran erkennst du das?»
+
+## Deine Vorlage
+
+```text
+Zeitmarke: […]
+Aussage im Ton: […]
+Aussage im Bild: […]
+Grundlage im Ausgangstext: […]
+Stimmen beide überein? […]
+Korrektur oder Ersatz: […]
+Frage zur zentralen Beziehung: […]
+```
+
+## Wenn es hakt
+
+- Nur das Transkript prüfen: Bilder, Untertitel und Pfeile können eigene Fehler enthalten. Kontrolliere die fertige Ausgabe.
+
+- Schönes Video ohne Anschluss: Lege vorher fest, was danach selbst erklärt oder angewendet werden soll. Die Gestaltung allein liefert diesen Nachweis nicht.
+
+## Übertragen und weiterdenken
+
+Vergleiche die Erklärung nach dem Video mit einer Erklärung anhand einer einfachen Skizze. Nutze konkrete Verständnislücken für die Nacharbeit.
+
+**Woran du die Qualität erkennst:** Ton, Bild und Ausgangsmaterial erzählen denselben fachlichen Zusammenhang; die anschliessende Aufgabe macht eigenes Verständnis sichtbar.
+
+## Einordnung und Quellen
+
+Die konkrete Bedienung und Verfügbarkeit von Video-Übersichten kann sich je nach Konto ändern. Prüfe die offizielle Hilfe vor der Erstellung; sie weist auch auf mögliche Ungenauigkeiten der generierten Ausgabe hin. [Google-Hilfe zu Video-Übersichten](https://support.google.com/gemininotebook/answer/16454555).

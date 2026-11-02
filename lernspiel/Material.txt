@@ -9,7 +9,7 @@ Wenn die Antwort «nichts, man kann es ausprobieren oder raten» lautet, ist es 
 2. Fachaufgabe: Eine Aufgabe, deren Ergebnis den Code liefert. (z. B. Würfel: 54 g, 20 cm³ → 2,7 g/cm³ → erste Ziffer 2)
 3. Falle: Welcher typische Denkfehler führt zu einer falschen Ziffer? (z. B. Volumen : Masse = 0,37 → Ziffer 0)
 4. Rückmeldung: Was passiert bei der falschen Ziffer? (z. B. Hinweiskarte: «Prüfe, was im Zähler steht.»)
-5. Kein Ausprobieren: Genug Stellen oder ein Versuchslimit, damit Raten nicht zum Ziel führt.
+5. Fachlicher Nachweis: Lass zur Code-Freigabe den entscheidenden Lösungsweg erklären. Ein Versuchslimit allein verhindert Raten nicht zuverlässig.
 
 ### Prompt für die Story (die Lernaufgaben machst du)
 «Schreibe eine kurze Escape-Room-Story für eine [Stufe] zum Thema [Thema] mit vier Stationen. Lass an jeder Station Platz für eine Fachaufgabe, deren Ergebnis eine Ziffer des Codes liefert. Erfinde keine Fachaufgaben, ich setze sie selbst ein.»
@@ -23,3 +23,48 @@ Vor dem Einsatz
 Ist die Fachaufgabe samt Lösung geprüft?
 Ist die Umwandlung der Lösung in eine Ziffer eindeutig?
 Macht die Gruppe den Denkweg sichtbar?
+
+## Der entscheidende Gedanke
+
+Ein Lernspiel braucht eine fachliche Entscheidung, die für das Weiterkommen relevant ist. Ein Zahlencode allein kann durch Raten gefunden werden. Lass deshalb neben dem Code einen kurzen Beleg oder Lösungsweg freigeben.
+
+## So gehst du vor
+
+1. Lege pro Station ein Lernziel und eine geprüfte Aufgabe fest. Entscheide erst danach, wie aus der Lösung ein Code entsteht.
+
+2. Prüfe typische falsche Wege. Eine Hilfekarte soll auf den Denkfehler lenken und nicht bloss die richtige Ziffer verraten.
+
+3. Lass vor der Freigabe eine Begründung zeigen. Der gemeinsame Abschluss greift eine fachliche Idee auf, statt nur die schnellste Gruppe zu feiern.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Eine Station gibt Masse 54 g und Volumen 20 cm³ vor. Die richtige Dichte beträgt 2,7 g/cm³; die erste Ziffer ergibt den Code 2.
+
+**Darauf kommt es an:** Die Ziffer lässt sich erraten und zeigt den Rechenweg nicht. Eine Rückfrage zu Einheit und Verhältnis macht sichtbar, ob Masse durch Volumen geteilt wurde.
+
+**Eine begründete Lösung:** Die Gruppe legt Rechnung und Einheit vor und erklärt: «Ein Kubikzentimeter hat hier eine Masse von 2,7 Gramm.» Erst dann zählt die Station als gelöst.
+
+## Deine Vorlage
+
+```text
+Lernziel der Station: […]
+Aufgabe und geprüfte Lösung: […]
+Code-Regel: […]
+Fachlicher Beleg zur Freigabe: […]
+Typischer Fehler: […]
+Hinweis ohne Lösung: […]
+```
+
+## Wenn es hakt
+
+- Code statt Können: Verlange einen kurzen Nachweis zum entscheidenden Schritt. Viele mögliche Ziffern allein verhindern das Raten nicht sicher.
+
+- Geschichte überdeckt Aufgabe: Kürze die Handlung, wenn sie mehr Lesearbeit als fachliche Orientierung erzeugt. Die Geschichte rahmt, sie trägt nicht das Lernziel.
+
+## Übertragen und weiterdenken
+
+Lass nach dem Spiel eine ähnliche Aufgabe ohne Story lösen. So wird der fachliche Kern aus dem Spielrahmen herausgelöst.
+
+**Woran du die Qualität erkennst:** Die Gruppe kann erklären, welches Wissen sie für die Station brauchte und warum ihr Lösungsweg funktioniert.

@@ -1,6 +1,6 @@
 Erst prüfen. Dann hochladen.
 
-### 🟢 GRÜN: darf rein
+### 🟢 GRÜN: grundsätzlich geeignete Inhalte – Freigabe und Nutzungsrechte trotzdem prüfen
 - eigene Arbeitsblätter, Präsentationen, Unterrichtsplanung (ohne Namen)
 - öffentliche Texte, Lehrplan, frei lizenziertes Material
 - allgemeine Fragen zu Didaktik und Fachinhalten
@@ -15,7 +15,7 @@ Erst prüfen. Dann hochladen.
 - Fotos, Videos, Tonaufnahmen von Lernenden
 - Gesundheits-, Familien- oder Förderinformationen
 
-Im Zweifel: anonymisieren oder weglassen.
+Im Zweifel: vor der Eingabe klären oder weglassen. Namen entfernen allein genügt nicht immer.
 
 ### Was die Kantone sagen (Beispiele)
 - Thurgau (Faktenblatt für Lehrpersonen): nur öffentliche und allgemeine Informationen eingeben, personenbezogene Daten vermeiden.
@@ -30,3 +30,51 @@ Vor dem Einsatz
 Sind Personen auch indirekt erkennbar?
 Ist genau diese Nutzung schulisch freigegeben?
 Kann ich die Aufgabe mit erfundenen Daten lösen?
+
+## Der entscheidende Gedanke
+
+Eine Datenampel hilft beim ersten Sortieren, ersetzt aber keine Freigabe für ein Werkzeug oder einen konkreten Einsatz. Entscheidend sind Inhalt, Zweck und mögliche Rückschlüsse auf Personen. Nur einen Namen zu entfernen macht einen Text nicht automatisch anonym.
+
+## So gehst du vor
+
+1. Frage zuerst, welche Information für den Auftrag wirklich nötig ist. Ein erfundener Fall reicht oft, um einen Ablauf oder Prompt zu testen.
+
+2. Prüfe indirekte Hinweise: seltene Ereignisse, genaue Klassenangaben, Handschrift oder Dateimetadaten. Betrachte die Kombination der Angaben, nicht jedes Feld allein.
+
+3. Nutze nur den schulisch geklärten Arbeitsweg. Bei Unsicherheit klärst du den Fall vor der Eingabe, statt dich auf ein grünes Symbol zu verlassen.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Ein Text nennt keinen Namen, beschreibt aber einen ungewöhnlichen Vorfall in einer kleinen Klasse mit Datum und Fördermassnahme.
+
+**Darauf kommt es an:** Die Person kann durch die Kombination der Details erkennbar bleiben. Die Aufgabe braucht vermutlich nur das allgemeine Kommunikationsproblem, nicht diesen konkreten Fall.
+
+**Eine begründete Lösung:** Für den Test entsteht ein vollständig erfundenes Szenario mit veränderten, nicht zuordenbaren Umständen. Eine echte Fallbearbeitung wird mit der zuständigen schulischen Stelle geklärt.
+
+## Deine Vorlage
+
+```text
+Zweck des Auftrags: […]
+Wirklich nötige Information: […]
+Mögliche direkte oder indirekte Personenbezüge: […]
+Kann ein erfundener Fall genügen? […]
+Freigegebener Arbeitsweg / offene Klärung: […]
+```
+
+## Wenn es hakt
+
+- Öffentlich heisst frei nutzbar: Auch bei öffentlich auffindbarem Material bleiben Nutzungsrechte und der konkrete Zweck zu beachten.
+
+- Anonymisierung nur durch die KI: Gib persönliche Daten nicht erst ein, damit das Modell sie entfernt. Die Prüfung erfolgt vorher im zulässigen Arbeitsweg.
+
+## Übertragen und weiterdenken
+
+Teste deinen geplanten Auftrag mit einem vollständig erfundenen Beispiel. So kannst du den Nutzen beurteilen, bevor echte Daten überhaupt zur Diskussion stehen.
+
+**Woran du die Qualität erkennst:** Du kannst Zweck, notwendige Angaben und Freigabeweg erklären. Die Ampel bleibt eine Orientierung und ist keine pauschale rechtliche Erlaubnis.
+
+## Einordnung und Quellen
+
+Die Datenschutzbeauftragte des Kantons Zürich betont die Verantwortung der Schule beim KI-Einsatz. Der konkrete zulässige Arbeitsweg hängt von den zuständigen Vorgaben ab; die Ampel ist eine Orientierung, keine Freigabe. [Einsatz von KI in Schulen](https://www.datenschutz.ch/tb/2023/einsatz-von-ki-in-schulen).

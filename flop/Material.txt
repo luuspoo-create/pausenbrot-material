@@ -1,15 +1,15 @@
 Vor der Methode kommen die Voraussetzungen.
 
 1. Reverse Teaching (die KI erklärt absichtlich falsch) → zuerst Vorwissen prüfen.
-Die Vorwissen-Diagnose kommt vor der Methode, nicht danach. Wer den Fehler nicht erkennen kann, lernt den Fehler.
+Die Vorwissen-Diagnose kommt vor der Methode, nicht danach. Ohne passende Grundlage können falsche Aussagen unbemerkt übernommen werden.
 
 2. Sokratische KI als Coach → zuerst Vertrauen.
-Sokratisch funktioniert nur, wo Beziehungs-Sicherheit besteht. Bei schüchternen Lernenden braucht es zuerst Vertrauen, dann die Methode. Nie umgekehrt. Die KI merkt nicht, wann sie abbrechen muss, du schon.
+Prüfe, ob die fragende Hilfe zur Person und Situation passt und ob eine sichere Gesprächssituation besteht. Bei schüchternen Lernenden braucht es zuerst Vertrauen, dann die Methode. Nie umgekehrt. Verlasse dich beim Erkennen von Überforderung nicht auf die KI; bleibe als Lehrperson ansprechbar.
 
 3. Selbstwahl der Niveaus → zuerst eine Selbstwahl-Kultur.
 Sonst gewinnt der Status über das Lernen. Was hilft: anonyme Wahl, klare Sprache, mehrfache Übung.
 
-Faustregel: Die Methode war richtig, die Voraussetzung hat gefehlt.
+Faustregel: Prüfe sowohl die Voraussetzungen als auch die Passung der Methode zum Lernziel.
 
 Mehr dazu und weitere Methoden findest du auf digitalespausenbrot.ch
 
@@ -19,3 +19,48 @@ Vor dem Einsatz
 Habe ich das nötige Vorwissen sichtbar gemacht?
 Gibt es eine unterstützte Alternative?
 Kann ich abbrechen oder vereinfachen, ohne jemanden blosszustellen?
+
+## Der entscheidende Gedanke
+
+Wenn eine Methode nicht trägt, lohnt sich eine genaue Diagnose statt eines schnellen Gesamturteils. Vorwissen, Aufgabenform, Hilfe und Gruppensituation können unterschiedliche Hürden erzeugen. Die nächste Erprobung sollte nur eine begründet gewählte Veränderung testen.
+
+## So gehst du vor
+
+1. Beschreibe die beobachtete Schwierigkeit ohne Personenetikett. «Niemand begründet die Wahl» ist genauer als «Die Klasse kann das nicht».
+
+2. Notiere zwei mögliche Ursachen und eine Frage, die sie unterscheiden könnte. Vermeide, jede Schwierigkeit automatisch auf Motivation oder fehlendes Vertrauen zurückzuführen.
+
+3. Ändere einen passenden Bestandteil. Vergleiche beim nächsten Einsatz genau die zuvor beobachtete Stelle und halte auch ausbleibende Verbesserungen fest.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Bei einer Fehlersuche markieren Lernende zufällig viele Sätze. Möglich sind fehlendes Vorwissen oder ein unklarer Auftrag zum Belegen.
+
+**Darauf kommt es an:** Beide Ursachen verlangen andere Hilfe. Eine kurze bekannte Aussage mit bereitgestelltem Beleg kann zeigen, ob der Prüfschritt verstanden ist.
+
+**Eine begründete Lösung:** Wenn die Zuordnung mit Beleg gelingt, wird zunächst die fachliche Grundlage gestärkt. Wenn sie nicht gelingt, wird der Prüfschritt gemeinsam modelliert, bevor der freie Text folgt.
+
+## Deine Vorlage
+
+```text
+Beobachtung: […]
+Mögliche Ursache A: […]
+Mögliche Ursache B: […]
+Kleine Klärungsfrage: […]
+Eine gezielte Änderung: […]
+Daran erkenne ich beim nächsten Mal einen Unterschied: […]
+```
+
+## Wenn es hakt
+
+- Methode muss immer richtig sein: Manchmal passt auch die Methode nicht zum Ziel. Voraussetzungen sind eine Erklärungsmöglichkeit, keine automatische Entschuldigung.
+
+- Alles gleichzeitig ändern: Dann bleibt unklar, was geholfen hat. Wähle einen überschaubaren, begründeten Eingriff.
+
+## Übertragen und weiterdenken
+
+Übertrage die Diagnosefrage auf eine andere misslungene Sequenz. Unterscheide dabei erneut Beobachtung, Vermutung und Entscheidung.
+
+**Woran du die Qualität erkennst:** Die nächste Änderung folgt aus einer überprüfbaren Vermutung und wird an einer konkreten Beobachtung beurteilt.

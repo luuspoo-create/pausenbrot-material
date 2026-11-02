@@ -24,3 +24,48 @@ Vor dem Einsatz
 Decken die Fragen das tatsächliche Lernziel ab?
 Ist die Musterlösung fachlich geprüft?
 Kann ich aus den Antworten eine Anschlussentscheidung ableiten?
+
+## Der entscheidende Gedanke
+
+Ein Exit-Ticket ist nur dann nützlich, wenn seine Antworten eine nächste Unterrichtsentscheidung ermöglichen. Drei Fragen nach dem Schema leicht bis schwer reichen dafür nicht. Jede Frage braucht einen erwarteten Nachweis und eine Konsequenz für die Weiterarbeit.
+
+## So gehst du vor
+
+1. Nimm das tatsächlich bearbeitete Lernziel, nicht nur das Thema. Formuliere eine Frage, an der ein typischer Denkfehler sichtbar werden kann.
+
+2. Schreibe eine erwartete Antwort und eine plausible falsche Antwort dazu. Überlege, welche Rückmeldung oder Aufgabe auf beide folgen würde.
+
+3. Prüfe den Umfang mit Blick auf die Klasse. Wenn das Ticket zu lang ist, streiche eine Frage, statt Antworten nur noch oberflächlich zu verlangen.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Ziel: Rabatte auf den Grundpreis beziehen. Ticket: «25 Prozent Rabatt auf 80 Franken: Warum werden nicht 25 Franken abgezogen?»
+
+**Darauf kommt es an:** Die Frage prüft die Bezugsgrösse. Eine richtige Zahl ohne Erklärung zeigt weniger als eine Antwort, die den Unterschied zwischen Prozent und Franken benennt.
+
+**Eine begründete Lösung:** Erwartung: Ein Viertel von 80 sind 20 Franken Rabatt. Wer 25 Franken abzieht, behandelt den Prozentsatz fälschlich als Geldbetrag. Daran kann eine passende Wiederholung anschliessen.
+
+## Deine Vorlage
+
+```text
+Lernziel der Lektion: […]
+Frage mit diagnostischem Wert: […]
+Erwartete Antwort: […]
+Typischer Fehler: […]
+Wenn er häufig vorkommt, mache ich […]
+Wenn das Ziel sitzt, folgt […]
+```
+
+## Wenn es hakt
+
+- Ticket ohne Konsequenz: Plane vorab, was du mit den Antworten machst. Sammeln allein verbessert noch keine nächste Lektion.
+
+- Nur Selbsteinschätzung: «Ich habe es verstanden» kann eine konkrete Antwort ergänzen, aber nicht ersetzen.
+
+## Übertragen und weiterdenken
+
+Vergleiche die nächste kurze Anwendung mit dem Ticket. So erkennst du, ob die gewählte Nacharbeit an der richtigen Hürde angesetzt hat.
+
+**Woran du die Qualität erkennst:** Du kannst aus typischen Antworten eine konkrete nächste Unterrichtsentscheidung ableiten und diese fachlich begründen.

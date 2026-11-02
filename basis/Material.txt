@@ -34,3 +34,48 @@ Vor dem Einsatz
 Ist jede Datei für den Auftrag nötig?
 Kann ich erkennen, welche Vorgaben gerade gelten?
 Ist das Ergebnis auch ohne das Setup fachlich überprüfbar?
+
+## Der entscheidende Gedanke
+
+Ein gutes KI-Setup trennt dauerhafte Vorgaben, wechselnden Kontext und den einzelnen Auftrag. Zu viel Material im falschen Bereich macht Antworten nicht automatisch passender. Starte mit wenig Kontext und einem Test, an dem du Fehler erkennen kannst.
+
+## So gehst du vor
+
+1. Notiere drei Vorgaben, die wirklich in jedem Auftrag gelten, etwa Sprache, Antwortlänge und Umgang mit Unsicherheit. Unterrichtsspezifische Details gehören nicht automatisch dorthin.
+
+2. Lege für einen wiederkehrenden Kontext eine knappe Beschreibung und wenige aktuelle Dateien bereit. Jede Datei braucht einen erkennbaren Zweck.
+
+3. Teste zwei unterschiedliche Aufträge. Prüfe, ob wichtige Vorgaben berücksichtigt werden und ob unpassende Informationen aus einem anderen Kontext hineinrutschen.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Eine globale Anweisung verlangt stets Material für die 7. Klasse. Beim Planen einer Fortbildung für Erwachsene verwendet die KI trotzdem kindliche Erklärungen.
+
+**Darauf kommt es an:** Die Stufenvorgabe ist nicht global, sondern kontextabhängig. Eine immer längere Anweisung würde den Widerspruch eher verdecken.
+
+**Eine begründete Lösung:** Global bleiben Sprache und gewünschte Klarheit. Die Stufe steht im jeweiligen Projekt oder Auftrag. Ein Kontrollauftrag für beide Zielgruppen prüft die Trennung.
+
+## Deine Vorlage
+
+```text
+Gilt immer: […]
+Gilt nur in diesem Kontext: […]
+Gilt nur für diesen Auftrag: […]
+Benötigte Datei und Zweck: […]
+Testauftrag: […]
+Beobachtete Abweichung und gezielte Änderung: […]
+```
+
+## Wenn es hakt
+
+- Alles verbinden: Ein grosser Datenzugang ist kein Qualitätsmerkmal. Verwende nur benötigte, freigegebene Grundlagen.
+
+- Anweisung als Garantie: Prüfe die tatsächlichen Antworten. Gespeicherte Vorgaben ersetzen keine fachliche Kontrolle.
+
+## Übertragen und weiterdenken
+
+Überprüfe beim nächsten Themenwechsel, welche Dateien veraltet sind und welche Vorgaben nur für den vorherigen Auftrag galten.
+
+**Woran du die Qualität erkennst:** Du kannst jede gespeicherte Information einem Zweck zuordnen und erkennst in Testausgaben, ob die Trennung funktioniert.

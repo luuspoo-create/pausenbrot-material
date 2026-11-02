@@ -21,3 +21,49 @@ Vor dem Einsatz
 Ist das Kriterium fachlich eindeutig?
 Wer prüft jeden Vorschlag vor einer Entscheidung?
 Welche Fragen müssen Schule und zuständige Stellen zuerst klären?
+
+## Der entscheidende Gedanke
+
+Die Frage nach KI-Korrektur ist eine Frage nach Verantwortung und überprüfbarer Qualität. Ein schneller Vorschlag spart erst dann Arbeit, wenn die nötige Kontrolle mitgerechnet wird. Eine Schulmeldung über einen Einsatz ersetzt keine Freigabe für einen anderen Kontext.
+
+## So gehst du vor
+
+1. Kläre vor einem Test die zulässigen Daten und den schulischen Entscheidungsweg. Beginne fachlich mit erfundenen Antworten und einem bekannten Raster.
+
+2. Beurteile die Beispiele zuerst selbst. Vergleiche anschliessend KI-Vorschläge auf Belegstellen, Teilpunkte und typische Grenzfälle.
+
+3. Erfasse den vollständigen Prüfaufwand und die Fehlerarten. Lege fest, wer eine Bewertung verantwortet und wie begründete Einwände bearbeitet werden.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Ein erfundener Antworttext enthält eine richtige Idee in ungewohnter Sprache. Die KI zieht Punkte ab, weil ein erwartetes Schlüsselwort fehlt.
+
+**Darauf kommt es an:** Das Raster könnte den fachlichen Gehalt verlangen, nicht zwingend den exakten Wortlaut. Ein automatischer Schlüsselwortabgleich würde eine passende Erklärung unterbewerten.
+
+**Eine begründete Lösung:** Die verantwortliche Lehrperson prüft die Bedeutung am Kriterium und korrigiert den Vorschlag. Das Raster erhält ein weiteres zulässiges Ankerbeispiel; die KI-Ausgabe bleibt ein Vorschlag.
+
+## Deine Vorlage
+
+```text
+Testaufgabe und Raster: […]
+Eigene Einschätzung: […]
+KI-Vorschlag mit Beleg: […]
+Fehlerart / Grenzfall: […]
+Zeit für vollständige Kontrolle: […]
+Verantwortliche Entscheidung: […]
+Offene Freigabefrage: […]
+```
+
+## Wenn es hakt
+
+- Zustimmung als einzige Voraussetzung: Klärt den gesamten schulischen und datenschutzrechtlichen Rahmen. Eine Zustimmung allein beantwortet nicht alle Fragen.
+
+- Nur eindeutige Beispiele testen: Nutze auch richtige ungewöhnliche Antworten, Teilantworten und unklare Formulierungen. Dort werden die Grenzen sichtbar.
+
+## Übertragen und weiterdenken
+
+Vergleicht im Fachteam denselben Grenzfall zunächst ohne KI. Wenn bereits das menschliche Raster unklar ist, sollte diese Unklarheit zuerst bearbeitet werden.
+
+**Woran du die Qualität erkennst:** Jeder Vorschlag lässt sich am Kriterium und an der Antwort prüfen; Verantwortung und Einwandweg bleiben bei den zuständigen Menschen.

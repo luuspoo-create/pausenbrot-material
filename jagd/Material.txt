@@ -4,7 +4,7 @@ Nicht nur Fehler finden. Fehler belegen.
 Lass ein Sprachmodell einen Fachtext zu deinem Thema schreiben, ohne Anweisung zur Qualitätskontrolle, oder bau bewusst Fehler ein. Wie viele Fehler ein KI-Text enthält, lässt sich nicht vorhersagen. Verwende für die Übung nur einen Text, dessen Aussagen du vorher geprüft hast. Prüf den Text vorher selbst.
 
 ### Auftrag an die Klasse
-«Findet so viele Fehler wie möglich. Für jeden Fehler, den ihr mit einer Quelle belegen könnt, gibt es einen Punkt.»
+«Prüft die Aussagen. Belegt eure Urteile und unterscheidet bestätigte Fehler von offenen Fragen. Die Qualität der Begründung zählt.»
 
 ### Durchführung (30 Min.)
 Zweierteams, alle bekommen den gleichen Text. Sie markieren Fehler farbig und schreiben daneben:
@@ -33,3 +33,48 @@ Vor dem Einsatz
 Ist der Ausgangstext von mir geprüft?
 Belegt die Quelle genau die strittige Aussage?
 Bleiben ungeklärte Stellen ausdrücklich offen?
+
+## Der entscheidende Gedanke
+
+Beim Hallucination Hunt geht es um die Beziehung zwischen Aussage und Beleg. Ein Satz kann falsch sein, zu weit gehen oder mit dem verfügbaren Material nicht entscheidbar sein. Gerade diese Unterscheidung macht aus Fehlersuche eine fachliche Prüfung.
+
+## So gehst du vor
+
+1. Bereite einen kurzen Text mit deinem eigenen Lösungsschlüssel vor. Markiere auch korrekte Aussagen; sonst lernt die Klasse, grundsätzlich alles für falsch zu halten.
+
+2. Lass Teams zunächst eine Aussage präzise abgrenzen. Erst danach suchen sie einen Beleg und formulieren eine Korrektur, die nicht mehr behauptet als der Beleg trägt.
+
+3. Sammelt bestätigte Fehler und offene Fälle getrennt. Bewertet die Verbindung zwischen Aussage, Beleg und Korrektur, nicht die Anzahl bunter Markierungen.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Im Übungstext steht: «Nach 20 Prozent Rabatt und 20 Prozent Aufschlag kostet ein Produkt wieder gleich viel.» Ausgangspreis: 100 Franken.
+
+**Darauf kommt es an:** Die Prozentwerte beziehen sich auf unterschiedliche Grundwerte. Nach dem Rabatt sind es 80 Franken; der Aufschlag beträgt 16 Franken. Eine zweite KI-Antwort ist dafür kein nötiger Beleg.
+
+**Eine begründete Lösung:** Korrektur: «Der Endpreis beträgt 96 Franken. Gleiche Prozentsätze heben sich bei veränderter Bezugsgrösse nicht auf.» Rechnung und Erklärung stützen gemeinsam den Fund.
+
+## Deine Vorlage
+
+```text
+Behauptung im Text: […]
+Status: bestätigt / widerlegt / noch offen
+Beleg oder nachvollziehbare Rechnung: […]
+Warum passt dieser Beleg genau hier? […]
+Präzise Korrektur: […]
+Was müsste ich zusätzlich wissen? […]
+```
+
+## Wenn es hakt
+
+- Fehlerjagd wird Ratespiel: Frage nach dem Beleg, bevor ein Fund zählt. Eine plausible Vermutung bleibt zunächst eine Vermutung.
+
+- Nicht gefunden heisst falsch: Eine erfolglose Suche widerlegt eine Aussage nicht. Halte den Fall offen und benenne den fehlenden Nachweis.
+
+## Übertragen und weiterdenken
+
+Lass im nächsten Text eine korrekte Aussage verteidigen. So wird auch das begründete Bestätigen geübt, nicht nur das Misstrauen.
+
+**Woran du die Qualität erkennst:** Ein anderer Mensch kann den Fund anhand des angegebenen Belegs nachvollziehen und versteht, warum die Korrektur genauer ist.

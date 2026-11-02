@@ -40,3 +40,48 @@ Vor dem Einsatz
 Ist die Denkhandlung klar benannt?
 Fällt für den neuen Schritt ein bisheriger weg?
 Ist der Lernnachweis ohne private KI-Zugänge möglich?
+
+## Der entscheidende Gedanke
+
+Eine KI-feste Aufgabe entsteht nicht durch immer mehr Zusatzarbeit. Sie entsteht, wenn die zentrale Leistung eine begründete Entscheidung wird. Dafür müssen Material, Denkhandlung und Nachweis zusammenpassen – auch ohne privaten KI-Zugang.
+
+## So gehst du vor
+
+1. Benenne die bisher verlangte Leistung. Frage: Was davon produziert ein Modell leicht, und welches fachliche Denken soll trotzdem bei den Lernenden liegen?
+
+2. Ersetze einen alten Arbeitsteil durch einen Prüf- oder Entscheidungsauftrag. Gib dazu das nötige Material, etwa drei Lösungswege oder zwei Quellen.
+
+3. Löse die neue Aufgabe selbst. Plane eine kurze Anschlussfrage, mit der sich die Begründung unabhängig vom fertigen Produkt erklären lässt.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Ein Helm kostet 160 Franken, der Rabatt beträgt 25 Prozent. Statt nur den Endpreis auszurechnen, vergleichen Lernende «160 − 25» und «160 × 0,75».
+
+**Darauf kommt es an:** Der erste Weg verwechselt Prozent mit Franken. Der zweite verwendet den verbleibenden Anteil. Die Aufgabe wird anspruchsvoller durch die Begründung, nicht durch zusätzliche Seiten.
+
+**Eine begründete Lösung:** Der Endpreis ist genau 120 Franken. Eine vollständige Erklärung nennt den Grundwert 160, den Rabatt 40 und den verbleibenden Anteil 75 Prozent. «Weg zwei ist richtig» allein reicht nicht.
+
+## Deine Vorlage
+
+```text
+Bisheriger Auftrag: […]
+Eigentliche Denkhandlung: […]
+Diesen alten Teil lasse ich weg: […]
+Neues Material zum Prüfen: […]
+Entscheidung mit Beleg: […]
+Anschlussfrage ohne KI: […]
+```
+
+## Wenn es hakt
+
+- Reflexion oben drauf: Streiche tatsächlich einen bisherigen Teil. Sonst wächst die Arbeitslast, ohne dass der Kern klarer wird.
+
+- Unlösbar ohne Tool: Stelle die benötigte KI-Ausgabe als geprüften Text bereit. Die Lernleistung soll nicht vom Zugang zu einem privaten Konto abhängen.
+
+## Übertragen und weiterdenken
+
+Verwende anschliessend einen anderen Grundwert und Rabatt. Prüfe, ob der Denkfehler auch ohne die bekannten Musterlösungen erklärt werden kann.
+
+**Woran du die Qualität erkennst:** Die neue Aufgabe verlangt einen nachvollziehbaren fachlichen Entscheid und bleibt im vorgesehenen Arbeitsumfang machbar.

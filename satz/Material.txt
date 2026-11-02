@@ -1,0 +1,57 @@
+Erst nachfragen, dann loslegen
+
+«Lies zuerst alle Dateien. Stelle mir dann Rückfragen, bevor du beginnst.»
+
+Schreib ihn einfach an den Anfang oder ans Ende deiner Anfrage.
+
+Vorher (ohne Satz):
+Erstelle ein Arbeitsblatt zum Thema Verdauung.
+→ Viele entscheidende Angaben bleiben offen; die Qualität und der nötige Nachbesserungsaufwand sind nicht vorhersagbar.
+
+Nachher (mit Satz):
+Erstelle ein Arbeitsblatt zum Thema Verdauung. Lies zuerst alle Dateien. Stelle mir dann Rückfragen, bevor du beginnst.
+→ Die KI fragt zuerst nach: Welche Klasse? Welcher Lernstand? 20 oder 45 Minuten? Multiple Choice, Lückentext oder offene Fragen? Deutsch oder zweisprachig für DaZ? Du klärst die Angaben und prüfst anschliessend den Entwurf. Eine feste Zeitersparnis lässt sich daraus nicht versprechen.
+
+Extra-Tipp: Häng alte Arbeitsblätter, Skripte oder Vorlagen an. Geeignete Beispiele können Aufbau und Ton verdeutlichen. Prüfe trotzdem, was die KI tatsächlich berücksichtigt hat.
+
+Mehr Methoden für KI im Unterricht findest du auf digitalespausenbrot.ch
+
+## Der entscheidende Gedanke
+
+Rückfragen sind dann wertvoll, wenn ihre Antworten den Entwurf verändern. Eine lange Liste allgemeiner Fragen schafft nur eine neue Hürde. Gute Rückfragen betreffen eine echte Entscheidung: Anspruch, Lernnachweis oder verfügbare Grundlage.
+
+## So gehst du vor
+
+1. Gib vorhandene Informationen zuerst mit. Die KI soll nicht erneut nach Stufe oder Thema fragen, wenn beides bereits im Auftrag steht.
+
+2. Begrenze die Rückfragen auf offene Punkte mit hoher Wirkung. Lass kurz begründen, welche Entscheidung von jeder Antwort abhängt.
+
+3. Bestätige den geklärten Auftrag in wenigen Sätzen. Erst danach entsteht der Entwurf, den du an denselben Kriterien prüfst.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Ein Arbeitsblatt soll das Begründen von Prozentrechnungen üben. Die KI fragt nach Schriftfarbe, Seitenrand und Datum, aber nicht nach dem Vorwissen.
+
+**Darauf kommt es an:** Die Fragen sind leicht zu beantworten, klären jedoch nicht den didaktischen Engpass. Wichtiger ist, ob die Lernenden Grundwert und Anteil schon unterscheiden können.
+
+**Eine begründete Lösung:** Sinnvolle Rückfrage: «Sollen die Lernenden eine Rechnung selbst aufstellen oder vorgegebene Wege beurteilen?» Die Antwort entscheidet über Aufgabenform und notwendige Hilfen.
+
+## Deine Vorlage
+
+```text
+Lies die bereitgestellten Unterlagen. Nenne höchstens drei fehlende Angaben, die den Entwurf wesentlich verändern. Sage zu jeder Frage, welche Entscheidung davon abhängt. Frage Bekanntes nicht erneut ab. Warte auf meine Antworten und fasse dann den geklärten Auftrag zusammen.
+```
+
+## Wenn es hakt
+
+- Fragen als Ritual: Streiche Fragen, deren Antwort nichts am Entwurf ändert. Eine Rückfrage muss eine Entscheidung vorbereiten.
+
+- Dateien nur behauptet gelesen: Bitte um die relevante Abschnittsüberschrift und prüfe sie selbst. Eine passende Referenz ist ein Hinweis, kein vollständiger Nachweis.
+
+## Übertragen und weiterdenken
+
+Teste den geklärten Auftrag ohne zusätzliche Rückfragen an einem zweiten Material. Was bleibt konstant, was muss themenspezifisch neu geklärt werden?
+
+**Woran du die Qualität erkennst:** Du kannst zu jeder beantworteten Rückfrage zeigen, was sich dadurch an Aufgabe, Hilfe oder Lernnachweis geändert hat.

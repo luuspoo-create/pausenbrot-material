@@ -31,3 +31,49 @@ Vor dem Einsatz
 Sind Einheit und Zeitraum überall gleich?
 Welche Annahme verändert das Ergebnis am stärksten?
 Welche lokale Information können wir wirklich beschaffen?
+
+## Der entscheidende Gedanke
+
+Eine Fermi-Schätzung wird durch ihre Annahmen interessant, nicht durch eine beeindruckend genaue Zahl. Zwei vernünftige Modelle können abweichen. Der Vergleich zeigt, welche Annahme das Ergebnis verändert und welche lokale Information eine Messung wert wäre.
+
+## So gehst du vor
+
+1. Zerlege eine lokale Frage in messbare Teile. Lass die Gruppen jede angenommene Zahl mit Einheit und Begründung notieren, bevor sie rechnen.
+
+2. Vergleicht erst die Modelle, dann die Ergebnisse. Bei stark abweichenden Zahlen sucht ihr die Annahme mit dem grössten Einfluss.
+
+3. Messt oder zählt gezielt eine dieser Grössen. Rechnet mit dem neuen Wert nach und beschreibt, warum die Spanne enger oder das Ergebnis anders wird.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Wie viele A4-Blätter verbraucht eine fiktive Klasse? Annahmen: 24 Lernende, 3 Blätter pro Tag, 180 Unterrichtstage.
+
+**Darauf kommt es an:** Das Modell ergibt 12'960 Blätter. Bei 2 bis 4 Blättern pro Tag liegt die Spanne bei 8'640 bis 17'280. Die Anzahl bedruckter Seiten ist nicht automatisch die Anzahl Papierblätter.
+
+**Eine begründete Lösung:** Die Gruppe zählt eine Stichprobenwoche und unterscheidet ein- und doppelseitige Kopien. Sie korrigiert ihre Tagesannahme und nennt Ferien sowie besondere Projektwochen als verbleibende Unsicherheit.
+
+## Deine Vorlage
+
+```text
+Unsere Frage: […]
+Zerlegung mit Einheiten: […]
+Kleine / mittlere / grosse Annahme: […]
+Ergebnis als Spanne: […]
+Wichtigste Unsicherheit: […]
+Diese Grösse prüfen wir vor Ort: […]
+Danach ändern wir […]
+```
+
+## Wenn es hakt
+
+- Viele Nachkommastellen: Runde passend zur unsichersten Annahme. Eine genaue Multiplikation macht geschätzte Eingangswerte nicht genauer.
+
+- KI als Auflösung: Auch ihr Ergebnis beruht auf Annahmen. Die Auflösung kommt aus lokalen Informationen oder bleibt ausdrücklich eine Schätzung.
+
+## Übertragen und weiterdenken
+
+Übertrage das Modell auf eine andere Klasse oder Woche. Welche Faktoren bleiben gleich, welche müssen neu erhoben werden?
+
+**Woran du die Qualität erkennst:** Die Gruppe kann erklären, wodurch ihre Spanne entsteht und welche zusätzliche Information sie am stärksten verbessern würde.

@@ -10,11 +10,11 @@ Jede Quelle wird systematisch geprüft:
 - Findet man die Quelle in einer verlässlichen Datenbank, Bibliothek oder Suchmaschine?
 - Stützt die Quelle wirklich die Aussage im KI-Text, oder sieht sie nur so aus?
 
-Jede Quelle bekommt einen Status: bestätigt · fragwürdig · erfunden.
+Jede Quelle bekommt einen Status: bestätigt · nicht passend belegt · nicht auffindbar / noch offen. «Erfunden» nur bei hinreichendem Nachweis.
 «Fragwürdig» ist wichtig: Nicht jede Quelle ist einfach wahr oder falsch.
 
 3. Auflösung
-Ergebnisse zusammentragen. Fast immer gibt es Streitfälle, und genau dort entsteht das Lernen: Es reicht nicht, einen Treffer zu finden. Man muss prüfen, ob der Treffer wirklich zur Behauptung passt.
+Ergebnisse zusammentragen. Bei Streitfällen lohnt sich die genaue Prüfung, und genau dort entsteht das Lernen: Es reicht nicht, einen Treffer zu finden. Man muss prüfen, ob der Treffer wirklich zur Behauptung passt.
 
 Am gefährlichsten ist die echte Quelle, die falsch wiedergegeben wird. Sie gibt der falschen Aussage eine scheinbare Legitimation.
 
@@ -28,3 +28,44 @@ Vor dem Einsatz
 Existiert die angegebene Quelle wirklich?
 Steht die behauptete Aussage tatsächlich darin?
 Passen Kontext und untersuchte Gruppe zur Schlussfolgerung?
+
+## Der entscheidende Gedanke
+
+Eine Quelle kann existieren und trotzdem die behauptete Aussage nicht stützen. Trenne deshalb die bibliografische Frage «Gibt es sie?» von der inhaltlichen Frage «Belegt sie genau das?». Ein echter Titel ist noch kein Wahrheitsstempel.
+
+## So gehst du vor
+
+1. Beginne bei einer einzelnen Behauptung. Suche die Originalveröffentlichung über Titel, Autorenschaft oder DOI, statt dich mit einer Suchvorschau zufriedenzugeben.
+
+2. Lies die relevante Passage im Zusammenhang. Achte auf untersuchte Gruppe, Bedingungen und Einschränkungen; ähnliche Wörter reichen als Beleg nicht aus.
+
+3. Formuliere das Ergebnis passend zum Nachweis. «Nicht auffindbar» ist etwas anderes als «erfunden», und «existiert» ist etwas anderes als «bestätigt die Aussage».
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Ein erfundener Übungstext behauptet: «Diese Studie beweist, dass Musik allen beim Lernen hilft.» Die angegebene Quelle beschreibt nur die Vorlieben einer befragten Gruppe.
+
+**Darauf kommt es an:** Die Quelle könnte korrekt zitiert sein, untersucht aber keine Lernwirkung. Die Behauptung verändert sowohl die Messgrösse als auch die Reichweite.
+
+**Eine begründete Lösung:** Einordnung: «Die Quelle berichtet Musikvorlieben. Sie trägt die Behauptung über bessere Lernleistungen nicht.» Die Quelle wird nicht als erfunden bezeichnet; ihr Einsatz als Beleg wird zurückgewiesen.
+
+## Deine Vorlage
+
+```text
+Einordnungssatz zum Kopieren:
+Die Quelle untersucht […]. Im Text wird daraus […] gemacht. Diese Schlussfolgerung ist gedeckt / zu weitgehend / offen, weil […]. Für die weitergehende Aussage bräuchte es […].
+```
+
+## Wenn es hakt
+
+- Nur Titel und Abstract lesen: Prüfe die Passage, auf die du dich stützt. Ein Abstract kann eine wichtige Einschränkung nur verkürzt wiedergeben.
+
+- Viele Zitate als Qualitätssignal: Prüfe lieber einen zentralen Beleg gründlich. Mehr ungeprüfte Quellen erhöhen die Sicherheit nicht.
+
+## Übertragen und weiterdenken
+
+Wende die Unterscheidung auf einen Nachrichtenartikel an. Bleibt seine Überschrift innerhalb dessen, was die verlinkte Untersuchung tatsächlich gemessen hat?
+
+**Woran du die Qualität erkennst:** Du unterscheidest Existenz, Passung und Aussagekraft einer Quelle. Diese frei zugängliche Einordnung ersetzt nicht das separate Paid-Unterrichtspaket.

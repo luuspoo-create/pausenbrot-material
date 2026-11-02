@@ -26,3 +26,47 @@ Vor dem Einsatz
 Hilft das Element beim fachlichen Verständnis?
 Bleibt die Information nach dem Kürzen vollständig?
 Ist die Gestaltung auch auf dem Ausdruck verständlich?
+
+## Der entscheidende Gedanke
+
+Entschlacken bedeutet, Aufmerksamkeit gezielt auf die relevante Beziehung zu lenken. Ein Bild kann überflüssige Dekoration oder unverzichtbare Erklärung sein. Entscheide deshalb nach seiner Funktion für das Lernziel und nicht nach einer pauschalen Regel gegen Bilder.
+
+## So gehst du vor
+
+1. Schreibe das Lernziel und den nötigen Denkweg auf. Ordne jedem Element eine Funktion zu: erklären, orientieren, üben oder nur schmücken.
+
+2. Entferne probeweise ein Element. Prüfe, welche Information oder Orientierung dadurch verloren geht, bevor du es endgültig streichst.
+
+3. Löse das reduzierte Blatt selbst. Kontrolliere besonders Legenden, Einheiten, Beispiele und notwendige Arbeitsflächen; sie wirken nebensächlich, können aber fachlich entscheidend sein.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Ein Blatt zur Verdunstung zeigt eine erklärende Skizze und mehrere Wetter-Cliparts. Beim Kürzen werden auch Pfeilbeschriftungen entfernt.
+
+**Darauf kommt es an:** Die Cliparts können entfallen, die Beschriftungen tragen jedoch den Zusammenhang. Optische Ruhe darf nicht auf Kosten der fachlichen Erklärung entstehen.
+
+**Eine begründete Lösung:** Die Skizze bleibt mit klaren Pfeilen und kurzen Beschriftungen erhalten. Schmuckbilder werden entfernt, und der frei werdende Platz dient einer eigenen Erklärung der Lernenden.
+
+## Deine Vorlage
+
+```text
+Element: […]
+Funktion für das Lernziel: […]
+Was geht ohne dieses Element verloren? […]
+Entscheidung: behalten / vereinfachen / entfernen
+Nach dem Kürzen fachlich geprüft: […]
+```
+
+## Wenn es hakt
+
+- Alles Interessante streichen: Ein Beispiel kann Verständnis ermöglichen. Prüfe seine Funktion, nicht nur seinen Unterhaltungswert.
+
+- Kleiner statt klarer: Verkleinere nicht Schrift und Schreibflächen, um mehr unterzubringen. Reduziere gezielt Inhalt oder teile das Material sinnvoll auf.
+
+## Übertragen und weiterdenken
+
+Vergleiche zwei Fassungen mit einer konkreten Such- oder Erklärfrage. Wo findet man die nötige Information, und welche Beziehung wird klarer?
+
+**Woran du die Qualität erkennst:** Die reduzierte Fassung ist lesbar und fachlich vollständig für ihr Ziel. Jede verbleibende Darstellung hat eine benennbare Aufgabe.

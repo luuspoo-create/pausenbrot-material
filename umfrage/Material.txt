@@ -1,18 +1,20 @@
 Fragen stellen, ohne Vertrauen zu verlieren.
 
+Überarbeitete Fragen für eine freiwillige Klassenbefragung; keine unveränderte Wiedergabe der früheren Umfrage.
+
 1. Hast du ChatGPT, Claude, Gemini oder eine andere KI schon genutzt?
 2. Wie oft pro Woche?
 3. Wofür nutzt du KI? (Mehrfachauswahl: Hausaufgaben · Recherchieren für Vorträge · Vokabeln und Sprachen · Bewerbungsbriefe formulieren · mit Freunden chatten · Bilder generieren)
-4. Hast du je etwas abgeschrieben und als deine Arbeit abgegeben?
+4. Wie klar ist dir, welche KI-Hilfe bei Schulaufgaben erlaubt ist? (Antwort freiwillig)
 5. Würdest du es einer Lehrperson sagen, wenn du KI nutzt?
-6. Was machst du mit KI, das deine Eltern nicht wissen? (Freitext)
-7. Wann fühlst du dich KI-müde? (Freitext)
+6. Bei welcher KI-Nutzung wünschst du dir mehr Orientierung? (freiwillig, ohne persönliche Details)
+7. Wann ist KI für dich eher störend als hilfreich? (freiwillig, ohne persönliche Details)
 8. Was sollten Lehrpersonen über deine KI-Nutzung wissen? (Freitext)
 
-So hat es bei mir funktioniert:
+Vor der Durchführung klären:
 - Für die ursprüngliche Umfrage wurde LimeSurvey genutzt. Anonymität hängt bei jedem Werkzeug von Einstellungen, Protokollierung, Zugriffsrechten und den Fragen ab. Prüfe die konkrete schulisch freigegebene Konfiguration; der Produktname allein garantiert nichts.
-- Vorher im Klassenrat besprochen und gemeinsam beschlossen.
-- Die Eltern vorab informiert.
+- Zweck und freiwillige Teilnahme vorher mit der Klasse besprechen.
+- Die Eltern gemäss den schulischen Vorgaben vorab informieren.
 - Rechne mit persönlichen Antworten. KI ist keine Vertrauensperson und keine Schulsozialarbeit. Überleg dir vorher, wie du mit einer heiklen Antwort umgehst.
 
 Danach würde ich eine Klassenstunde «KI und ich» machen: keine Bewertung, keine Predigt, einfach reden.
@@ -27,3 +29,48 @@ Vor dem Einsatz
 Sind einzelne Fragen freiwillig überspringbar?
 Sind technische Einstellungen und Auswertung auf Anonymität geprüft?
 Gibt es einen separaten, persönlichen Weg für Unterstützungsbedarf?
+
+## Der entscheidende Gedanke
+
+Eine anonyme Befragung soll Orientierung geben, nicht verdeckt einzelne Kinder identifizieren. Fragen, technische Einstellungen und spätere Auswertung müssen dazu passen. In kleinen Klassen können schon seltene Details eine Person erkennbar machen.
+
+## So gehst du vor
+
+1. Kläre Zweck, Freiwilligkeit und Umgang mit den Ergebnissen. Prüfe die tatsächliche Konfiguration, statt Anonymität aus dem Namen des Werkzeugs abzuleiten.
+
+2. Frage nach hilfreichen Erfahrungen und Unsicherheiten. Vermeide Aufforderungen, Geheimnisse, persönliche Konflikte oder identifizierbare Vorfälle zu schildern.
+
+3. Fasse Ergebnisse so zusammen, dass keine Einzelperson erkennbar wird. Besprecht daraus eine konkrete Lern- oder Regelentscheidung, nicht die Suche nach vermeintlich Schuldigen.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** In einer kleinen Klasse schildert ein Freitext eine einmalige Situation mit Datum. Obwohl kein Name genannt ist, wissen andere sofort, wer gemeint ist.
+
+**Darauf kommt es an:** Anonymität kann durch den Inhalt verloren gehen. Der Originaltext sollte daher nicht ungeprüft projiziert oder wörtlich in einer Auswertung veröffentlicht werden.
+
+**Eine begründete Lösung:** Die Aussage wird nur als allgemeines Thema zusammengefasst, sofern das ohne Rückschluss möglich ist. Für persönliche Unterstützung gibt es einen getrennten, freiwilligen vertraulichen Kontaktweg.
+
+## Deine Vorlage
+
+```text
+Zweck der Befragung: […]
+Diese Frage ist dafür nötig: […]
+Darf übersprungen werden: ja
+Mögliche Rückschlüsse auf Personen: […]
+Sichere Form der Zusammenfassung: […]
+Gemeinsamer nächster Schritt: […]
+```
+
+## Wenn es hakt
+
+- Sensible Offenlegung belohnen: Bitte nicht um Geheimnisse. Eine nützliche Befragung braucht keine möglichst intime Antwort.
+
+- Anonym und individuell nachfassen: Eine wirklich anonyme Antwort lässt sich nicht gezielt einer Person zuordnen. Erkläre den separaten Hilfeweg vorher.
+
+## Übertragen und weiterdenken
+
+Wiederholt später wenige unveränderte Kernfragen. Vergleicht vorsichtig und benennt, wenn Teilnehmende oder Rahmenbedingungen anders waren.
+
+**Woran du die Qualität erkennst:** Die Befragung führt zu einer nachvollziehbaren Unterrichtsentscheidung, ohne einzelne Antworten zur Identifikation oder Sanktionierung zu verwenden.

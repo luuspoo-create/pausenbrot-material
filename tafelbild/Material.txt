@@ -28,3 +28,48 @@ Vor dem Einsatz
 Sind alle Beschriftungen richtig gelesen?
 Stimmen Richtung und Bedeutung der Pfeile?
 Bleibt die Übung beim tatsächlich erarbeiteten Inhalt?
+
+## Der entscheidende Gedanke
+
+Ein Tafelbild enthält oft mehr als Wörter: Anordnung, Pfeile und bewusst freigelassene Stellen tragen Bedeutung. Eine KI-Abschrift muss diese Beziehungen korrekt erfassen, bevor daraus neue Übungen entstehen. Der erste Arbeitsschritt ist daher Kontrolle der Darstellung.
+
+## So gehst du vor
+
+1. Wähle einen klaren Ausschnitt ohne persönliche Angaben. Notiere selbst, welche Verbindung oder Unterscheidung unbedingt erhalten bleiben muss.
+
+2. Lass zuerst nur transkribieren. Prüfe Begriffe, Pfeilrichtungen, Einheiten und unleserliche Stellen getrennt; Ergänzungen aus vermeintlichem Weltwissen bleiben zunächst draussen.
+
+3. Gib erst die korrigierte Abschrift für eine kurze Wiederholungsaufgabe frei. Löse die Aufgabe selbst und gleiche sie mit dem Unterrichtsziel ab.
+
+## Ein Fall, ganz durchdacht
+
+Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
+
+**Ausgangslage:** Auf der Tafel steht «Masse ÷ Volumen = Dichte». Die Abschrift vertauscht Zähler und Nenner, obwohl alle drei Wörter richtig erkannt wurden.
+
+**Darauf kommt es an:** Eine Wortliste würde den Fehler nicht zeigen. Die Beziehung zwischen den Begriffen ist der eigentliche Lerninhalt und muss ausdrücklich mitgelesen werden.
+
+**Eine begründete Lösung:** Die Abschrift wird korrigiert. Eine passende Folgefrage lässt zwei Rechnungen vergleichen und die Einheit prüfen: Gramm pro Kubikzentimeter gehört zur Dichte, nicht Kubikzentimeter pro Gramm.
+
+## Deine Vorlage
+
+```text
+Unverzichtbare Beziehung: […]
+Gelesene Beschriftung: […]
+Pfeilrichtung / Rechenzeichen: […]
+Unsichere Stelle: […]
+Meine bestätigte Abschrift: […]
+Wiederholungsfrage mit geprüfter Lösung: […]
+```
+
+## Wenn es hakt
+
+- Unsicherheit wird geglättet: Bestehe auf einer Markierung unleserlicher Stellen. Eine plausible Ergänzung ist keine korrekte Abschrift.
+
+- Alles auf einmal erzeugen: Trenne Abschrift und Aufgabenentwurf. So lässt sich ein Lesefehler korrigieren, bevor er sich im Material vervielfacht.
+
+## Übertragen und weiterdenken
+
+Lass Lernende eine Beziehung aus dem Tafelbild ohne Bild erklären und anschliessend am Original prüfen.
+
+**Woran du die Qualität erkennst:** Die neue Aufgabe bewahrt die entscheidenden Beziehungen des Tafelbilds und verlangt mehr als das Wiedererkennen der Beschriftungen.
