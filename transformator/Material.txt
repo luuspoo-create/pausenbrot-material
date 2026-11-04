@@ -40,11 +40,11 @@ Der Aufgaben-Transformator ist besonders nützlich, wenn du den Unterschied zwis
 
 Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
 
-**Ausgangslage:** Aus «Fasse den Text zusammen» wird «Prüfe zwei Zusammenfassungen: Welche bewahrt die zentrale Ursache und welche lässt eine wichtige Bedingung weg?»
+**Ausgangslage:** Vorher: «Erkläre den Wasserkreislauf.» Nachher: «Prüfe zwei Aussagen: Wasser verdunstet erst bei 100 °C. Wolken bestehen nur aus unsichtbarem Wasserdampf. Korrigiere die Fehler und begründe deine Änderungen am Unterrichtsmaterial.»
 
-**Darauf kommt es an:** Die neue Aufgabe verlangt einen Vergleich am Original. Dafür müssen die beiden Fassungen tatsächlich unterschiedliche, fachlich relevante Merkmale haben und nicht nur verschieden lang sein.
+**Darauf kommt es an:** Die beiden Aussagen sind bewusst fehlerhaft und müssen von der Lehrperson vorab geprüft werden. Verdunstung findet auch unterhalb des Siedepunkts statt; sichtbare Wolken enthalten kleine Wassertröpfchen oder Eiskristalle. Die Lernenden prüfen Aussagen, statt nur einen fertigen Erklärungstext abzugeben.
 
-**Eine begründete Lösung:** Ein tragfähiger Nachweis nennt die entscheidende Originalstelle, erklärt die Auslassung und formuliert eine präzisere Zusammenfassung. Die KI-Fassung dient als Prüfmaterial, nicht als Musterlösung.
+**Eine begründete Lösung:** Möglicher Nachweis: «Eine Pfütze trocknet auch ohne zu kochen. Bei der Wolkenbildung entstehen aus Wasserdampf kleine Tröpfchen oder Eiskristalle.» Die Klasse belegt beide Korrekturen am geprüften Material. Eine Anschlussfrage prüft, warum Wäsche auch bei kühlem Wetter trocknen kann.
 
 ## Deine Vorlage
 
@@ -69,3 +69,7 @@ So prüfe ich das Ergebnis: […]
 Teste einen zweiten Aufgabentyp aus einem anderen Fach. Halte fest, welche Umbauidee übertragbar ist und welche nur zur ersten Aufgabe passt.
 
 **Woran du die Qualität erkennst:** Du kannst den fachlichen Mehrwert des neuen Auftrags an einer möglichen Antwort zeigen, ohne dich auf die Tool-Beschreibung zu berufen.
+
+## Einordnung und Quellen
+
+Zum Werkzeug: [KI-Aufgaben-Transformator](https://digitalespausenbrot.ch/ki-aufgaben-transformator/). Die Vorlage und der ausgearbeitete Vorher-nachher-Fall ergänzen beide Reels zum selben Werkzeug. Die Fehleraussagen sind bewusst konstruiertes Prüfmaterial und keine verlässliche KI-Ausgabe.
