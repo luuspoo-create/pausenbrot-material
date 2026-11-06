@@ -1,4 +1,4 @@
-Ein Einstieg, der Denken sichtbar macht.
+Unterrichtseinstiege mit begründetem Aha-Moment
 
 1. Vorhersage: «Was passiert, wenn …?» Erst tippen und begründen, dann zeigen. (z. B. Papierkugel und Radiergummi fallen lassen)
 2. Widerspruch: Zwei Aussagen, die sich zu widersprechen scheinen. «Beide stimmen. Wie geht das?»
@@ -15,54 +15,84 @@ Dann wählst du aus und prüfst.
 
 ### Beschäftigt ist nicht dasselbe wie nachdenklich. 💡
 
-Zum Thema Prozentrechnung zeigst du zwei Aussagen: «20 Prozent Rabatt und danach 20 Prozent Aufschlag heben sich auf.» und «Der Endpreis ist tiefer.» Alle wählen zuerst eine Aussage und begründen. Erst danach werden Zahlen eingesetzt.
+## Ergänzung zum neuen Reel
+
+Hallo! Danke für deinen Kommentar 🌍 Hier sind fünf Einstiegsfragen mit eingebautem Widerspruch:
+
+### 1️⃣ Geografie: «Im Sommer ist die Erde näher an der Sonne. Stimmt das?»
+→ Nein. Anfang Januar ist die Erde der Sonne am nächsten. Die Jahreszeiten entstehen durch die Neigung der Erdachse.
+
+### 2️⃣ Physik: «Ein schwerer Stein fällt schneller als ein leichter. Stimmt das?»
+→ Ohne Luftwiderstand fallen beide gleich schnell. Der Unterschied im Alltag kommt von der Luft.
+
+### 3️⃣ Biologie: «Ein Baum holt seine Masse aus der Erde. Stimmt das?»
+→ Der Kohlenstoff der gebildeten Biomasse stammt aus dem CO₂ der Luft. Frische Pflanzen enthalten zusätzlich viel Wasser. Boden liefert unter anderem Wasser und Mineralstoffe.
+
+### 4️⃣ Geschichte: «Im Mittelalter dachten alle, die Erde sei eine Scheibe. Stimmt das?»
+→ Nein. Gebildete Menschen wussten seit der Antike, dass die Erde eine Kugel ist.
+
+### 5️⃣ Mathematik: «0,999… ist ein kleines bisschen kleiner als 1. Stimmt das?»
+→ Nein. 0,999… (Periode) ist genau 1.
+
+So setzt du sie ein: Behauptung zeigen, zuerst still eine Vermutung notieren lassen, dann begründen und abstimmen. Erst danach klärt ihr gemeinsam auf.
+
+Tipp mit KI: «Gib mir fünf Behauptungen zu [Thema], die logisch klingen, aber falsch sind, mit kurzer Erklärung.» Danach jede Behauptung selbst prüfen.
+
+### Mehr zu KI und Lernen: digitalespausenbrot.ch
+
+
 
 Vor dem Einsatz
-Müssen Lernende etwas begründen?
-Ist die fachliche Auflösung vorbereitet?
-Kann ich unterschiedliche Denkwege aufgreifen?
+Wähle eine Vorstellung zum Lernziel und prüfe die fachliche Auflösung vorab. Lege eine passende Darstellung, Quelle oder Rechnung bereit.
+Lass zuerst still vermuten und begründen. Sammle unterschiedliche Gedanken und prüft sie am vorbereiteten Beleg.
+Formuliert gemeinsam die präzisere Erklärung. Schliesse unmittelbar eine Aufgabe an, die denselben Zusammenhang in einer neuen Situation aufgreift.
 
 ## Der entscheidende Gedanke
 
-Ein starker Einstieg macht einen fachlichen Gedanken sichtbar, den die Lektion weiterbearbeitet. Überraschung kann helfen, ist aber nicht das Ziel. Die Frage nach dem «Warum» braucht eine überprüfbare Grundlage und darf nicht bei einer Pointe enden.
+Ein Einstieg macht eine fachliche Vorstellung sichtbar und führt zur folgenden Lernaufgabe. Die Sammlung verbindet fünf Einstiegsformen mit fünf konkreten Widerspruchsfragen aus dem neuen Reel.
 
 ## So gehst du vor
 
-1. Wähle eine typische Vorstellung zum Lernziel. Formuliere eine Vorhersage, einen Vergleich oder einen strittigen Lösungsweg, der diese Vorstellung sichtbar macht.
+1. Wähle eine Vorstellung zum Lernziel und prüfe die fachliche Auflösung vorab. Lege eine passende Darstellung, Quelle oder Rechnung bereit.
 
-2. Lass vor der Auflösung begründen. Sammle wenige unterschiedliche Gedanken, ohne vorschnell richtig und falsch zu markieren.
+2. Lass zuerst still vermuten und begründen. Sammle unterschiedliche Gedanken und prüft sie am vorbereiteten Beleg.
 
-3. Löse mit einem nachvollziehbaren Beleg auf. Verbinde die Beobachtung ausdrücklich mit dem Begriff oder Verfahren, das danach geübt wird.
+3. Formuliert gemeinsam die präzisere Erklärung. Schliesse unmittelbar eine Aufgabe an, die denselben Zusammenhang in einer neuen Situation aufgreift.
 
 ## Ein Fall, ganz durchdacht
 
 Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
 
-**Ausgangslage:** Zwei Rechtecke haben den gleichen Umfang, aber unterschiedliche Seitenlängen. Die Frage lautet: «Müssen ihre Flächen gleich gross sein?»
+**Ausgangslage:** Im fiktiven Geografie-Einstieg vermutet ein Teil der Klasse, die Erde sei im europäischen Sommer näher an der Sonne.
 
-**Darauf kommt es an:** Eine Vermutung allein zeigt wenig. Konkrete Gegenbeispiele machen den Unterschied zwischen Umfang und Fläche prüfbar.
+**Darauf kommt es an:** Die grösste Sonnennähe liegt im Januar. Ein Globus und eine Lampe machen sichtbar, wie Achsenneigung, Sonnenstand und Tageslänge die Einstrahlung der Hemisphären verändern.
 
-**Eine begründete Lösung:** Rechtecke 1 × 5 und 2 × 4 haben beide Umfang 12, aber Flächen 5 und 8. Die Auflösung führt zur Frage, warum dieselbe Randlänge verschiedene Flächen einschliessen kann.
+**Eine begründete Lösung:** Die Klasse erklärt anschliessend, weshalb auf der Südhalbkugel zur selben Zeit eine andere Jahreszeit herrscht. Die erste Vermutung wird mit einer begründeten Erklärung überarbeitet.
 
 ## Deine Vorlage
 
 ```text
-Lernziel: […]
-Sichtbar zu machende Vorstellung: […]
-Einstiegsfrage: […]
-Begründung vor der Auflösung: […]
-Geprüfter Beleg: […]
-Verbindung zur folgenden Aufgabe: […]
+Mein Lernziel […]
+Meine geprüfte Einstiegsfrage […]
+Erste Vermutung und Begründung […]
+Beleg, Darstellung oder Rechnung […]
+Präzisere Erklärung […]
+Aufgabe zum Übertragen […]
+Offene Frage für die Lektion […]
 ```
 
 ## Wenn es hakt
 
-- Spektakel ohne Anschluss: Wenn die Auflösung nicht zum Lernziel führt, ändere den Einstieg oder kürze ihn.
+- Eine Überraschung bleibt isoliert: Plane bereits vor dem Einstieg die fachlich anschliessende Aufgabe.
 
-- Nur schnelle Antworten hören: Gib erst Denkzeit und lasse eine Notiz oder Skizze entstehen. So werden mehr als die ersten Wortmeldungen sichtbar.
+- Nur schnelle Wortmeldungen zählen: Gib stille Denkzeit und lass jede Person eine kurze Notiz oder Skizze erstellen.
 
 ## Übertragen und weiterdenken
 
-Lass später ein eigenes Beispiel zum gleichen Widerspruch erfinden und prüfen. Damit wird die überraschende Beobachtung zu einem übertragbaren Gedanken.
+Nutze als mathematischen Gegenfall zwei Rechtecke mit Seiten 1 × 5 und 2 × 4. Beide haben Umfang 12, ihre Flächen betragen 5 und 8.
 
-**Woran du die Qualität erkennst:** Die Lernenden können nach der Auflösung erklären, welche erste Vermutung sich geändert hat und wodurch.
+**Woran du die Qualität erkennst:** Die Lernenden können erklären, wie der Beleg ihre erste Vorstellung verändert hat.
+
+## Einordnung und Quellen
+
+Die [NASA erläutert Achsenneigung und Jahreszeiten](https://spaceplace.nasa.gov/seasons/en/). Die Unterrichtsabläufe sind eigene Vorschläge. Bei der Baumfrage im Ausgangsmaterial bezieht sich die Erklärung auf Kohlenstoff in der gebildeten Biomasse, während frische Pflanzen zusätzlich viel Wasser enthalten.

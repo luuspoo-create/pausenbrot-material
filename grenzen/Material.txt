@@ -1,4 +1,4 @@
-Erreichbar sein, ohne ständig bereit zu sein.
+Zeitgewinn in eine tragbare Arbeitswoche übersetzen
 
 ### ✉️ ELTERNBRIEF (zu Beginn des Schuljahres)
 «Ich bin gerne für Sie erreichbar. Mails beantworte ich werktags zwischen [7] und [17] Uhr, in der Regel innerhalb von [zwei] Arbeitstagen. Was abends oder am Wochenende kommt, lese ich am nächsten Arbeitstag. In dringenden Fällen erreichen Sie [Schulleitung / Sekretariat] unter [Nummer].»
@@ -21,54 +21,83 @@ Erreichbar sein, ohne ständig bereit zu sein.
 
 ### Grenzen schützen Engagement. 🕯️
 
-Du ersetzt eine allgemeine Bitte um Verständnis durch eine konkrete Nachricht: «Ich lese Nachrichten werktags am Nachmittag. In dringenden Fällen wenden Sie sich bitte an [abgesprochene Stelle].» Zeiten und Kontakt werden zuerst mit der Schule abgestimmt.
+## Ergänzung zum neuen Reel
+
+Hallo! Danke für deinen Kommentar 🧊 Hier ist die Karte fürs Lehrerzimmer:
+
+### KI SPART ZEIT. UND DANN? DREI REGELN
+
+### 1️⃣ Gesparte Zeit aufschreiben
+Notiere kurz, wofür die KI dir Zeit gespart hat (z. B. Entwurf Elternbrief, Aufgabe auf drei Niveaus) und wie viel ungefähr. Was nicht sichtbar ist, verschwindet.
+
+### 2️⃣ Eine Aufgabe streichen
+Prüfe bei gewonnenem Spielraum, welche Zusatzaufgabe entfallen, verschoben oder verteilt werden kann. Kläre verbindliche Aufgaben und Prioritäten mit dem Team.
+
+### 3️⃣ Feierabend bleibt Feierabend
+Keine Elternmails und keine Materialanpassungen nach deiner festen Uhrzeit, auch nicht «nur kurz mit KI».
+
+Engagement braucht Grenzen.
+
+Tipp fürs Team: Hängt die Karte ins Lehrerzimmer und tauscht euch einmal im Monat aus: Was hat die KI uns abgenommen, und was haben wir dafür gestrichen?
+
+Die Regeln sind mein Vorschlag, keine geprüfte Studie.
+
+### Mehr zu KI und Lernen: digitalespausenbrot.ch
+
+
 
 Vor dem Einsatz
-Entspricht die Formulierung den schulischen Absprachen?
-Ist der dringende Kontakt wirklich zuständig?
-Kann ich die angekündigte Reaktionszeit zuverlässig einhalten?
+Wähle eine wiederkehrende Aufgabe und schätze ihren bisherigen Gesamtaufwand. Erfasse beim KI-Versuch zusätzlich Kontrolle, Korrektur und Abstimmung.
+Entscheide bewusst, wie gewonnene Zeit verwendet wird. Besprich mit dem Team, welche Zusatzwünsche entfallen, verschoben oder anders verteilt werden können.
+Lege erreichbare Mail-Zeiten und einen abgestimmten Dringlichkeitsweg fest. Prüfe nach einer Woche, ob die Vereinbarung im Alltag tragfähig war.
 
 ## Der entscheidende Gedanke
 
-Eine Erreichbarkeitsregel hilft nur, wenn sie verständlich, realistisch und schulisch abgestimmt ist. Sie soll Orientierung geben, nicht Distanz demonstrieren. Wichtig sind normale Antwortzeiten, ein tatsächlich besetzter Dringlichkeitsweg und Rückhalt im Team.
+Zeitgewinn wird erst im gesamten Ablauf sichtbar. Entwurf, Kontrolle und Nacharbeit gehören in die Bilanz. Die Sammlung verbindet die neue Lehrerzimmer-Karte mit Formulierungen für Eltern und Team.
 
 ## So gehst du vor
 
-1. Prüfe die bestehenden schulischen Vereinbarungen. Formuliere dann, wann Nachrichten gelesen werden und wann mit einer Antwort gerechnet werden kann.
+1. Wähle eine wiederkehrende Aufgabe und schätze ihren bisherigen Gesamtaufwand. Erfasse beim KI-Versuch zusätzlich Kontrolle, Korrektur und Abstimmung.
 
-2. Kläre den vorgesehenen Weg für dringende Anliegen. Nenne nur Kontakte und Zeiten, die tatsächlich gelten und von den Zuständigen getragen werden.
+2. Entscheide bewusst, wie gewonnene Zeit verwendet wird. Besprich mit dem Team, welche Zusatzwünsche entfallen, verschoben oder anders verteilt werden können.
 
-3. Teste die Formulierung an zwei Situationen: eine normale Frage am Abend und ein Anliegen, das nicht bis zur üblichen Antwort warten kann.
+3. Lege erreichbare Mail-Zeiten und einen abgestimmten Dringlichkeitsweg fest. Prüfe nach einer Woche, ob die Vereinbarung im Alltag tragfähig war.
 
 ## Ein Fall, ganz durchdacht
 
 Ausgearbeitetes Beispiel, kein Bericht aus einer konkreten Klasse.
 
-**Ausgangslage:** Ein Elternbrief verspricht Antworten «werktags zwischen 7 und 17 Uhr». Eltern verstehen das als jederzeitige unmittelbare Erreichbarkeit in diesem Zeitraum.
+**Ausgangslage:** Fiktives Beispiel für einen Elternbrief. Bisher dauert der vollständige Ablauf 35 Minuten. Mit KI entstehen 8 Minuten Entwurf, 12 Minuten Prüfung und 5 Minuten Anpassung.
 
-**Darauf kommt es an:** Lesezeiten und Antwortfrist wurden vermischt. Eine klare Regel muss nicht ständige Präsenz versprechen, sondern einen verlässlichen Erwartungsrahmen.
+**Darauf kommt es an:** Der Gesamtaufwand beträgt 25 Minuten. Die Entlastung liegt bei 10 Minuten. Wird zugleich ein neuer 15-Minuten-Auftrag übernommen, steigt die gesamte Arbeitszeit um 5 Minuten.
 
-**Eine begründete Lösung:** Präzisierung: «Ich bearbeite Nachrichten an Arbeitstagen und antworte in der Regel innerhalb von [abgestimmter Frist]. Für dringende Anliegen gilt der schulisch vereinbarte Weg über [Kontakt].»
+**Eine begründete Lösung:** Die Lehrperson dokumentiert die echte Entlastung, bespricht den Zusatzauftrag im Team und nutzt die abgestimmten Mail-Zeiten im Elternbrief.
 
 ## Deine Vorlage
 
 ```text
-Gültige Schulregel: […]
-Wann ich Nachrichten bearbeite: […]
-Realistische Antwortfrist: […]
-Abgestimmter Dringlichkeitsweg: […]
-Rückhalt / zuständige Ansprechperson: […]
-Termin zur Überprüfung: […]
+Aufgabe […]
+Bisheriger Gesamtaufwand […]
+Entwurf + Prüfung + Nacharbeit […]
+Tatsächlicher Zeitgewinn […]
+Diese Zusatzaufgabe bespreche ich […]
+Meine vereinbarten Antwortzeiten […]
+Dringlichkeitsweg […]
+Rückblick nach einer Woche […]
 ```
 
 ## Wenn es hakt
 
-- Ausnahme wird neue Norm: Wenn du gelegentlich abends antwortest, erkläre bei Bedarf, dass daraus keine neue Antwortzeit entsteht.
+- Pflichtaufgaben werden spontan gestrichen: Kläre Prioritäten und Zuständigkeiten mit der verantwortlichen Person.
 
-- Grenze ohne Zuständigkeit: Ein nicht erreichbarer Notfallkontakt schafft falsche Sicherheit. Kläre den Weg, bevor er im Brief steht.
+- Prüfzeit fehlt in der Bilanz: Miss den vollständigen Ablauf bis zur brauchbaren Fassung.
 
 ## Übertragen und weiterdenken
 
-Besprecht im Team eine wiederkehrende Zusatzaufgabe: Was wird übernommen, was dafür abgegeben und wer bestätigt die neue Verteilung?
+Vergleicht im Team zwei wiederkehrende Aufgaben und entscheidet, wo eine gemeinsame Vorlage oder klare Zuständigkeit stärker entlastet.
 
-**Woran du die Qualität erkennst:** Die Regel ist für Eltern verständlich, im Alltag einhaltbar und mit der Schule abgestimmt. Sie ersetzt keine arbeitsrechtliche Vereinbarung.
+**Woran du die Qualität erkennst:** Die Zeitbilanz umfasst alle Arbeitsschritte und mündet in eine tatsächlich umgesetzte Vereinbarung.
+
+## Einordnung und Quellen
+
+Eigene Reflexions- und Kommunikationsvorlagen. Die Zahlen im Rechenfall sind frei gewählt und dienen einer transparenten Bilanz. Schulische Pflichten und bestehende Absprachen werden bei Entscheidungen berücksichtigt.
