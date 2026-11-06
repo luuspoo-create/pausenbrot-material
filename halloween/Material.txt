@@ -75,3 +75,58 @@ Frage für den Abschluss: […]
 Verwende dieselben Aufgaben später mit einem anderen Rahmen. Die Lernenden sollen den gemeinsamen fachlichen Kern wiedererkennen.
 
 **Woran du die Qualität erkennst:** Jede Station ist ohne Ratespiel fachlich lösbar, und alle Beteiligten können mindestens einen Lösungsweg erklären.
+
+
+## Den Einsatz durchdenken
+
+Ein Mini-Escape-Room verbindet einen erzählerischen Anlass mit überprüfbaren Fachaufgaben. Die Freigabe einer Ziffer wird an einen nachvollziehbaren Lösungsweg geknüpft. Hinweise greifen typische Hürden auf. Die Geschichte kann die Aufgabe motivieren, während die fachliche Prüfung vor dem Einsatz durch die Lehrperson erfolgt.
+
+## Vorbereiten
+
+Bereite drei geprüfte Aufgaben, Lösungen und kleine Hilfekarten vor.
+
+Lege fest, welche Erklärung eine Gruppe vor der Freigabe jeder Ziffer zeigen soll.
+
+## Fiktiver Übungsfall
+
+Fiktives Beispiel mit drei Stationen. A fragt nach einem Achtel von 24 Kürbissen. B fragt nach der Anzahl Seiten eines Sechsecks. C fragt nach der Quersumme der Zahl 14. Die drei Ergebnisse bilden in dieser Reihenfolge einen Code.
+
+### Aufgabe 1
+
+Löse alle drei Aufgaben und begründe jeweils den Weg.
+
+Lösungsvorschlag
+
+A ergibt 3, weil 24 durch 8 geteilt wird. B ergibt 6. C ergibt 1 + 4 = 5. Der Code lautet damit 365.
+
+### Aufgabe 2
+
+Formuliere für Station A einen kleinen Hinweis.
+
+Lösungsvorschlag
+
+Ein geeigneter Hinweis fordert dazu auf, 24 Gegenstände in acht gleich grosse Gruppen aufzuteilen und die Grösse einer Gruppe zu bestimmen.
+
+### Aufgabe 3
+
+Entwirf eine Freigaberegel, die eine fachliche Erklärung verlangt.
+
+Lösungsvorschlag
+
+Eine passende Regel verlangt vor jeder Ziffer eine kurze Erklärung oder Darstellung des Lösungswegs. Bei einem falschen Weg wird eine gezielte Hilfekarte genutzt.
+
+## Unterstützung
+
+Verwende Anschauungsmaterial für die Bruchaufgabe und deutlich getrennte Stationskarten.
+
+## Weiterdenken
+
+Ersetze eine Station durch eine Aufgabe mit einer typischen falschen Lösung und lass die Gruppe den Fehler vor der Freigabe erläutern.
+
+### Wie verhindere ich reines Durchprobieren?
+
+Kopple die Freigabe an eine begründete fachliche Handlung und beobachte den Lösungsweg.
+
+### Wie umfangreich sollte die Geschichte sein?
+
+Halte sie so kurz, dass der Auftrag und die fachlichen Aufgaben klar erkennbar bleiben. Wähle Inhalt und Stimmung passend zur Lerngruppe.

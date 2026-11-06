@@ -96,3 +96,58 @@ Nutze als mathematischen Gegenfall zwei Rechtecke mit Seiten 1 × 5 und 2 × 4. 
 ## Einordnung und Quellen
 
 Die [NASA erläutert Achsenneigung und Jahreszeiten](https://spaceplace.nasa.gov/seasons/en/). Die Unterrichtsabläufe sind eigene Vorschläge. Bei der Baumfrage im Ausgangsmaterial bezieht sich die Erklärung auf Kohlenstoff in der gebildeten Biomasse, während frische Pflanzen zusätzlich viel Wasser enthalten.
+
+
+## Den Einsatz durchdenken
+
+Ein Widerspruch im Einstieg kann unterschiedliche Vorstellungen sichtbar machen. Die Auflösung braucht einen nachvollziehbaren Beleg und einen Anschluss an das Lernziel. Die Sammlung umfasst verschiedene Einstiegsformen und konkrete Fachfragen. Entscheidend ist, welche Begründungen vor der Auflösung entstehen und wie diese später überarbeitet werden.
+
+## Vorbereiten
+
+Wähle eine Aussage mit einer gut überprüfbaren Auflösung und löse sie vorab selbst.
+
+Bereite eine Anschlussaufgabe vor, in der derselbe Gedanke erneut gebraucht wird.
+
+## Fiktiver Übungsfall
+
+Fiktiver mathematischer Einstieg. Eine Person behauptet, 0,999… sei ein winziges Stück kleiner als 1. Die Auslassungspunkte stehen ausdrücklich für unendlich viele Neunen. Zum Prüfen wird x = 0,999… gesetzt und mit 10 multipliziert.
+
+### Aufgabe 1
+
+Schreibe 10x und bilde die Differenz 10x − x.
+
+Lösungsvorschlag
+
+Es gilt 10x = 9,999…. Beim Subtrahieren bleibt 9x = 9, daher x = 1. Die Rechnung setzt die unendliche periodische Darstellung voraus.
+
+### Aufgabe 2
+
+Erkläre den Unterschied zwischen 0,999 und 0,999….
+
+Lösungsvorschlag
+
+0,999 ist eine endliche Dezimalzahl mit Abstand 0,001 zu 1. 0,999… bezeichnet die unendliche periodische Darstellung derselben Zahl wie 1.
+
+### Aufgabe 3
+
+Formuliere eine Anschlussfrage zu einer anderen periodischen Dezimalzahl.
+
+Lösungsvorschlag
+
+Eine passende Anschlussfrage untersucht 0,333… und den Zusammenhang mit einem Drittel. Dabei muss die Bedeutung der Periodenschreibweise erklärt werden.
+
+## Unterstützung
+
+Beginne mit endlichen Dezimalzahlen und ihren Abständen zu 1. Kläre anschliessend die Bedeutung der unendlichen Fortsetzung.
+
+## Weiterdenken
+
+Lass die Klasse eine eigene Erklärung für den Unterschied zwischen immer kleineren endlichen Abständen und dem Grenzwert formulieren.
+
+### Was tun, wenn die Überraschung die Klasse irritiert?
+
+Gib Raum für die erste Begründung und prüfe die Aussage schrittweise an der Darstellung. Offene Begriffe werden vor der Schlussfolgerung geklärt.
+
+### Wie wird aus dem Einstieg eine Lernaufgabe?
+
+Die Anschlussfrage verlangt denselben entscheidenden Gedanken in einer neuen Situation und macht die Begründung erneut sichtbar.

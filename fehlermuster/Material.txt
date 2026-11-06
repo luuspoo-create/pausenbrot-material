@@ -74,3 +74,58 @@ Passende Anschlussaufgabe und geprüfte Lösung: […]
 Prüfe nach der Förderung eine leicht veränderte Aufgabe. Entscheidend ist, ob der zuvor vermutete Fehler erneut auftritt und erklärt werden kann.
 
 **Woran du die Qualität erkennst:** Jede Zuordnung hat einen sichtbaren Beleg, eine alternative Erklärung und eine Frage, mit der sich die Vermutung überprüfen lässt.
+
+
+## Den Einsatz durchdenken
+
+Ein Fehlermuster ist eine begründete Arbeitshypothese über mehrere Lösungen. Zuerst werden die tatsächlichen Schreibweisen gesichert. Danach wird geprüft, ob dieselbe fachliche Schwierigkeit vorliegen könnte. Eine kurze Anschlussfrage hilft, Vermutungen über den Denkweg zu klären. Die nächste Unterrichtsaufgabe wird auf die bestätigte Hürde ausgerichtet und erneut beobachtet.
+
+## Vorbereiten
+
+Erstelle drei fiktive Lösungen zu derselben Aufgabe und halte eine korrekte Musterlösung bereit.
+
+Nummeriere die Lösungen und Zeilen, damit jede Zuordnung überprüfbar bleibt.
+
+## Fiktiver Übungsfall
+
+Fiktive Lösungen zu 2(x + 4) = 18. A schreibt 2x + 4 = 18, B schreibt 2x + 8 = 18 und rechnet korrekt weiter, C schreibt ebenfalls 2x + 4 = 18. Eine KI bezeichnet alle drei als denselben Klammerfehler.
+
+### Aufgabe 1
+
+Prüfe die Zuordnung an jeder Lösung.
+
+Lösungsvorschlag
+
+A und C multiplizieren die 4 innerhalb der Klammer nicht mit 2. B löst die Klammer korrekt auf. Die gemeinsame Zuordnung zu allen drei Lösungen ist daher zu korrigieren.
+
+### Aufgabe 2
+
+Formuliere die verbleibende Hypothese mit einer passenden Rückfrage.
+
+Lösungsvorschlag
+
+Die Hypothese betrifft das Distributivgesetz bei A und C. Eine Rückfrage lässt zwei gleiche Klammern als Summe ausschreiben und jeden Teil markieren.
+
+### Aufgabe 3
+
+Entwirf eine Anschlussaufgabe samt Lösung.
+
+Lösungsvorschlag
+
+Eine geeignete Anschlussaufgabe ist 3(x + 2) = 21. Die Lösung führt über 3x + 6 = 21 und 3x = 15 zu x = 5.
+
+## Unterstützung
+
+Gib zunächst nur zwei gut lesbare Lösungen vor. Lass die genaue Fehlerstelle markieren, bevor eine Erklärung gesucht wird.
+
+## Weiterdenken
+
+Ergänze einen ähnlichen Abschreibfehler und besprecht, weshalb eine gleich aussehende falsche Zeile unterschiedliche Ursachen haben kann.
+
+### Wie sicher ist die Deutung eines Denkfehlers?
+
+Sie bleibt eine Hypothese, bis der Denkweg durch weitere Erklärung oder eine passende neue Aufgabe geklärt wurde.
+
+### Was zählt für die Anschlussplanung?
+
+Wähle eine bestätigte fachliche Hürde und eine Aufgabe, an der genau dieser Schritt sichtbar wird.

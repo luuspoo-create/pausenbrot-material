@@ -79,3 +79,58 @@ Lass bei einem neuen Text dieselbe Art Überarbeitung selbstständig finden. So 
 ## Einordnung und Quellen
 
 Weber-Wulff et al. untersuchten Grenzen von KI-Textdetektoren. Liang et al. untersuchten unter anderem Fehlzuordnungen bei englischen Texten von Nicht-Muttersprachler:innen. Das begründet Vorsicht, nicht einen universellen Prozentwert für jeden heutigen Detektor. [Weber-Wulff et al. (2023)](https://link.springer.com/article/10.1007/s40979-023-00146-z) · [Liang et al. (2023)](https://arxiv.org/abs/2304.02819). Ein Prozessgespräch ist ebenfalls kein sicherer Urheberschaftsbeweis.
+
+
+## Den Einsatz durchdenken
+
+Ein aussagekräftiges Portfolio zeigt wenige Entscheidungen so genau, dass sie besprochen werden können. Zu einer Änderung gehört die betreffende Textstelle, der Anlass und die begründete Wirkung. Der Blick auf den Prozess unterstützt Rückmeldung und Weiterarbeit. Die angekündigten Kriterien und der Umfang gelten für alle Beteiligten in nachvollziehbarer Form.
+
+## Vorbereiten
+
+Bewahre einen kurzen Erstentwurf und eine spätere Fassung auf.
+
+Markiere eine Änderung, deren Wirkung du mit einer Textstelle erklären kannst.
+
+## Fiktiver Übungsfall
+
+Fiktiver Schreibprozess. Im Entwurf steht «Ein Handyverbot verbessert alles». Nach Rückmeldung lautet der Satz «Während gemeinsamer Erklärphasen können klare Handyregeln Ablenkungen reduzieren». Die Person hat die Aussage eingegrenzt.
+
+### Aufgabe 1
+
+Beschreibe die Veränderung möglichst genau.
+
+Lösungsvorschlag
+
+Die pauschale Aussage wurde auf eine konkrete Situation und eine mögliche Wirkung begrenzt. Der Ausdruck «können» macht die Reichweite vorsichtiger.
+
+### Aufgabe 2
+
+Welche Begründung zeigt Verständnis für die Überarbeitung?
+
+Lösungsvorschlag
+
+Eine tragfähige Begründung erklärt, dass die erste Formulierung weder Situationen noch Bedingungen unterschied und weit über den vorhandenen Beleg hinausging.
+
+### Aufgabe 3
+
+Formuliere eine weitere offene Prüffrage zum Text.
+
+Lösungsvorschlag
+
+Eine offene Frage betrifft den passenden Beleg für die behauptete Verringerung von Ablenkung oder mögliche unterschiedliche Auswirkungen der Regel.
+
+## Unterstützung
+
+Vergleiche zunächst nur zwei Sätze und nutze Satzstarter für Anlass und Wirkung der Änderung.
+
+## Weiterdenken
+
+Wähle zusätzlich einen Rückmeldungsvorschlag, den du begründet verworfen hast.
+
+### Muss jeder Zwischenschritt gesammelt werden?
+
+Wähle die vorab vereinbarten, aussagekräftigen Spuren. Der Umfang soll Rückmeldung und Lernen praktisch unterstützen.
+
+### Was hilft im kurzen Gespräch?
+
+Zeige auf eine konkrete Änderung und lass ihren Grund sowie eine mögliche Alternative erläutern.

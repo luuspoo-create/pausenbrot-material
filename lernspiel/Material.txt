@@ -68,3 +68,58 @@ Hinweis ohne Lösung: […]
 Lass nach dem Spiel eine ähnliche Aufgabe ohne Story lösen. So wird der fachliche Kern aus dem Spielrahmen herausgelöst.
 
 **Woran du die Qualität erkennst:** Die Gruppe kann erklären, welches Wissen sie für die Station brauchte und warum ihr Lösungsweg funktioniert.
+
+
+## Den Einsatz durchdenken
+
+Die fachliche Erklärung gehört zur Freigabe einer Station. So wird sichtbar, ob der Code aus einem verstandenen Zusammenhang entstanden ist. Ein Irrweg sollte eine passende Rückmeldung auslösen. Nach dem Spiel verbindet eine kurze Rückschau die gelösten Rätsel mit dem Lernziel und einer neuen Anwendung ausserhalb der Geschichte.
+
+## Vorbereiten
+
+Lege eine geprüfte Fachaufgabe samt Einheit und Lösungsweg fest.
+
+Bereite eine Hilfekarte für den erwarteten Denkfehler vor.
+
+## Fiktiver Übungsfall
+
+Fiktive Station. Ein Körper hat eine Masse von 72 g und ein Volumen von 24 cm³. Die Dichte liefert eine Ziffer. Zwei Gruppen geben 3 ein. Eine erklärt ihren Quotienten, die andere hat mehrere Ziffern ausprobiert.
+
+### Aufgabe 1
+
+Berechne die Dichte und erkläre die Einheit.
+
+Lösungsvorschlag
+
+Die Dichte beträgt 72 g : 24 cm³ = 3 g/cm³. Pro Kubikzentimeter entfallen in diesem Modell 3 Gramm Masse.
+
+### Aufgabe 2
+
+Entwirf eine Freigabefrage, die den Lösungsweg sichtbar macht.
+
+Lösungsvorschlag
+
+Eine geeignete Frage verlangt, zu erklären, welche Grösse durch welche geteilt wurde und was die resultierende Einheit bedeutet.
+
+### Aufgabe 3
+
+Schreibe einen Hinweis für die Rechnung 24 : 72.
+
+Lösungsvorschlag
+
+Der Hinweis lässt den Satz «Masse pro Volumen» mit den gegebenen Grössen verbinden. Danach wird der Quotient erneut selbst gebildet.
+
+## Unterstützung
+
+Gib eine Tabelle mit Masse, Volumen und Einheiten vor und lass die gesuchte Beziehung beschriften.
+
+## Weiterdenken
+
+Entwirf eine zweite Station mit derselben Dichte und anderen Werten, etwa 150 g und 50 cm³.
+
+### Wie viel Geschichte braucht das Spiel?
+
+So viel, dass der Auftrag verständlich und motivierend wird. Die Fachaufgabe und ihr Nachweis müssen gut erkennbar bleiben.
+
+### Was gehört in die Auswertung?
+
+Vergleicht Lösungswege und hilfreiche Hinweise und löst eine kurze neue Aufgabe zum gleichen Zusammenhang.

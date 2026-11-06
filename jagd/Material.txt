@@ -1,7 +1,7 @@
 Nicht nur Fehler finden. Fehler belegen.
 
 ### Vorbereitung (10 Min.)
-Lass ein Sprachmodell einen Fachtext zu deinem Thema schreiben, ohne Anweisung zur Qualitätskontrolle, oder bau bewusst Fehler ein. Wie viele Fehler ein KI-Text enthält, lässt sich nicht vorhersagen. Verwende für die Übung nur einen Text, dessen Aussagen du vorher geprüft hast. Prüf den Text vorher selbst.
+Lass ein Sprachmodell einen Fachtext zu deinem Thema schreiben, ohne Anweisung zur Qualitätskontrolle, oder bau bewusst Fehler ein. Wie viele Fehler ein KI-Text enthält, lässt sich nicht vorhersagen. Verwende für die Übung nur einen Text, dessen Aussagen du vorher geprüft hast. 
 
 ### Auftrag an die Klasse
 «Prüft die Aussagen. Belegt eure Urteile und unterscheidet bestätigte Fehler von offenen Fragen. Die Qualität der Begründung zählt.»
@@ -78,3 +78,58 @@ Was müsste ich zusätzlich wissen? […]
 Lass im nächsten Text eine korrekte Aussage verteidigen. So wird auch das begründete Bestätigen geübt, nicht nur das Misstrauen.
 
 **Woran du die Qualität erkennst:** Ein anderer Mensch kann den Fund anhand des angegebenen Belegs nachvollziehen und versteht, warum die Korrektur genauer ist.
+
+
+## Den Einsatz durchdenken
+
+Beim Hallucination Hunt wird eine fachliche Aussage überprüft, ihre Gültigkeit begründet und gegebenenfalls eine präzisere Fassung formuliert. Die Lehrperson kennt die verwendeten Fehlerstellen und hält eine tragfähige Auflösung bereit. Auch eine zunächst offene Stelle kann zum guten Ergebnis gehören, wenn die Gruppe den fehlenden Beleg präzise benennt. Die Qualität der Begründung steht im Zentrum der Auswertung.
+
+## Vorbereiten
+
+Wähle ein bereits behandeltes Thema und bereite einen kurzen kontrollierten Übungstext sowie passende Quellen vor.
+
+Lege vorab fest, woran eine nachvollziehbare Begründung erkannt wird.
+
+## Fiktiver Übungsfall
+
+Bewusst fehlerhafter Übungstext. «Ein Rechteck mit Seiten 3 cm und 7 cm hat Umfang 21 cm. Seine Fläche beträgt 20 cm². Wenn beide Seiten verdoppelt werden, verdoppelt sich auch seine Fläche.» Alle drei Aussagen sollen rechnerisch geprüft werden.
+
+### Aufgabe 1
+
+Prüfe jede Aussage mit einer passenden Rechnung oder Zeichnung.
+
+Lösungsvorschlag
+
+Der Umfang beträgt 2 × 3 + 2 × 7 = 20 cm. Die Fläche beträgt 3 × 7 = 21 cm². Bei Seiten 6 und 14 ergibt sich eine Fläche von 84 cm².
+
+### Aufgabe 2
+
+Schreibe zu jedem Fund eine begründete Korrektur.
+
+Lösungsvorschlag
+
+Die ersten beiden Zahlen wurden vertauscht. Die dritte Aussage wird korrigiert, weil beim Verdoppeln beider Seiten die Fläche mit 2 × 2, also mit 4 multipliziert wird.
+
+### Aufgabe 3
+
+Erkläre, welcher Unterschied zwischen Umfang und Fläche hier wichtig ist.
+
+Lösungsvorschlag
+
+Umfang misst die Randlänge und wird in Längeneinheiten angegeben. Fläche misst den Inhalt und wird in Quadrateinheiten angegeben. Die Veränderung beider Seiten wirkt sich deshalb unterschiedlich aus.
+
+## Unterstützung
+
+Gib Rasterpapier und die beiden Formeln als fachliche Grundlage. Lass die Fundstellen zunächst nur markieren.
+
+## Weiterdenken
+
+Lass eine weitere Aussage zur Verdreifachung beider Seiten prüfen und das Ergebnis allgemein begründen.
+
+### Wie viele Fehler sollte ein Text enthalten?
+
+Wähle eine überschaubare, selbst geprüfte Zahl passend zu Vorwissen und Auftrag. Dokumentiere jede beabsichtigte Fehlerstelle in der Lösung.
+
+### Wie gehe ich mit einem unerwarteten Fund um?
+
+Prüfe ihn gemeinsam an einer verlässlichen Grundlage und ergänze die Auflösung. Ein begründeter zusätzlicher Fund ist ein wertvoller Anlass zum Nachschärfen.

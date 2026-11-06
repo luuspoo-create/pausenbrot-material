@@ -69,3 +69,58 @@ Die Quelle untersucht […]. Im Text wird daraus […] gemacht. Diese Schlussfol
 Wende die Unterscheidung auf einen Nachrichtenartikel an. Bleibt seine Überschrift innerhalb dessen, was die verlinkte Untersuchung tatsächlich gemessen hat?
 
 **Woran du die Qualität erkennst:** Du unterscheidest Existenz, Passung und Aussagekraft einer Quelle. Diese frei zugängliche Einordnung ersetzt nicht das separate Paid-Unterrichtspaket.
+
+
+## Den Einsatz durchdenken
+
+Quellenkritik umfasst mehrere voneinander unabhängige Fragen. Eine auffindbare Veröffentlichung kann korrekt zitiert sein und trotzdem eine engere Aussage behandeln als diejenige im KI-Text. Auch Untersuchungsgruppe, Messgrösse und Datum beeinflussen die Reichweite. Die freie Vertiefung zeigt diese Unterschiede an einem erfundenen Beispiel. Das vollständige Unterrichtspaket ist im verlinkten Paid-Beitrag beschrieben.
+
+## Vorbereiten
+
+Lies die behauptete Aussage und die tatsächlich vorliegende Quellenpassage getrennt.
+
+Achte darauf, welche Gruppe und welche Messgrösse jeweils genannt werden.
+
+## Fiktiver Übungsfall
+
+Fiktives Lesebeispiel. Eine Zusammenfassung behauptet, dass ein Lernwerkzeug die Leistungen aller Jugendlichen verbessert. Die zugrunde gelegte Passage berichtet lediglich, dass 18 befragte Erwachsene die Bedienung angenehm fanden.
+
+### Aufgabe 1
+
+Welche Unterschiede fallen zwischen Behauptung und Passage auf?
+
+Lösungsvorschlag
+
+Die Gruppe wechselt von Erwachsenen zu Jugendlichen. Die Messgrösse wechselt von empfundener Bedienbarkeit zu Lernleistung. Aus der kleinen beschriebenen Befragung wird eine allgemeine Behauptung.
+
+### Aufgabe 2
+
+Welche engere Aussage wäre durch das Beispiel gedeckt?
+
+Lösungsvorschlag
+
+Gedeckt wäre die Aussage, dass die 18 befragten Erwachsenen in diesem erfundenen Beispiel die Bedienung als angenehm beschrieben.
+
+### Aufgabe 3
+
+Welche weitere Information wäre für eine Aussage zur Lernleistung nötig?
+
+Lösungsvorschlag
+
+Nötig wären geeignete Leistungsdaten mit nachvollziehbarem Untersuchungsaufbau, passender Vergleichsgrundlage und einer zur Aussage passenden Zielgruppe.
+
+## Unterstützung
+
+Konzentriere dich beim Lesen zuerst auf die zwei Fragen, wer untersucht und was tatsächlich gemessen wurde.
+
+## Weiterdenken
+
+Prüfe beim nächsten Fachtext zusätzlich, ob eine zeitliche Veränderung oder ein Gruppenunterschied beschrieben wird.
+
+### Wo finde ich die vollständigen Unterrichtsvorlagen?
+
+Der im Material verlinkte Paid-Beitrag enthält das vollständige Unterrichtspaket. Diese Seite bietet den freien Einstieg und eine zusätzliche Lesevertiefung.
+
+### Warum kann ein echtes Zitat trotzdem problematisch sein?
+
+Sein Wortlaut kann korrekt sein, während die daraus abgeleitete Schlussfolgerung über Gruppe, Messgrösse oder Bedingungen hinausgeht.

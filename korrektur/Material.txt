@@ -67,3 +67,58 @@ Offene Freigabefrage: […]
 Vergleicht im Fachteam denselben Grenzfall zunächst ohne KI. Wenn bereits das menschliche Raster unklar ist, sollte diese Unklarheit zuerst bearbeitet werden.
 
 **Woran du die Qualität erkennst:** Jeder Vorschlag lässt sich am Kriterium und an der Antwort prüfen; Verantwortung und Einwandweg bleiben bei den zuständigen Menschen.
+
+
+## Den Einsatz durchdenken
+
+Die Fachschaft kann eine automatisierte Rückmeldung zunächst an fiktiven Arbeiten und einem klaren Raster untersuchen. Für die Entscheidung zählen fachliche Zuverlässigkeit, nachvollziehbare Belege, Arbeitsaufwand und die geklärten Zuständigkeiten. Der historische Anlass aus dem Reel wird von der eigenen Erprobung getrennt betrachtet. Eine reale Nutzung verlangt den vorgesehenen schulischen Freigabeprozess.
+
+## Vorbereiten
+
+Wähle ein klar beschriebenes Kriterium und zwei vollständig erfundene Beispielantworten.
+
+Lass zwei Lehrpersonen die Antworten zunächst unabhängig am Raster beurteilen.
+
+## Fiktiver Übungsfall
+
+Fiktiver Abgleich. Das Kriterium verlangt eine fachlich richtige Begründung. Die KI gibt einer flüssig formulierten Antwort eine gute Einschätzung, obwohl ein entscheidender Zusammenhang fehlt. Eine sprachlich knappe, fachlich vollständige Antwort wird dagegen schlechter eingeordnet.
+
+### Aufgabe 1
+
+Welche Textstellen müssen im Abgleich betrachtet werden?
+
+Lösungsvorschlag
+
+Geprüft werden die tatsächlich enthaltenen fachlichen Zusammenhänge und die Belege, auf die sich die Einschätzungen stützen.
+
+### Aufgabe 2
+
+Wie würdest du die Abweichung am Kriterium begründen?
+
+Lösungsvorschlag
+
+Eine nachvollziehbare Begründung trennt sprachliche Flüssigkeit von der im Raster geforderten fachlichen Vollständigkeit und nennt die entscheidenden Stellen.
+
+### Aufgabe 3
+
+Welche Entscheidung über eine weitere Erprobung folgt daraus?
+
+Lösungsvorschlag
+
+Vor einer weiteren Erprobung wird das Kriterium präzisiert und an neuen fiktiven Antworten geprüft. Zuständigkeit und zulässiger Datenweg werden gesondert geklärt.
+
+## Unterstützung
+
+Beschränke den Vergleich auf ein Kriterium und kurze Antworten mit bekannter fachlicher Lösung.
+
+## Weiterdenken
+
+Erstelle mehrere sprachlich unterschiedliche Fassungen derselben fachlichen Antwort und vergleiche die Stabilität der Einschätzungen.
+
+### Was kann die Fachschaft bereits vorbereiten?
+
+Sie kann Kriterien, fiktive Testfälle, Zuständigkeiten und Fragen zum Datenweg sammeln und ihre eigene Beurteilung daran abstimmen.
+
+### Was gehört in die Dokumentation?
+
+Die konkrete Fassung des Rasters, verwendete Testfälle, beobachtete Abweichungen und die daraus abgeleitete nächste Entscheidung.

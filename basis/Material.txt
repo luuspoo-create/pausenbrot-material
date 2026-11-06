@@ -79,3 +79,58 @@ Beobachtete Abweichung und gezielte Änderung: […]
 Überprüfe beim nächsten Themenwechsel, welche Dateien veraltet sind und welche Vorgaben nur für den vorherigen Auftrag galten.
 
 **Woran du die Qualität erkennst:** Du kannst jede gespeicherte Information einem Zweck zuordnen und erkennst in Testausgaben, ob die Trennung funktioniert.
+
+
+## Den Einsatz durchdenken
+
+Ein überschaubares Setup verbindet wiederkehrende Vorgaben mit einem konkreten Arbeitskontext und einer festen Prüfroutine. Entscheidend ist, dass du den Zweck jedes Bausteins erklären kannst. Beginne bei einer häufigen Aufgabe und beobachte, welche Informationen wiederholt fehlen. Daraus ergibt sich, ob eine Anweisung, eine Materialsammlung oder ein wiederverwendbarer Ablauf sinnvoll ergänzt werden sollte.
+
+## Vorbereiten
+
+Wähle eine wiederkehrende Aufgabe, etwa ein Exit-Ticket, und einen passenden schulischen Zugang.
+
+Lege einen Beispielauftrag und eine fachlich geprüfte Erwartungsantwort bereit.
+
+## Fiktiver Übungsfall
+
+Fiktiver Ausgangspunkt. Eine Lehrperson schreibt bei jedem Exit-Ticket erneut Sprache, Aufgabenanzahl und Lösungsformat in den Chat. Gleichzeitig lädt sie immer wieder denselben eigenen Lehrplanabschnitt hoch. Ein verbundener Cloudordner enthält weit mehr Material, als dafür benötigt wird.
+
+### Aufgabe 1
+
+Welche Angaben eignen sich für eine wiederkehrende Anweisung?
+
+Lösungsvorschlag
+
+Schweizer Rechtschreibung und ein wiederkehrender Antwortstil passen zu allgemeinen Vorgaben. Der feste Exit-Ticket-Ablauf kann als passende Vorlage oder Skill gespeichert werden.
+
+### Aufgabe 2
+
+Welche Informationen gehören zum konkreten Arbeitskontext?
+
+Lösungsvorschlag
+
+Der konkrete Lehrplanabschnitt und das heutige Lernziel gehören zum jeweiligen Kontext. Dafür wird gezielt das benötigte, freigegebene Material bereitgestellt.
+
+### Aufgabe 3
+
+Wie kannst du prüfen, ob das Setup die Aufgabe verbessert?
+
+Lösungsvorschlag
+
+Teste dieselbe Aufgabenart an zwei unterschiedlichen Themen. Prüfe fachliche Richtigkeit, Zielbezug, passende Schwierigkeit und getrennte Lösungen.
+
+## Unterstützung
+
+Richte zunächst nur Anweisung, einen begrenzten Materialkontext und eine Prüfliste ein. Beobachte danach den Bedarf an weiteren Bausteinen.
+
+## Weiterdenken
+
+Erstelle eine kleine Dokumentation, welche Information wo gepflegt wird und wie eine veraltete Vorgabe erkannt und ersetzt wird.
+
+### Woran merke ich, dass mein Setup zu kompliziert wird?
+
+Du kannst bei einem Ergebnis kaum noch nachvollziehen, welche Vorgabe gewirkt hat. Reduziere auf einen prüfbaren Auftrag und ergänze gezielt.
+
+### Wann lohnt sich ein Skill?
+
+Wenn ein klarer Ablauf regelmässig gebraucht wird und sich anhand mehrerer Beispiele testen lässt. Der Nutzen zeigt sich in verlässlich passenden Ergebnissen.

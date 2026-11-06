@@ -55,3 +55,57 @@ Lies die bereitgestellten Unterlagen. Nenne höchstens drei fehlende Angaben, di
 Teste den geklärten Auftrag ohne zusätzliche Rückfragen an einem zweiten Material. Was bleibt konstant, was muss themenspezifisch neu geklärt werden?
 
 **Woran du die Qualität erkennst:** Du kannst zu jeder beantworteten Rückfrage zeigen, was sich dadurch an Aufgabe, Hilfe oder Lernnachweis geändert hat.
+
+## Den Einsatz durchdenken
+
+Gute Rückfragen klären Entscheidungen, die den Entwurf wesentlich verändern. Bereits bekannte Angaben werden zuerst bereitgestellt. Danach wird zwischen fachlich wichtigen Lücken und späteren Gestaltungsdetails unterschieden. Die Antworten fliessen in einen kurzen bestätigten Auftrag ein. Dieser Auftrag dient anschliessend als Grundlage für die Prüfung des fertigen Materials.
+
+## Vorbereiten
+
+Sammle Lernziel, vorhandenes Material und bekannte Rahmenbedingungen.
+
+Markiere die offenen Angaben, von denen Anspruch oder Aufgabenform abhängen.
+
+## Fiktiver Übungsfall
+
+Fiktiver Auftrag. «Erstelle eine Aufgabe zu Prozenten für die 8. Klasse.» Bekannt ist die Klassenstufe. Offen bleibt, ob Prozentwerte berechnet oder falsche Lösungswege begründet werden sollen. Die KI fragt zunächst nur nach Farben und Seitenzahl.
+
+### Aufgabe 1
+
+Welche Rückfrage hat die grösste fachliche Wirkung?
+
+Lösungsvorschlag
+
+Vorrangig ist die Frage nach der verlangten Denkhandlung und dem verfügbaren Vorwissen. Sie bestimmt die Aufgabe stärker als die Farbwahl.
+
+### Aufgabe 2
+
+Formuliere nach einer angenommenen Antwort einen präzisen Auftrag.
+
+Lösungsvorschlag
+
+Ein möglicher geklärter Auftrag verlangt den Vergleich dreier Rabattlösungen mit einem korrekten und zwei typischen fehlerhaften Wegen sowie eine begründete Fehleranalyse.
+
+### Aufgabe 3
+
+Welche Kriterien prüfst du am fertigen Entwurf?
+
+Lösungsvorschlag
+
+Geprüft werden fachlich korrekte Lösungen, tatsächlich unterscheidbare Fehler, verständliche Angaben und die Passung zum bestätigten Lernziel.
+
+## Unterstützung
+
+Begrenze den Klärungsdialog auf wenige entscheidende offene Punkte.
+
+## Weiterdenken
+
+Vergleiche zwei mögliche Antworten auf dieselbe Rückfrage und zeige, wie sich dadurch der Auftrag verändert.
+
+### Was tun bei bereits beantworteten Rückfragen?
+
+Verweise auf die vorhandene Angabe und bitte darum, nur noch entscheidungsrelevante Lücken zu klären.
+
+### Wann beginnt die Erstellung?
+
+Wenn Lernziel, Grundlage und gewünschter Nachweis ausreichend geklärt und im Auftrag zusammengefasst sind.

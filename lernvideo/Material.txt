@@ -77,3 +77,58 @@ Vergleiche die Erklärung nach dem Video mit einer Erklärung anhand einer einfa
 ## Einordnung und Quellen
 
 Die konkrete Bedienung und Verfügbarkeit von Video-Übersichten kann sich je nach Konto ändern. Prüfe die offizielle Hilfe vor der Erstellung; sie weist auch auf mögliche Ungenauigkeiten der generierten Ausgabe hin. [Google-Hilfe zu Video-Übersichten](https://support.google.com/gemininotebook/answer/16454555).
+
+
+## Den Einsatz durchdenken
+
+Bei einem Lernvideo müssen Bild, Sprache und zeitlicher Ablauf dieselbe Beziehung vermitteln. Eine Textprüfung vor der Produktion wird deshalb durch eine Sichtung der fertigen Sequenz ergänzt. Für wichtige Aussagen wird festgehalten, wo sie in der Quelle stehen und wie sie im Bild dargestellt werden. Die Anschlussfrage richtet sich auf diesen Zusammenhang.
+
+## Vorbereiten
+
+Wähle einen kurzen eigenen oder erlaubten Ausgangstext und markiere drei Kernaussagen.
+
+Erstelle für diese Aussagen eine Prüfliste mit Textstelle, gesprochenem Satz und sichtbarer Darstellung.
+
+## Fiktiver Übungsfall
+
+Fiktiver Entwurf zum Wasserkreislauf. Die Stimme erklärt Verdunstung und Kondensation. Im Bild steigt eine fertige Wolke unmittelbar aus dem See auf. Eine Zuschauerin beschreibt danach, dass Wolken als Ganzes aus dem Wasser kommen.
+
+### Aufgabe 1
+
+Welche Beziehung wird im Bild missverständlich dargestellt?
+
+Lösungsvorschlag
+
+Das Bild überspringt den Übergang von flüssigem Wasser zu Wasserdampf und die spätere Bildung kleiner Wassertröpfchen durch Kondensation.
+
+### Aufgabe 2
+
+Beschreibe eine passende Korrektur von Bild und Erklärung.
+
+Lösungsvorschlag
+
+Die Darstellung zeigt zunächst Wasserdampf und anschliessend Kondensation unter passenden Bedingungen. Beschriftungen und Sprechertext werden miteinander abgeglichen.
+
+### Aufgabe 3
+
+Formuliere eine Verständnisfrage zur überarbeiteten Sequenz.
+
+Lösungsvorschlag
+
+Eine passende Frage lautet, welche beiden Vorgänge zwischen dem Wasser im See und den kleinen Tröpfchen einer Wolke liegen und wie sie sich unterscheiden.
+
+## Unterstützung
+
+Prüfe zuerst nur eine kurze Sequenz und arbeite mit Standbildern.
+
+## Weiterdenken
+
+Lass zwei Personen dieselbe Sequenz unabhängig erklären und nutze unterschiedliche Deutungen für die Überarbeitung.
+
+### Reicht eine korrekte Abschrift des Sprechertexts?
+
+Auch Pfeile, Übergänge, Beschriftungen und Bildfolgen werden am Ausgangstext und an einer Fachgrundlage geprüft.
+
+### Wie wird das Video im Unterricht ausgewertet?
+
+Lass eine Beziehung erklären oder auf einen neuen Fall anwenden. Die Antwort zeigt, welche Stelle nochmals geklärt werden sollte.

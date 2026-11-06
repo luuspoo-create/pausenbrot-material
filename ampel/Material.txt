@@ -78,3 +78,58 @@ Teste deinen geplanten Auftrag mit einem vollständig erfundenen Beispiel. So ka
 ## Einordnung und Quellen
 
 Die Datenschutzbeauftragte des Kantons Zürich betont die Verantwortung der Schule beim KI-Einsatz. Der konkrete zulässige Arbeitsweg hängt von den zuständigen Vorgaben ab; die Ampel ist eine Orientierung, keine Freigabe. [Einsatz von KI in Schulen](https://www.datenschutz.ch/tb/2023/einsatz-von-ki-in-schulen).
+
+
+## Den Einsatz durchdenken
+
+Die Ampel unterstützt eine Entscheidung über eine konkrete Eingabe. Ihr Nutzen entsteht durch die Begründung der Farbe. Ein selbst verfasstes Dokument kann persönliche Beobachtungen enthalten, während eine öffentlich zugängliche Datei zusätzliche Nutzungsbedingungen haben kann. Prüfe daher Dateninhalt, Nutzungsrecht und freigegebenen Zweck gemeinsam. Bei Unsicherheit wird die Eingabe zuerst geklärt oder durch ein fiktives Beispiel ersetzt.
+
+## Vorbereiten
+
+Lege drei selbst erstellte Beispieldateien bereit und beschreibe jeweils den vorgesehenen Zweck.
+
+Besorge die aktuellen schulischen Vorgaben und eine erreichbare Ansprechperson für offene Fragen.
+
+## Fiktiver Übungsfall
+
+Fiktive Fallkarten. A enthält eine selbst geschriebene Sachaufgabe ohne Personenbezug. B enthält einen Lernbericht mit dem Ersatznamen Kind A und einer seltenen persönlichen Situation. C enthält einen Absatz aus einem lizenzierten Lehrmittel. Alle drei sollen zur sprachlichen Vereinfachung in einen externen Chat.
+
+### Aufgabe 1
+
+Ordne jede Karte vorläufig ein und begründe die Entscheidung.
+
+Lösungsvorschlag
+
+A kann grundsätzlich geeignet sein, wenn Werkzeug und Zweck freigegeben sind. Bei B kann die persönliche Situation die Person erkennbar machen. Bei C muss die Lizenz die geplante Verwendung erlauben.
+
+### Aufgabe 2
+
+Welche Änderung oder Klärung ist bei jeder Karte erforderlich?
+
+Lösungsvorschlag
+
+A braucht den Abgleich mit dem freigegebenen Arbeitsweg. B wird für einen Test durch eine vollständig erfundene Situation ersetzt. C verlangt eine Lizenzklärung oder einen eigenen Ersatztext.
+
+### Aufgabe 3
+
+Schreibe eine verständliche Regel für dein eigenes Team.
+
+Lösungsvorschlag
+
+Eine brauchbare Teamregel verlangt vor jeder Eingabe den Abgleich von Dateninhalt, Nutzungsrecht und freigegebenem Zweck und nennt die zuständige Stelle für offene Fälle.
+
+## Unterstützung
+
+Beginne mit den drei Fallkarten. Lass die Begründung mündlich formulieren und halte nur die entscheidende offene Frage schriftlich fest.
+
+## Weiterdenken
+
+Ergänze einen Fall mit mehreren scheinbar unkritischen Angaben, deren Kombination eine Person erkennbar macht. Erkläre, wodurch der Personenbezug entsteht.
+
+### Sind eigene Arbeitsblätter immer geeignet?
+
+Prüfe ihren tatsächlichen Inhalt. Namen, individuelle Rückmeldungen oder persönliche Fallbeschreibungen können auch in einem eigenen Arbeitsblatt stehen.
+
+### Was mache ich bei einem gelben Fall?
+
+Formuliere die noch offene Frage konkret und kläre sie vor der Übermittlung. Für das Ausprobieren bietet sich ein vollständig fiktiver Ersatz an.

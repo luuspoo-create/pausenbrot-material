@@ -73,3 +73,58 @@ Teste einen zweiten Aufgabentyp aus einem anderen Fach. Halte fest, welche Umbau
 ## Einordnung und Quellen
 
 Zum Werkzeug: [KI-Aufgaben-Transformator](https://digitalespausenbrot.ch/ki-aufgaben-transformator/). Die Vorlage und der ausgearbeitete Vorher-nachher-Fall ergänzen beide Reels zum selben Werkzeug. Die Fehleraussagen sind bewusst konstruiertes Prüfmaterial und keine verlässliche KI-Ausgabe.
+
+
+## Den Einsatz durchdenken
+
+Eine transformierte Aufgabe wird an der tatsächlich verlangten Denkhandlung geprüft. Auswahl, Vergleich, Belegprüfung und Übertragung können einen vorhandenen Auftrag verändern. Entscheidend sind passende Materialien und ein sichtbarer eigener Nachweis. Der Aufwand wird mitgedacht, damit zusätzliche Reflexion durch eine sinnvolle Kürzung an anderer Stelle tragbar wird.
+
+## Vorbereiten
+
+Notiere die ursprüngliche Aufgabe und ihre Zielkompetenz.
+
+Wähle eine Variante und bereite den benötigten fachlichen Vergleich vor.
+
+## Fiktiver Übungsfall
+
+Fiktiver Ausgangsauftrag. «Schreibe einen Text über erneuerbare Energien.» Eine Variante verlangt, zwei vorgegebene Aussagen über eine konkrete Energiequelle zu prüfen und eine begründete Empfehlung für eine definierte Situation abzugeben.
+
+### Aufgabe 1
+
+Welche Denkhandlungen verlangt die neue Variante?
+
+Lösungsvorschlag
+
+Die Variante verlangt Belegprüfung, Abwägung und eine begründete Entscheidung in einer bestimmten Situation.
+
+### Aufgabe 2
+
+Welche Materialien und Kriterien fehlen noch?
+
+Lösungsvorschlag
+
+Benötigt werden geprüfte Quellen, klare Rahmenbedingungen und Kriterien für die Empfehlung, etwa Standort, Bedarf und verfügbare Angaben.
+
+### Aufgabe 3
+
+Wie lässt sich ein eigener Nachweis knapp gestalten?
+
+Lösungsvorschlag
+
+Ein kurzer Nachweis nennt die gewählte Option, eine passende Fundstelle, eine Grenze und eine Bedingung, unter der die Entscheidung anders ausfallen könnte.
+
+## Unterstützung
+
+Begrenze den Auftrag auf zwei Optionen und wenige gut lesbare Quellen.
+
+## Weiterdenken
+
+Vergleiche zwei Transformator-Varianten und entscheide, welche das ursprüngliche Lernziel besser sichtbar macht.
+
+### Woran erkenne ich eine bloss sprachliche Änderung?
+
+Wenn die Lernenden weiterhin denselben ungeprüften Text liefern können, lohnt sich ein genauerer Blick auf den verlangten Nachweis.
+
+### Wie bleibt der Auftrag machbar?
+
+Wähle einen zentralen Denkprozess und ersetze einen bisherigen Arbeitsschritt durch den neuen Nachweis.

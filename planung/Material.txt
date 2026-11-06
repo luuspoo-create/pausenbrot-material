@@ -71,3 +71,58 @@ Nächster Schritt bei Verständnis / bei Lücke: […]
 Nimm nach der Lektion nur eine Abweichung genauer unter die Lupe. Passe die Stelle an, an der Vorwissen oder Hilfe falsch eingeschätzt wurde.
 
 **Woran du die Qualität erkennst:** Jede Phase hat eine erkennbare Funktion, und der Abschluss entscheidet nachvollziehbar über die Weiterarbeit.
+
+
+## Den Einsatz durchdenken
+
+Ein Plan wird vom erwarteten Lernnachweis rückwärts gelesen. Welche Aufgabe macht das Können sichtbar, welche Vorbereitung ermöglicht sie und welche Hilfe wird an der anspruchsvollsten Stelle gebraucht? Diese Verbindung hilft, einen formal vollständigen Entwurf an die tatsächliche Lerngruppe anzupassen. Nach der Lektion wird die nächste Entscheidung an den beobachteten Lösungen ausgerichtet.
+
+## Vorbereiten
+
+Formuliere eine Zielkompetenz mit einer konkreten Denkhandlung.
+
+Bereite eine kurze Einstiegsaufgabe zur wichtigsten Voraussetzung vor.
+
+## Fiktiver Übungsfall
+
+Fiktiver KI-Plan. Die Klasse soll Brüche vergleichen. Der Entwurf beginnt sofort mit unterschiedlichen Nennern und endet mit einer Selbsteinschätzung. Im Einstieg zeigt sich, dass einige Lernende gleich grosse Ganze noch nicht sicher vergleichen.
+
+### Aufgabe 1
+
+Welche Voraussetzung muss zuerst geklärt werden?
+
+Lösungsvorschlag
+
+Geklärt werden muss, dass sich die verglichenen Brüche auf gleich grosse Ganze beziehen und wie Zähler und Nenner die Teile beschreiben.
+
+### Aufgabe 2
+
+Plane eine passende Unterstützung und eine Weiterarbeit.
+
+Lösungsvorschlag
+
+Ein Streifenmodell mit gleich langen Ganzen unterstützt den Vergleich. Sichere Lernende begründen einen Vergleich mit unterschiedlichen Darstellungen.
+
+### Aufgabe 3
+
+Erstelle einen fachlich passenden Abschlussnachweis.
+
+Lösungsvorschlag
+
+Ein geeigneter Nachweis lässt 3/4 und 2/3 vergleichen und die Wahl zeichnerisch oder rechnerisch begründen. 3/4 = 9/12 ist grösser als 2/3 = 8/12.
+
+## Unterstützung
+
+Begrenze den ersten Entwurf auf ein Lernziel und eine dazu passende Abschlussaufgabe.
+
+## Weiterdenken
+
+Plane zwei mögliche nächste Lektionseinstiege abhängig von den tatsächlich sichtbaren Hürden.
+
+### Woran erkenne ich einen brauchbaren Abschluss?
+
+Die Aufgabe verlangt genau das angekündigte Können und ermöglicht eine konkrete Entscheidung für die Weiterarbeit.
+
+### Was wird nach dem Einsatz dokumentiert?
+
+Halte eine beobachtete Hürde, eine gelungene Unterstützung und die daraus folgende Anpassung fest.

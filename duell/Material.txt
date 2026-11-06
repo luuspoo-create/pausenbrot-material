@@ -77,3 +77,58 @@ Danach ändern wir […]
 Übertrage das Modell auf eine andere Klasse oder Woche. Welche Faktoren bleiben gleich, welche müssen neu erhoben werden?
 
 **Woran du die Qualität erkennst:** Die Gruppe kann erklären, wodurch ihre Spanne entsteht und welche zusätzliche Information sie am stärksten verbessern würde.
+
+
+## Den Einsatz durchdenken
+
+Eine Fermi-Schätzung wird durch ihr Modell nachvollziehbar. Die Zahl am Ende hängt von den gewählten Annahmen ab. Eine Spannweite zeigt, welche Unsicherheit im Modell steckt. Beim Vergleich mit einer KI werden deshalb Zerlegung, Einheiten und empfindliche Annahmen untersucht. Eine lokale Messung kann anschliessend genau die Annahme verbessern, die den grössten Einfluss hat.
+
+## Vorbereiten
+
+Wähle eine lokal überprüfbare Frage und lege fest, welche Grössen gemessen oder erfragt werden können.
+
+Bereite ein Annahmenblatt mit Grösse, Wert, Einheit und Begründung vor.
+
+## Fiktiver Übungsfall
+
+Fiktive Frage zum Papierverbrauch. Für eine Schule werden 300 Lernende, 190 Schultage und durchschnittlich 2 bis 4 ausgegebene A4-Blätter pro Person und Tag angenommen. Büro- und Kopierfehler sind in diesem ersten Modell noch offen.
+
+### Aufgabe 1
+
+Berechne die Spannweite und einen mittleren Modellwert.
+
+Lösungsvorschlag
+
+Die Spannweite beträgt 300 × 190 × 2 = 114’000 bis 300 × 190 × 4 = 228’000 Blätter. Mit drei Blättern ergibt sich 171’000. Alle Werte gelten nur unter den genannten Annahmen.
+
+### Aufgabe 2
+
+Welche Annahme würdest du zuerst lokal prüfen?
+
+Lösungsvorschlag
+
+Die durchschnittliche Ausgabe pro Person und Tag ist hier besonders unsicher. Eine begrenzte Stichprobe über verschiedene Unterrichtstage kann diese Annahme verbessern.
+
+### Aufgabe 3
+
+Erkläre, wie das Modell um weitere Papierquellen ergänzt werden könnte.
+
+Lösungsvorschlag
+
+Zusätzliche Kategorien wie Bürobedarf oder Fehlkopien werden getrennt geschätzt und begründet addiert. Dabei muss vermieden werden, dieselben Blätter zweimal zu zählen.
+
+## Unterstützung
+
+Gib Anzahl Personen und Schultage vor. Lass zunächst nur die tägliche Ausgabe schätzen und eine Rechnung erklären.
+
+## Weiterdenken
+
+Vergleiche die Schätzung mit einem bereitgestellten Jahresverbrauch. Erkläre die Abweichung anhand konkreter Modellannahmen.
+
+### Welche Schätzung gewinnt?
+
+Vereinbare Kriterien für nachvollziehbare Annahmen, korrekte Einheiten und eine begründete Überarbeitung nach der Prüfung.
+
+### Was tun bei sehr verschiedenen Ergebnissen?
+
+Lege die Modelle nebeneinander und suche die erste Annahme, in der sie auseinandergehen. Prüfe genau diese Stelle mit verfügbaren Informationen.

@@ -77,3 +77,58 @@ Präzisierung des Rasters: […]
 Lass das verbesserte Raster an einer weiteren Antwort erproben. Erst dort zeigt sich, ob die neue Beschreibung wirklich eindeutiger ist.
 
 **Woran du die Qualität erkennst:** Zwei Teams können ihre Urteile anhand derselben Kriterien diskutieren und erklären, welche Antwortstelle welche Leistung zeigt.
+
+
+## Den Einsatz durchdenken
+
+Beim Entwickeln von Prüfungsaufgaben werden Lernziel, Erwartung und Bewertung gemeinsam geprüft. Eine Antwort kann fachlich richtig sein und dennoch eine verlangte Begründung auslassen. Umgekehrt kann eine andere Formulierung dieselbe korrekte Idee ausdrücken. Der Abgleich zwischen zwei bewertenden Teams zeigt, welche Kriterien noch präzisiert werden müssen.
+
+## Vorbereiten
+
+Formuliere eine Aufgabe mit einer vorab geprüften Musterlösung.
+
+Lege die Punkte und mögliche gleichwertige Lösungswege vor der KI-Antwort fest.
+
+## Fiktiver Übungsfall
+
+Fiktive Aufgabe. «Ein Rechteck ist 4 cm breit und 7 cm lang. Berechne den Umfang und erkläre deinen Weg.» Die Antwort lautet «28 cm, weil 4 mal 7 gleich 28 ist». Das Raster umfasst Rechnung, Einheit und Erklärung.
+
+### Aufgabe 1
+
+Prüfe die Antwort fachlich.
+
+Lösungsvorschlag
+
+Die Antwort berechnet den Zahlenwert der Fläche. Der Umfang beträgt 2 · (4 + 7) = 22 cm. Für den Umfang werden alle vier Seitenlängen addiert.
+
+### Aufgabe 2
+
+Formuliere drei klare Kriterien mit insgesamt drei Punkten.
+
+Lösungsvorschlag
+
+Je ein Punkt kann für einen korrekten Umfangsansatz, das richtige Ergebnis mit Einheit und eine passende Erklärung vergeben werden. Vorab wird geklärt, wie Folgefehler behandelt werden.
+
+### Aufgabe 3
+
+Beschreibe einen Abgleich zwischen zwei Teams.
+
+Lösungsvorschlag
+
+Beide Teams bewerten zuerst unabhängig nach demselben Raster und begründen jede Zuordnung an einer Antwortstelle. Abweichungen führen zu einer Präzisierung des Rasters.
+
+## Unterstützung
+
+Beginne mit einer einzelnen kurzen Aufgabe und zwei vorbereiteten Antworten.
+
+## Weiterdenken
+
+Ergänze einen korrekten alternativen Rechenweg und prüfe, ob das Raster ihn fair erfasst.
+
+### Wann wird das Raster verändert?
+
+Unklare Formulierungen werden transparent geklärt. Bei einer realen Bewertung muss der Umgang mit Änderungen dem vereinbarten schulischen Verfahren entsprechen.
+
+### Wozu dienen absichtlich fehlerhafte KI-Antworten?
+
+Sie sind gekennzeichnetes Übungsmaterial für die Kriterienprüfung. Ihre Fehler werden vor dem Einsatz fachlich kontrolliert.

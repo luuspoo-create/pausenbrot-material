@@ -68,3 +68,58 @@ Testfall, bei dem der Standard nicht passt: […]
 Ändere nach einem Test nur die Vorgabe, die den Fehler erklärt. So siehst du, ob die Präzisierung hilft oder neue Probleme erzeugt.
 
 **Woran du die Qualität erkennst:** Du kannst an zwei verschiedenen Aufgaben erkennen, welche Vorgaben berücksichtigt wurden und wo ein Einzelauftrag bewusst Vorrang hatte.
+
+
+## Den Einsatz durchdenken
+
+Eine dauerhafte Anweisung bündelt wiederkehrende Anforderungen. Ihre Qualität zeigt sich an mehreren typischen Ergebnissen. Eine Regel zu Unsicherheit oder Quellen muss deshalb an passenden Testfragen überprüft werden. Notiere, welche Vorgabe tatsächlich berücksichtigt wurde und wo eine klarere Formulierung nötig ist. So entsteht eine kleine, überprüfbare Arbeitsgrundlage für spätere Aufträge.
+
+## Vorbereiten
+
+Wähle drei Regeln, die regelmässig gebraucht werden, und formuliere sie möglichst konkret.
+
+Bereite zwei gewöhnliche Aufträge und einen Fall mit fehlenden Angaben vor.
+
+## Fiktiver Übungsfall
+
+Fiktiver Test. Die Anweisung verlangt kurze Antworten, Schweizer Rechtschreibung und Rückfragen bei fehlender Stufe. Ein Auftrag lautet nur, ein Arbeitsblatt zu Brüchen zu erstellen. Das Modell liefert trotzdem sofort ein langes Blatt und erfindet die Klassenstufe.
+
+### Aufgabe 1
+
+Welche Regeln wurden in diesem Ergebnis verletzt?
+
+Lösungsvorschlag
+
+Die Länge und die fehlende Rückfrage sind konkret prüfbar. Für die Rechtschreibung werden tatsächlich enthaltene Wörter kontrolliert. Eine Beurteilung braucht jeweils eine Textstelle.
+
+### Aufgabe 2
+
+Formuliere die Rückfrageregel überprüfbarer.
+
+Lösungsvorschlag
+
+Eine präzisere Regel verlangt, vor Materialaufträgen Thema, Lernziel und erforderliche Voraussetzungen zu klären und fehlende Angaben zuerst einzeln zu erfragen.
+
+### Aufgabe 3
+
+Wie würdest du die Änderung testen?
+
+Lösungsvorschlag
+
+Nutze einen frischen Auftrag mit einer anderen fehlenden Angabe. Vergleiche das Verhalten mit dem vorherigen Test und prüfe anschliessend einen vollständigen Auftrag.
+
+## Unterstützung
+
+Beginne mit wenigen Regeln. Füge erst dann eine weitere hinzu, wenn du ihren Nutzen an einem konkreten Ergebnis zeigen kannst.
+
+## Weiterdenken
+
+Prüfe zwei scheinbar widersprüchliche Vorgaben, etwa sehr kurz und ausführlich begründen. Lege fest, wann welche Priorität gilt.
+
+### Soll jede Information in die persönliche Anweisung?
+
+Wähle dort die wiederkehrenden Anforderungen. Klassenbezogener Kontext und einzelne Aufträge lassen sich in den dafür vorgesehenen Bereichen gezielter pflegen.
+
+### Wie erkenne ich eine hilfreiche Änderung?
+
+Sie verbessert ein zuvor beobachtetes Problem auch bei einem neuen Auftrag. Dokumentiere dafür ein kleines Vorher-nachher-Beispiel.

@@ -73,3 +73,58 @@ Wiederholungsfrage mit geprüfter Lösung: […]
 Lass Lernende eine Beziehung aus dem Tafelbild ohne Bild erklären und anschliessend am Original prüfen.
 
 **Woran du die Qualität erkennst:** Die neue Aufgabe bewahrt die entscheidenden Beziehungen des Tafelbilds und verlangt mehr als das Wiedererkennen der Beschriftungen.
+
+
+## Den Einsatz durchdenken
+
+Bei der Übertragung eines Tafelbilds werden räumliche Beziehungen ausdrücklich beschrieben. Pfeile, Gruppen, Beispiele und offene Stellen können für den fachlichen Sinn entscheidend sein. Erst nach dem Abgleich wird daraus eine Folgeaufgabe entwickelt. Diese Aufgabe greift einen tatsächlich behandelten Zusammenhang auf und enthält eine geprüfte Erwartungsantwort.
+
+## Vorbereiten
+
+Nutze eine Aufnahme ohne personenbezogene Details und prüfe ihre Lesbarkeit.
+
+Halte eine eigene kurze Erklärung der wichtigsten Beziehungen bereit.
+
+## Fiktiver Übungsfall
+
+Fiktives Tafelbild. Links stehen Ursachen, rechts Folgen. Ein Pfeil verbindet nur eine bestimmte Ursache mit einer bestimmten Folge. Die KI schreibt alle Begriffe korrekt ab, ordnet aber jede Ursache jeder Folge zu.
+
+### Aufgabe 1
+
+Welcher Informationsverlust ist trotz korrekter Wörter entstanden?
+
+Lösungsvorschlag
+
+Die Zuordnung der Beziehungen wurde verändert. Dadurch entsteht eine andere fachliche Aussage als auf der Tafel.
+
+### Aufgabe 2
+
+Wie sollte die Abschrift ergänzt werden?
+
+Lösungsvorschlag
+
+Die Abschrift nennt die konkreten verbundenen Begriffe und beschreibt Richtung sowie Bedeutung jedes relevanten Pfeils.
+
+### Aufgabe 3
+
+Welche Folgeaufgabe passt zum geprüften Bild?
+
+Lösungsvorschlag
+
+Eine passende Aufgabe lässt eine der behandelten Beziehungen erklären und eine begründete Vorhersage für eine veränderte Bedingung formulieren.
+
+## Unterstützung
+
+Beginne mit einem Ausschnitt und nur zwei eindeutig beschrifteten Verbindungen.
+
+## Weiterdenken
+
+Prüfe, welche bewusst offene Stelle als Lernauftrag erhalten bleiben soll und wo die KI vorschnell ergänzt.
+
+### Was wird zuerst kontrolliert?
+
+Wörter, Zahlen, Gruppierungen und Beziehungen werden mit dem tatsächlichen Tafelbild abgeglichen.
+
+### Wie wird die Folgeaufgabe geprüft?
+
+Vergleiche ihren Anspruch und ihre Musterlösung mit dem behandelten Inhalt und dem vorgesehenen Lernziel.

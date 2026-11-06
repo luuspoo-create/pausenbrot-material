@@ -79,3 +79,58 @@ Vergleicht die Hilfe mit einer vorbereiteten analogen Variante. Welche Unterstü
 ## Einordnung und Quellen
 
 Die Grundidee und Kernregeln stammen aus Joscha Falcks Konzept. Der Autor benennt selbst offene Wirkungsfragen und Grenzen von Systemprompts. Die Test- und Zuständigkeitskarte hier ist eine ergänzende Ausarbeitung. [KI-Lernbegleitung als Schulentwicklungsaufgabe](https://joschafalck.de/ki-lernbegleitung/).
+
+
+## Den Einsatz durchdenken
+
+Eine gemeinsame Lernbegleitung braucht einen gepflegten Regelkern, klar abgegrenzte Fachinhalte und nachvollziehbare Zuständigkeiten. Änderungen werden an bekannten Testfällen überprüft. Dabei wird beobachtet, welche Antworten tatsächlich entstehen und wann eine Lehrperson übernehmen muss. Eine gemeinsam dokumentierte Version erleichtert den Austausch über Fehler und sinnvolle Verbesserungen.
+
+## Vorbereiten
+
+Vereinbart eine begrenzte Aufgabe für den gemeinsamen Assistenten und benennt die verantwortliche Pflege.
+
+Stellt fachlich geprüfte Beispiele und typische schwierige Dialogverläufe zusammen.
+
+## Fiktiver Übungsfall
+
+Fiktiver Schulfall. Zwei Fachgruppen nutzen denselben Lernassistenten. Eine ergänzt in ihr Fachmodul die Anweisung, bei Zeitdruck immer die vollständige Lösung auszugeben. Die andere geht weiterhin von einer schrittweisen Hilfestellung aus.
+
+### Aufgabe 1
+
+Welche Ebenen des gemeinsamen Systems geraten hier in Konflikt?
+
+Lösungsvorschlag
+
+Die fachliche Ergänzung verändert den gemeinsamen Hilferahmen. Dadurch entstehen unterschiedliche Erwartungen an denselben Assistenten.
+
+### Aufgabe 2
+
+Wie würdet ihr die Änderung prüfen und klären?
+
+Lösungsvorschlag
+
+Die Änderung wird an typischen Testdialogen sichtbar gemacht und im zuständigen Team entschieden. Fachinhalte und gemeinsame Verhaltensregeln werden klar zugeordnet.
+
+### Aufgabe 3
+
+Welche Angaben gehören in ein kurzes Versionsprotokoll?
+
+Lösungsvorschlag
+
+Ein Versionsprotokoll nennt Zweck, Änderung, verantwortliche Person, verwendete Testfälle, beobachtete Ergebnisse und die Entscheidung über den Einsatz.
+
+## Unterstützung
+
+Startet mit einem einzigen klaren Lernzweck und wenigen Fachinhalten, die gemeinsam geprüft werden können.
+
+## Weiterdenken
+
+Ergänzt einen Testfall mit einer fachlich falschen Lernendenantwort und einen mit hartnäckiger Forderung nach einer fertigen Lösung.
+
+### Wer sollte Änderungen vornehmen?
+
+Die Zuständigkeit wird im Team vereinbart. Entscheidend ist, dass Änderungen nachvollziehbar geprüft und für die Nutzenden erkennbar dokumentiert werden.
+
+### Wie werden Rückmeldungen aus dem Unterricht genutzt?
+
+Sammelt konkrete unkritische Beispiele, ordnet sie einem Kriterium zu und prüft eine gezielte Änderung an denselben und neuen Testfällen.

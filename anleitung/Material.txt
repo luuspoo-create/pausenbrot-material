@@ -69,3 +69,58 @@ Wiederhole denselben Prüfschritt später in einem anderen Fachkontext. Die Meth
 ## Einordnung und Quellen
 
 Das SKBF-Monitoring beschreibt berichtete Nutzung und Erfahrungen. Nutzungsanteile sind keine Messung von Lerngewinn oder Prüfkompetenz. [SKBF Staff Paper 28: Erhebungen 2020–2026](https://www.skbf-csre.ch/fileadmin/files/pdf/staffpaper/Staffpaper_28_d.pdf). Die angeleitete Prüfroutine ist eine eigene praktische Ausarbeitung.
+
+
+## Den Einsatz durchdenken
+
+Nutzungszahlen geben Anlass, schulische Lerngelegenheiten zu prüfen. Für die Planung brauchst du zusätzlich eine Beobachtung, welche Teilkompetenz aufgebaut werden soll. Ein angeleiteter Durchgang kann zeigen, wie eine Behauptung herausgelöst, eine Quelle geöffnet und eine begründete Entscheidung getroffen wird. Das SKBF-Monitoring liefert den Hintergrund zur Verbreitung, die konkrete Unterrichtsroutine wird am eigenen Lernziel ausgerichtet.
+
+## Vorbereiten
+
+Wähle eine kurze geprüfte KI-Ausgabe und eine zugängliche Fachquelle.
+
+Bestimme vor der Demonstration die drei Prüfschritte, die Lernende anschliessend selbst wiederholen sollen.
+
+## Fiktiver Übungsfall
+
+Fiktive Planung. Eine Lehrperson zeigt der Klasse eine Antwort über den Wasserkreislauf. Ein Satz behauptet, Wolken bestünden ausschliesslich aus unsichtbarem Wasserdampf. Der Rest klingt plausibel. Bisher wurde hauptsächlich gezeigt, wie eine Frage in den Chat eingegeben wird.
+
+### Aufgabe 1
+
+Beschreibe den fachlichen Prüfschritt, den du sichtbar vormachen würdest.
+
+Lösungsvorschlag
+
+Die Lehrperson markiert die konkrete Behauptung und öffnet eine passende Fachquelle. Sie erklärt, dass sichtbare Wolken kleine Wassertröpfchen oder Eiskristalle enthalten, und benennt die Fundstelle.
+
+### Aufgabe 2
+
+Welche eigene Handlung sollen die Lernenden danach ausführen?
+
+Lösungsvorschlag
+
+Die Lernenden prüfen eine weitere vorbereitete Aussage mit einer Quelle, notieren ihr Urteil und begründen eine gegebenenfalls nötige Korrektur.
+
+### Aufgabe 3
+
+Woran würdest du erkennen, ob die Anleitung angekommen ist?
+
+Lösungsvorschlag
+
+Ein beobachtbarer Nachweis enthält die Behauptung, eine passende Fundstelle und eine eigene begründete Entscheidung. Die technische Bedienung allein deckt diese Schritte noch nicht ab.
+
+## Unterstützung
+
+Gib eine kurze Quellenauswahl und die genaue zu prüfende Aussage vor. Lass die Fundstelle zunächst markieren.
+
+## Weiterdenken
+
+Lass Lernende eine scheinbar passende Quelle untersuchen, die zwar das Thema behandelt, aber die konkrete Behauptung offenlässt.
+
+### Welche Zahl aus dem Monitoring ist für die Planung entscheidend?
+
+Wähle die Zahl passend zu deiner Frage und lies Bezugsgruppe und Fragestellung mit. Plane den Unterricht anschliessend anhand einer konkret beobachtbaren Kompetenz.
+
+### Wie wird die Anleitung wiederholbar?
+
+Verwende dieselben Prüfschritte an wechselnden fachlichen Aussagen und reduziere die bereitgestellten Hilfen schrittweise.

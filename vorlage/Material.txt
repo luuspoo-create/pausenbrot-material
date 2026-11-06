@@ -69,3 +69,58 @@ Wenn das Ziel sitzt, folgt […]
 Vergleiche die nächste kurze Anwendung mit dem Ticket. So erkennst du, ob die gewählte Nacharbeit an der richtigen Hürde angesetzt hat.
 
 **Woran du die Qualität erkennst:** Du kannst aus typischen Antworten eine konkrete nächste Unterrichtsentscheidung ableiten und diese fachlich begründen.
+
+
+## Den Einsatz durchdenken
+
+Eine gespeicherte Exit-Ticket-Anleitung braucht mehr als eine feste Anzahl Fragen. Für jede Frage wird beschrieben, welches Können sie zeigt und welche nächste Entscheidung aus typischen Antworten folgt. Die Vorlage fragt fehlende Zielangaben nach und erzeugt eine fachlich geprüfte Erwartungsantwort. So bleibt der wiederkehrende Ablauf anpassbar und praktisch auswertbar.
+
+## Vorbereiten
+
+Nenne das konkrete Lernziel und einen typischen Denkfehler.
+
+Lege für jede Frage einen erwarteten Nachweis und eine Folgeentscheidung fest.
+
+## Fiktiver Übungsfall
+
+Fiktives Exit-Ticket zum Umfang. Frage eins verlangt die Definition, Frage zwei den Umfang eines 3 × 5 cm grossen Rechtecks, Frage drei die Erklärung, weshalb 15 cm als Umfang falsch ist.
+
+### Aufgabe 1
+
+Formuliere die Erwartungsantworten.
+
+Lösungsvorschlag
+
+Der Umfang beschreibt die gesamte Randlänge. Das Rechteck hat 2 · (3 + 5) = 16 cm Umfang. 15 entsteht aus dem Produkt der Seiten und gehört zum Flächeninhalt von 15 cm².
+
+### Aufgabe 2
+
+Welche unterschiedlichen Hürden können sichtbar werden?
+
+Lösungsvorschlag
+
+Sichtbar werden können ein unklarer Begriff, ein Rechenfehler oder eine Verwechslung von Rand und Fläche.
+
+### Aufgabe 3
+
+Plane eine passende Folgeentscheidung.
+
+Lösungsvorschlag
+
+Bei der Verwechslung wird zuerst Rand mit einer Schnur und Fläche mit Einheitsquadraten dargestellt. Bei einem isolierten Rechenfehler genügt eine andere gezielte Übung.
+
+## Unterstützung
+
+Beginne mit zwei kurzen Fragen und einer klaren Auswertungsentscheidung.
+
+## Weiterdenken
+
+Prüfe, ob ein falsches Ergebnis unterschiedliche Ursachen haben kann und welche kurze Nachfrage sie unterscheidet.
+
+### Was wird in der Vorlage gespeichert?
+
+Der wiederkehrende Ablauf mit Zielklärung, Aufgaben, Erwartungsantworten und Konsequenzen.
+
+### Was muss bei jedem Einsatz neu hinein?
+
+Das aktuelle Lernziel, die behandelte Grundlage und relevante bekannte Hürden.

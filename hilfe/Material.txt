@@ -66,3 +66,58 @@ Danach erklärt das Kind selbst […]
 Beim nächsten ähnlichen Auftrag zuerst fragen, welche Hilfe damals nützlich war. So wird aus fremder Hilfe eine eigene Lernstrategie.
 
 **Woran du die Qualität erkennst:** Das Kind kann die Hilfe in eigenen Worten wiedergeben und einen passenden Schritt selbst versuchen, auch wenn noch nicht alles gelingt.
+
+
+## Den Einsatz durchdenken
+
+Hausaufgabenhilfe kann an einer konkret benannten Hürde ansetzen und den nächsten eigenen Schritt ermöglichen. Die erwachsene Begleitung prüft, ob der Hinweis fachlich stimmt und zur im Unterricht verwendeten Darstellung passt. Eine kurze anschliessende Erklärung zeigt, was das Kind aus der Hilfe gemacht hat. Bei anhaltender Unsicherheit wird eine präzise Frage für die Lehrperson festgehalten.
+
+## Vorbereiten
+
+Lass den bisherigen Versuch zeigen und frage nach der ersten unklaren Stelle.
+
+Wähle aus der Sammlung eine passende Hilfe und prüfe sie vor der Weitergabe selbst.
+
+## Fiktiver Übungsfall
+
+Fiktive Aufgabe. Ein Kind soll 84 durch 4 teilen. Es kennt 80 durch 4, stockt aber beim Rest. Ein Bot liefert sofort das vollständige Ergebnis mit einer langen zusätzlichen Erklärung.
+
+### Aufgabe 1
+
+Welcher kleinere Hinweis könnte hier ausreichen?
+
+Lösungsvorschlag
+
+Ein passender Hinweis zerlegt 84 in 80 und 4 und fragt, wie beide Teile durch 4 geteilt werden können.
+
+### Aufgabe 2
+
+Wie würdest du den eigenen nächsten Schritt anregen?
+
+Lösungsvorschlag
+
+Das Kind berechnet 80 : 4 = 20 und 4 : 4 = 1 und setzt die Teilergebnisse zu 21 zusammen. Es erklärt die Zerlegung selbst.
+
+### Aufgabe 3
+
+Welche kurze neue Aufgabe prüft denselben Gedanken?
+
+Lösungsvorschlag
+
+Eine passende neue Aufgabe ist 96 : 4. Die Zerlegung in 80 und 16 führt zu 20 + 4 = 24.
+
+## Unterstützung
+
+Nutze Gegenstände oder eine Zeichnung mit vier gleichen Gruppen. Lass das Kind den Schritt mündlich erläutern.
+
+## Weiterdenken
+
+Bitte das Kind, eine eigene gut zerlegbare Divisionsaufgabe zu erfinden und den gewählten Ansatz zu erklären.
+
+### Was tun, wenn die Hilfe anders als im Unterricht vorgeht?
+
+Kläre die bekannte Darstellung und nutze eine dazu passende Erklärung. Eine offene Frage kann für die Lehrperson notiert werden.
+
+### Wann sollte die gemeinsame Übung enden?
+
+Wenn die vereinbarte kleine Aufgabe bearbeitet wurde oder weiteres Probieren keine Orientierung mehr schafft. Halte dann die konkrete Hürde für die nächste Unterstützung fest.

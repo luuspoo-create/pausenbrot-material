@@ -3,7 +3,7 @@ Zeig mir, wie du entschieden hast.
 ### Der Artikel
 Tiroler Tageszeitung, 5.9.2026, zu den Plänen von Bildungsminister Christoph Wiederkehr:
 https://www.tt.com/artikel/30941607/wiederkehr-wegen-ki-fuer-neue-leistungsbeurteilung-an-schulen
-Kurz: Österreichs Bildungsminister sieht Anpassungsbedarf bei der Leistungsbeurteilungsverordnung. Schulen sollen flexibler und autonomer beurteilen können. Noch sind es erste Ideen. Eine neue KI-Strategie des Bildungsministeriums ist für den 6. November angekündigt.
+Kurz: Österreichs Bildungsminister sieht Anpassungsbedarf bei der Leistungsbeurteilungsverordnung. Schulen sollen flexibler und autonomer beurteilen können. Der verlinkte Bericht vom 5. September 2026 beschreibt erste Überlegungen und kündigte eine KI-Strategie für den 6. November 2026 an. Der Bericht wird hier als damaliger Anlass eingeordnet. Aktuelle pädagogische Hinweise veröffentlicht das Bildungsministerium unter https://www.bmb.gv.at/Themen/schule/zrp/ki/faq.html.
 
 ### Drei Beurteilungsformen, bei denen das Denken sichtbar wird
 1. Prozess-Portfolio: Entwurf, Notizen, Überarbeitung und eine kurze Reflexion werden mitbewertet, nicht nur das Endprodukt. Mit KI-Deklaration: Wofür wurde KI genutzt?
@@ -65,3 +65,58 @@ Vorgehen bei einem Grenzfall: […]
 Vergleiche zwei mögliche Beurteilungsformen für dasselbe Ziel. Welche zeigt das Können mit weniger fachfremden Hürden?
 
 **Woran du die Qualität erkennst:** Die Bewertung lässt sich auf angekündigte fachliche Kriterien zurückführen und nicht bloss auf die Wirkung des fertigen Auftritts.
+
+
+## Den Einsatz durchdenken
+
+Eine Beurteilungsform wird vom angestrebten Können her ausgewählt. Die erwartete Leistung und ihre Kriterien sollten vor dem Auftrag verständlich sein. Prozessspuren, mündliche Erklärung und Produkt können sich ergänzen, wenn ihr jeweiliger Beitrag geklärt ist. Zugänglichkeit, vergleichbare Bedingungen und die geltenden schulischen Vorgaben werden bei der Umsetzung berücksichtigt.
+
+## Vorbereiten
+
+Formuliere eine fachliche Zielkompetenz und zwei beobachtbare Kriterien.
+
+Lege erlaubte Hilfen und eine für alle nachvollziehbare Rückfrage fest.
+
+## Fiktiver Übungsfall
+
+Fiktiver Auftrag. Lernende sollen eine begründete Empfehlung zu zwei Schulhofvarianten abgeben. Eine Gruppe präsentiert sehr sicher, nennt aber kaum Belege. Eine andere spricht stockend und erklärt ihre Auswahl mit passenden Daten.
+
+### Aufgabe 1
+
+Trenne die Zielkompetenz von zusätzlichen Präsentationsmerkmalen.
+
+Lösungsvorschlag
+
+Beim Ziel einer datenbasierten Empfehlung zählen Auswahl, Beleg und Abwägung. Redefluss wird nur einbezogen, wenn er ausdrücklich Teil des angekündigten Lernziels und der Kriterien ist.
+
+### Aufgabe 2
+
+Formuliere zwei Kriterien für die fachliche Begründung.
+
+Lösungsvorschlag
+
+Ein Kriterium verlangt eine passende Datenstelle für die Auswahl. Ein zweites verlangt eine nachvollziehbare Abwägung einer Stärke und einer Grenze.
+
+### Aufgabe 3
+
+Welche Rückfrage würde eine begründete Weiterentscheidung sichtbar machen?
+
+Lösungsvorschlag
+
+Eine geeignete Rückfrage verändert eine Bedingung, etwa das verfügbare Budget, und lässt erläutern, ob und weshalb die Empfehlung angepasst würde.
+
+## Unterstützung
+
+Prüfe das Raster zuerst an zwei erfundenen Antworten und bespreche die Zuordnung im Team.
+
+## Weiterdenken
+
+Untersuche, ob dieselbe Kompetenz mit einer schriftlichen oder zeichnerischen Erklärung ebenfalls sichtbar wird.
+
+### Wann werden Kriterien festgelegt?
+
+Vor dem Auftrag und vor der Bewertung. Beispiele helfen, die erwartete Leistung gemeinsam zu verstehen.
+
+### Wie nutze ich den politischen Anlass aus dem Reel?
+
+Als Gesprächsanlass über passende Beurteilungsformen. Für konkrete Entscheidungen gelten die aktuell zuständigen schulischen Vorgaben.
